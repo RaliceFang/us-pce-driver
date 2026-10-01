@@ -2,6 +2,8 @@
 
 參考 [US CPI Driver](https://github.com/JasonShin1996/us-cpi-driver) 的 Python 資料流程、静態儀表板及發布檢查架構，重新建立適用於 BEA PCE 的計算。主圖使用 **BEA 官方價格貢獻度**，細項表提供 **73 個產品的 Fisher 重建估算**。本專案是獨立新專案，未修改原 CPI 專案。
 
+**公開網站：<https://ralicefang.github.io/us-pce-driver/>**
+
 ## 使用
 
 ```bash
@@ -97,7 +99,7 @@ web/data/                 可直接預覽的真實資料、CSV 與驗證記錄
 
 ## 自動更新與發布
 
-本機專案已備妥工作流程，尚未建立遠端 GitHub repository 或發布網站。將此資料夾放入以 `main` 為主分支的 repository，GitHub → Settings → Pages → Source 選 **GitHub Actions**，即可發布 `web/`。
+專案已上傳至 <https://github.com/RaliceFang/us-pce-driver>，主分支為 `main`，GitHub Pages 使用 **GitHub Actions** 發布 `web/`。之後上傳網頁修改會自動更新公開網站。
 
 平日 15:30 UTC（台灣 23:30）下載最新兩份 BEA 檔，完整重算歷史。通過測試與檢查後才提交有變更的資料，再直接呼叫發布流程；避免 `GITHUB_TOKEN` 的 push 不會觸發另一個流程的問題。來源指紋未變時不因執行時間產生每日空更新。手動更新：Actions → Update PCE data → Run workflow。
 

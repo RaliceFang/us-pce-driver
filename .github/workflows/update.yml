@@ -1,0 +1,49 @@
+name: Update PCE data
+on:
+  schedule:
+    # 15:30 UTC is after 08:30 ET in both summer and winter.
+    - cron: '30 15 * * 1-5'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pce-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: python pce_contrib.py
+      - run: python checks.py
+      - id: commit
+        shell: bash
+        run: |
+          # Ignore generated timestamp changes when BEA's two vintages are identical.
+          python -c 'import json,subprocess; from pathlib import Path; p=Path("web/data/pce_data.json"); old=json.loads(subprocess.check_output(["git","show","HEAD:web/data/pce_data.json"])); new=json.loads(p.read_text()); new["meta"]["generated_utc"]=old["meta"]["generated_utc"]; Path("web/data/pce_data.json").write_text(json.dumps(new,ensure_ascii=False,separators=(",",":"))); Path("web/data/pce_data.js").write_text("window.PCE_DATA="+json.dumps(new,ensure_ascii=False,separators=(",",":"))+";\n")'
+          git add web/data
+          if git diff --cached --quiet; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Update BEA PCE price contributions'
+            git push origin HEAD:main
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    uses: ./.github/workflows/pages.yml

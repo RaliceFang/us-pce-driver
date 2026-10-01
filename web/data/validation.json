@@ -1,0 +1,12 @@
+{
+  "benchmark_observations": 15840,
+  "price_spending_main_table_match": true,
+  "group_spending_match": true,
+  "leaf_count": 73,
+  "coverage_min_pct": 99.99977983261223,
+  "coverage_max_pct": 100.00010721859942,
+  "max_fisher_residual_mom_pp": 0.040842721455020325,
+  "max_official_residual_mom_pp": 0.03470106839533979,
+  "max_official_residual_yoy_pp": 0.11885721365135904,
+  "max_leaf_vs_official_major_mom_pp": 0.013271602672710603
+}

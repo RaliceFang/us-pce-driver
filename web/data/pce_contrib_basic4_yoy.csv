@@ -1,0 +1,2201 @@
+﻿month,id,name,name_zh,contribution_pp,method
+1990-01,food,Food,食物,0.6008149070532776,official
+1990-01,energy,Energy,能源,0.5789196833585342,official
+1990-01,core_goods,Core goods,核心商品,0.44909276883394117,official
+1990-01,core_services,Core services,核心服務,2.536244774526372,official
+1990-01,residual,Residual,差額,-0.006039847015920863,official
+1990-02,food,Food,食物,0.6125204779972342,official
+1990-02,energy,Energy,能源,0.48522605581362366,official
+1990-02,core_goods,Core goods,核心商品,0.6859607815325698,official
+1990-02,core_services,Core services,核心服務,2.4954299492925784,official
+1990-02,residual,Residual,差額,-0.008012127229521937,official
+1990-03,food,Food,食物,0.5604338302833322,official
+1990-03,energy,Energy,能源,0.38252049035540164,official
+1990-03,core_goods,Core goods,核心商品,0.746172366282767,official
+1990-03,core_services,Core services,核心服務,2.590307355331025,official
+1990-03,residual,Residual,差額,-0.0029555571257038338,official
+1990-04,food,Food,食物,0.4457547947849585,official
+1990-04,energy,Energy,能源,0.06210689782238672,official
+1990-04,core_goods,Core goods,核心商品,0.6824827598308446,official
+1990-04,core_services,Core services,核心服務,2.622677885205917,official
+1990-04,residual,Residual,差額,-0.00877941357104195,official
+1990-05,food,Food,食物,0.40503732713254187,official
+1990-05,energy,Energy,能源,-0.039650506145427256,official
+1990-05,core_goods,Core goods,核心商品,0.6409044180638844,official
+1990-05,core_services,Core services,核心服務,2.6517492176163087,official
+1990-05,residual,Residual,差額,0.0012423728517094723,official
+1990-06,food,Food,食物,0.4673094099996511,official
+1990-06,energy,Energy,能源,0.02140050940302145,official
+1990-06,core_goods,Core goods,核心商品,0.6302588883849133,official
+1990-06,core_services,Core services,核心服務,2.7666806810648614,official
+1990-06,residual,Residual,差額,0.004654408429574097,official
+1990-07,food,Food,食物,0.478111871073287,official
+1990-07,energy,Energy,能源,0.030937538070624195,official
+1990-07,core_goods,Core goods,核心商品,0.6610132442263179,official
+1990-07,core_services,Core services,核心服務,2.7260009746079814,official
+1990-07,residual,Residual,差額,0.002368297394658825,official
+1990-08,food,Food,食物,0.5096091601990742,official
+1990-08,energy,Energy,能源,0.44179932481815326,official
+1990-08,core_goods,Core goods,核心商品,0.7213152124734626,official
+1990-08,core_services,Core services,核心服務,2.898512685762016,official
+1990-08,residual,Residual,差額,0.005382835067693215,official
+1990-09,food,Food,食物,0.5397798381775879,official
+1990-09,energy,Energy,能源,0.8236944820641038,official
+1990-09,core_goods,Core goods,核心商品,0.6929753099281175,official
+1990-09,core_services,Core services,核心服務,2.911638191478279,official
+1990-09,residual,Residual,差額,0.01680643817065164,official
+1990-10,food,Food,食物,0.5396655078780331,official
+1990-10,energy,Energy,能源,1.042085646586762,official
+1990-10,core_goods,Core goods,核心商品,0.6424593991594459,official
+1990-10,core_services,Core services,核心服務,2.9321470450889846,official
+1990-10,residual,Residual,差額,0.018411940711525077,official
+1990-11,food,Food,食物,0.5190518595219605,official
+1990-11,energy,Energy,能源,1.0907436362067477,official
+1990-11,core_goods,Core goods,核心商品,0.5906547588230219,official
+1990-11,core_services,Core services,核心服務,2.8715814996979896,official
+1990-11,residual,Residual,差額,0.006922426438857876,official
+1990-12,food,Food,食物,0.45671192332180405,official
+1990-12,energy,Energy,能源,1.0676482026396847,official
+1990-12,core_goods,Core goods,核心商品,0.6507994768812486,official
+1990-12,core_services,Core services,核心服務,2.687345344415191,official
+1990-12,residual,Residual,差額,0.010759210503685779,official
+1991-01,food,Food,食物,0.4392341980769559,official
+1991-01,energy,Energy,能源,0.6057518829095009,official
+1991-01,core_goods,Core goods,核心商品,0.7226379519409766,official
+1991-01,core_services,Core services,核心服務,2.6995761105323384,official
+1991-01,residual,Residual,差額,0.014209861151447178,official
+1991-02,food,Food,食物,0.399713659009369,official
+1991-02,energy,Energy,能源,0.41362211150975153,official
+1991-02,core_goods,Core goods,核心商品,0.6044559691214229,official
+1991-02,core_services,Core services,核心服務,2.643752869361174,official
+1991-02,residual,Residual,差額,0.014223529611805397,official
+1991-03,food,Food,食物,0.39821049243643386,official
+1991-03,energy,Energy,能源,0.276058814561347,official
+1991-03,core_goods,Core goods,核心商品,0.5739198414446157,official
+1991-03,core_services,Core services,核心服務,2.440247488692765,official
+1991-03,residual,Residual,差額,0.017964867108211102,official
+1991-04,food,Food,食物,0.4890364622952483,official
+1991-04,energy,Energy,能源,0.2340845546596345,official
+1991-04,core_goods,Core goods,核心商品,0.6355499771793702,official
+1991-04,core_services,Core services,核心服務,2.298754669777034,official
+1991-04,residual,Residual,差額,0.019231367378344633,official
+1991-05,food,Food,食物,0.4990175409006578,official
+1991-05,energy,Energy,能源,0.3351693371563501,official
+1991-05,core_goods,Core goods,核心商品,0.6555468038455051,official
+1991-05,core_services,Core services,核心服務,2.3744462809917355,official
+1991-05,residual,Residual,差額,0.008311182324166833,official
+1991-06,food,Food,食物,0.45892581273508865,official
+1991-06,energy,Energy,能源,0.241777438205266,official
+1991-06,core_goods,Core goods,核心商品,0.6017260545405696,official
+1991-06,core_services,Core services,核心服務,2.282492275658248,official
+1991-06,residual,Residual,差額,0.005218128694245205,official
+1991-07,food,Food,食物,0.33558434814653515,official
+1991-07,energy,Energy,能源,0.22015695405283173,official
+1991-07,core_goods,Core goods,核心商品,0.6437271981105211,official
+1991-07,core_services,Core services,核心服務,2.2925774301077073,official
+1991-07,residual,Residual,差額,0.005500092128842837,official
+1991-08,food,Food,食物,0.2627875399361022,official
+1991-08,energy,Energy,能源,-0.028603567625133084,official
+1991-08,core_goods,Core goods,核心商品,0.6809476504259852,official
+1991-08,core_services,Core services,核心服務,2.134677349574015,official
+1991-08,residual,Residual,差額,0.0036388445154464932,official
+1991-09,food,Food,食物,0.22112445216240798,official
+1991-09,energy,Energy,能源,-0.30611328867940124,official
+1991-09,core_goods,Core goods,核心商品,0.6789163979161498,official
+1991-09,core_services,Core services,核心服務,2.1894778797651533,official
+1991-09,residual,Residual,差額,-0.006592408831561869,official
+1991-10,food,Food,食物,0.18009389748565224,official
+1991-10,energy,Energy,能源,-0.5529491374915723,official
+1991-10,core_goods,Core goods,核心商品,0.645500320665669,official
+1991-10,core_services,Core services,核心服務,2.1223314860798213,official
+1991-10,residual,Residual,差額,-0.01218397987205977,official
+1991-11,food,Food,食物,0.19032945736434106,official
+1991-11,energy,Energy,能源,-0.5313232492445146,official
+1991-11,core_goods,Core goods,核心商品,0.726248686112206,official
+1991-11,core_services,Core services,核心服務,2.101814643279464,official
+1991-11,residual,Residual,差額,-0.008748686112200588,official
+1991-12,food,Food,食物,0.21013274263680365,official
+1991-12,energy,Energy,能源,-0.48987332841086223,official
+1991-12,core_goods,Core goods,核心商品,0.665130363442448,official
+1991-12,core_services,Core services,核心服務,2.2653940438099927,official
+1991-12,residual,Residual,差額,-0.01233932233981161,official
+1992-01,food,Food,食物,0.07956601337103812,official
+1992-01,energy,Energy,能源,-0.43060872550141394,official
+1992-01,core_goods,Core goods,核心商品,0.5540765320300113,official
+1992-01,core_services,Core services,核心服務,2.2022874609738956,official
+1992-01,residual,Residual,差額,-0.017168870654006962,official
+1992-02,food,Food,食物,0.07048555744347143,official
+1992-02,energy,Energy,能源,-0.2209743824336688,official
+1992-02,core_goods,Core goods,核心商品,0.48454744477846035,official
+1992-02,core_services,Core services,核心服務,2.2861441314860804,official
+1992-02,residual,Residual,差額,-0.02413687753235072,official
+1992-03,food,Food,食物,0.10124287417716143,official
+1992-03,energy,Energy,能源,-0.06096143480178369,official
+1992-03,core_goods,Core goods,核心商品,0.46496790317048076,official
+1992-03,core_services,Core services,核心服務,2.3508369677071594,official
+1992-03,residual,Residual,差額,-0.033525424282513594,official
+1992-04,food,Food,食物,0.030622839626948402,official
+1992-04,energy,Energy,能源,-0.010659851301115212,official
+1992-04,core_goods,Core goods,核心商品,0.44585306202308744,official
+1992-04,core_services,Core services,核心服務,2.4825454901193504,official
+1992-04,residual,Residual,差額,-0.03471124372269774,official
+1992-05,food,Food,食物,-0.01987756957750139,official
+1992-05,energy,Energy,能源,-0.02966291040171465,official
+1992-05,core_goods,Core goods,核心商品,0.4554237976163414,official
+1992-05,core_services,Core services,核心服務,2.2555353489429417,official
+1992-05,residual,Residual,差額,-0.0358219400513109,official
+1992-06,food,Food,食物,-0.02877873237153511,official
+1992-06,energy,Energy,能源,0.10200275571405415,official
+1992-06,core_goods,Core goods,核心商品,0.474360188036959,official
+1992-06,core_services,Core services,核心服務,2.124048954449668,official
+1992-06,residual,Residual,差額,-0.037494731723142216,official
+1992-07,food,Food,食物,0.030909252755434,official
+1992-07,energy,Energy,能源,0.1522901257546086,official
+1992-07,core_goods,Core goods,核心商品,0.43525628368427016,official
+1992-07,core_services,Core services,核心服務,2.2273954068007833,official
+1992-07,residual,Residual,差額,-0.03458008966287052,official
+1992-08,food,Food,食物,0.13256818071724988,official
+1992-08,energy,Energy,能源,0.11174855888004394,official
+1992-08,core_goods,Core goods,核心商品,0.39461771972033394,official
+1992-08,core_services,Core services,核心服務,2.114435420064265,official
+1992-08,residual,Residual,差額,-0.043902891928113696,official
+1992-09,food,Food,食物,0.16255101055612772,official
+1992-09,energy,Energy,能源,0.10166983135942328,official
+1992-09,core_goods,Core goods,核心商品,0.3132693421730175,official
+1992-09,core_services,Core services,核心服務,1.9814139739958807,official
+1992-09,residual,Residual,差額,-0.034123004634398324,official
+1992-10,food,Food,食物,0.15201477674269195,official
+1992-10,energy,Energy,能源,0.14241390941214263,official
+1992-10,core_goods,Core goods,核心商品,0.323171056858336,official
+1992-10,core_services,Core services,核心服務,2.1050589463539997,official
+1992-10,residual,Residual,差額,-0.027509315772562992,official
+1992-11,food,Food,食物,0.10098402166770841,official
+1992-11,energy,Energy,能源,0.1431769155568377,official
+1992-11,core_goods,Core goods,核心商品,0.30385002484093787,official
+1992-11,core_services,Core services,核心服務,2.14384521691748,official
+1992-11,residual,Residual,差額,-0.02025337756624701,official
+1992-12,food,Food,食物,0.10073217911211295,official
+1992-12,energy,Energy,能源,0.11316115933688232,official
+1992-12,core_goods,Core goods,核心商品,0.32304238006170766,official
+1992-12,core_services,Core services,核心服務,2.0729371892635045,official
+1992-12,residual,Residual,差額,-0.015273128387110813,official
+1993-01,food,Food,食物,0.12082745298381176,official
+1993-01,energy,Energy,能源,0.19263993103228072,official
+1993-01,core_goods,Core goods,核心商品,0.2929038283470098,official
+1993-01,core_services,Core services,核心服務,2.1162885149589705,official
+1993-01,residual,Residual,差額,-0.01823110571857889,official
+1993-02,food,Food,食物,0.11135611573801298,official
+1993-02,energy,Energy,能源,0.17112377979839802,official
+1993-02,core_goods,Core goods,核心商品,0.2929714795292769,official
+1993-02,core_services,Core services,核心服務,2.0346395528448813,official
+1993-02,residual,Residual,差額,-0.01124066436294413,official
+1993-03,food,Food,食物,0.08115966893834693,official
+1993-03,energy,Energy,能源,0.19118079715325106,official
+1993-03,core_goods,Core goods,核心商品,0.2620772371284691,official
+1993-03,core_services,Core services,核心服務,2.0349117539595545,official
+1993-03,residual,Residual,差額,-0.008526267295723589,official
+1993-04,food,Food,食物,0.12134412775867807,official
+1993-04,energy,Energy,能源,0.18069281832728656,official
+1993-04,core_goods,Core goods,核心商品,0.25267526418352637,official
+1993-04,core_services,Core services,核心服務,2.0043642960122945,official
+1993-04,residual,Residual,差額,-0.0020017744260725223,official
+1993-05,food,Food,食物,0.21285081404363718,official
+1993-05,energy,Energy,能源,0.09928215432811734,official
+1993-05,core_goods,Core goods,核心商品,0.18192174422100213,official
+1993-05,core_services,Core services,核心服務,2.239311108649906,official
+1993-05,residual,Residual,差額,0.003846019967411962,official
+1993-06,food,Food,食物,0.1520339571981363,official
+1993-06,energy,Energy,能源,-0.001536286819868924,official
+1993-06,core_goods,Core goods,核心商品,0.1813266998341625,official
+1993-06,core_services,Core services,核心服務,2.2477913606570326,official
+1993-06,residual,Residual,差額,0.010607754876406084,official
+1993-07,food,Food,食物,0.16150085007241358,official
+1993-07,energy,Energy,能源,-0.03169069957811222,official
+1993-07,core_goods,Core goods,核心商品,0.15160333102449464,official
+1993-07,core_services,Core services,核心服務,2.1244051067313143,official
+1993-07,residual,Residual,差額,0.010590957748244367,official
+1993-08,food,Food,食物,0.11183448883019698,official
+1993-08,energy,Energy,能源,-0.031889669700828495,official
+1993-08,core_goods,Core goods,核心商品,0.172097973557201,official
+1993-08,core_services,Core services,核心服務,2.1846232451382663,official
+1993-08,residual,Residual,差額,0.017389205929979834,official
+1993-09,food,Food,食物,0.09168458556338581,official
+1993-09,energy,Energy,能源,-0.06227865584731531,official
+1993-09,core_goods,Core goods,核心商品,0.14088600442609825,official
+1993-09,core_services,Core services,核心服務,2.215173355516143,official
+1993-09,residual,Residual,差額,0.008080768446000697,official
+1993-10,food,Food,食物,0.15234336388376238,official
+1993-10,energy,Energy,能源,0.030724451812693534,official
+1993-10,core_goods,Core goods,核心商品,0.15107056836310168,official
+1993-10,core_services,Core services,核心服務,2.0104670149207045,official
+1993-10,residual,Residual,差額,0.009237386217883614,official
+1993-11,food,Food,食物,0.20241524100899105,official
+1993-11,energy,Energy,能源,-0.06033357267732271,official
+1993-11,core_goods,Core goods,核心商品,0.1825938124375624,official
+1993-11,core_services,Core services,核心服務,2.0197820929070933,official
+1993-11,residual,Residual,差額,0.0016338349150868403,official
+1993-12,food,Food,食物,0.2224954811767639,official
+1993-12,energy,Energy,能源,-0.10086106955871353,official
+1993-12,core_goods,Core goods,核心商品,0.1516249065071054,official
+1993-12,core_services,Core services,核心服務,1.917836886063326,official
+1993-12,residual,Residual,差額,-0.00024604213414525233,official
+1994-01,food,Food,食物,0.2119801964807561,official
+1994-01,energy,Energy,能源,-0.13141795684884663,official
+1994-01,core_goods,Core goods,核心商品,0.12089286824597396,official
+1994-01,core_services,Core services,核心服務,1.7655170055337936,official
+1994-01,residual,Residual,差額,0.0102709382577868,official
+1994-02,food,Food,食物,0.16134147666423507,official
+1994-02,energy,Energy,能源,-0.020003725030653875,official
+1994-02,core_goods,Core goods,核心商品,0.08057365472070024,official
+1994-02,core_services,Core services,核心服務,1.826519734901985,official
+1994-02,residual,Residual,差額,0.011200391128220577,official
+1994-03,food,Food,食物,0.15082650516565727,official
+1994-03,energy,Energy,能源,-0.03992193429469803,official
+1994-03,core_goods,Core goods,核心商品,0.16168414367807182,official
+1994-03,core_services,Core services,核心服務,1.8472663062839794,official
+1994-03,residual,Residual,差額,0.011462647728484043,official
+1994-04,food,Food,食物,0.150850879767661,official
+1994-04,energy,Energy,能源,-0.07037384332566078,official
+1994-04,core_goods,Core goods,核心商品,0.1419453756198538,official
+1994-04,core_services,Core services,核心服務,1.7547227843603725,official
+1994-04,residual,Residual,差額,0.003297545301460314,official
+1994-05,food,Food,食物,0.10093511773674402,official
+1994-05,energy,Energy,能源,-0.08131088968629199,official
+1994-05,core_goods,Core goods,核心商品,0.2326130010934347,official
+1994-05,core_services,Core services,核心服務,1.5521058629664422,official
+1994-05,residual,Residual,差額,0.009834598740242395,official
+1994-06,food,Food,食物,0.1616060349472712,official
+1994-06,energy,Energy,能源,-0.030937572165345234,official
+1994-06,core_goods,Core goods,核心商品,0.29342067585251325,official
+1994-06,core_services,Core services,核心服務,1.5939242552536372,official
+1994-06,residual,Residual,差額,0.009544145947201876,official
+1994-07,food,Food,食物,0.21227993052460079,official
+1994-07,energy,Energy,能源,0.07077391290982034,official
+1994-07,core_goods,Core goods,核心商品,0.2935589234387248,official
+1994-07,core_services,Core services,核心服務,1.5942103321600394,official
+1994-07,residual,Residual,差額,0.014885257996573475,official
+1994-08,food,Food,食物,0.21235476446217585,official
+1994-08,energy,Energy,能源,0.20305032990639865,official
+1994-08,core_goods,Core goods,核心商品,0.2427076875863127,official
+1994-08,core_services,Core services,核心服務,1.573929261930336,official
+1994-08,residual,Residual,差額,0.014390363664269046,official
+1994-09,food,Food,食物,0.2223474048867225,official
+1994-09,energy,Energy,能源,0.20238986480272234,official
+1994-09,core_goods,Core goods,核心商品,0.29262699653576135,official
+1994-09,core_services,Core services,核心服務,1.5148197369631198,official
+1994-09,residual,Residual,差額,0.02110395781599861,official
+1994-10,food,Food,食物,0.15142093119202973,official
+1994-10,energy,Energy,能源,0.061969805785187106,official
+1994-10,core_goods,Core goods,核心商品,0.2618043182616934,official
+1994-10,core_services,Core services,核心服務,1.61425377809697,official
+1994-10,residual,Residual,差額,0.016200357563070256,official
+1994-11,food,Food,食物,0.14136364329617035,official
+1994-11,energy,Energy,能源,0.13214055851266646,official
+1994-11,core_goods,Core goods,核心商品,0.20184300028977994,official
+1994-11,core_services,Core services,核心服務,1.6141432427898181,official
+1994-11,residual,Residual,差額,0.016752024646534025,official
+1994-12,food,Food,食物,0.1621690402854442,official
+1994-12,energy,Energy,能源,0.1518951846543259,official
+1994-12,core_goods,Core goods,核心商品,0.1807485285596658,official
+1994-12,core_services,Core services,核心服務,1.6354540880119548,official
+1994-12,residual,Residual,差額,0.01818852733983034,official
+1995-01,food,Food,食物,0.15190323760746297,official
+1995-01,energy,Energy,能源,0.18161941345039936,official
+1995-01,core_goods,Core goods,核心商品,0.2619497286750808,official
+1995-01,core_services,Core services,核心服務,1.7083185476495335,official
+1995-01,residual,Residual,差額,0.017713858911038827,official
+1995-02,food,Food,食物,0.21233986252205123,official
+1995-02,energy,Energy,能源,0.10115289859480503,official
+1995-02,core_goods,Core goods,核心商品,0.24069560192225806,official
+1995-02,core_services,Core services,核心服務,1.6883533061621754,official
+1995-02,residual,Residual,差額,0.02341124764279323,official
+1995-03,food,Food,食物,0.2217295297025949,official
+1995-03,energy,Energy,能源,0.08047818372082442,official
+1995-03,core_goods,Core goods,核心商品,0.20082260339414898,official
+1995-03,core_services,Core services,核心服務,1.6478960219603562,official
+1995-03,residual,Residual,差額,0.022360283300727257,official
+1995-04,food,Food,食物,0.272927970915701,official
+1995-04,energy,Energy,能源,0.11034764826175866,official
+1995-04,core_goods,Core goods,核心商品,0.19103128076952208,official
+1995-04,core_services,Core services,核心服務,1.7195564644399,official
+1995-04,residual,Residual,差額,0.026821328485950424,official
+1995-05,food,Food,食物,0.24234348293022343,official
+1995-05,energy,Energy,能源,0.1803174963319266,official
+1995-05,core_goods,Core goods,核心商品,0.1004211099514453,official
+1995-05,core_services,Core services,核心服務,1.7911290103008577,official
+1995-05,residual,Residual,差額,0.015204580175752547,official
+1995-06,food,Food,食物,0.2018519133268952,official
+1995-06,energy,Energy,能源,0.18034418759053594,official
+1995-06,core_goods,Core goods,核心商品,0.009466290439401266,official
+1995-06,core_services,Core services,核心服務,1.769382393771125,official
+1995-06,residual,Residual,差額,0.019363230323494296,official
+1995-07,food,Food,食物,0.16156044584166906,official
+1995-07,energy,Energy,能源,0.0696883320046329,official
+1995-07,core_goods,Core goods,核心商品,0.01008859674192626,official
+1995-07,core_services,Core services,核心服務,1.7363051097306,official
+1995-07,residual,Residual,差額,0.009391405063122527,official
+1995-08,food,Food,食物,0.15141069123870698,official
+1995-08,energy,Energy,能源,-0.05019614611159468,official
+1995-08,core_goods,Core goods,核心商品,0.08089593901011494,official
+1995-08,core_services,Core services,核心服務,1.7752001980970675,official
+1995-08,residual,Residual,差額,0.014655581234799042,official
+1995-09,food,Food,食物,0.1616255921328776,official
+1995-09,energy,Energy,能源,-0.10146384241770103,official
+1995-09,core_goods,Core goods,核心商品,0.06063140852671342,official
+1995-09,core_services,Core services,核心服務,1.7957694729267855,official
+1995-09,residual,Residual,差額,0.01274120045572058,official
+1995-10,food,Food,食物,0.20166983433351793,official
+1995-10,energy,Energy,能源,-0.0607820894628934,official
+1995-10,core_goods,Core goods,核心商品,0.08088026219302315,official
+1995-10,core_services,Core services,核心服務,1.786409063019111,official
+1995-10,residual,Residual,差額,0.01214588228253577,official
+1995-11,food,Food,食物,0.18112355858278067,official
+1995-11,energy,Energy,能源,-0.13154224173985782,official
+1995-11,core_goods,Core goods,核心商品,0.030216735376710283,official
+1995-11,core_services,Core services,核心服務,1.7247472665352217,official
+1995-11,residual,Residual,差額,0.019258230268262677,official
+1995-12,food,Food,食物,0.16138466361152992,official
+1995-12,energy,Energy,能源,-0.06040915943932767,official
+1995-12,core_goods,Core goods,核心商品,0.09034109059425892,official
+1995-12,core_services,Core services,核心服務,1.7556258303354182,official
+1995-12,residual,Residual,差額,0.007051394963501156,official
+1996-01,food,Food,食物,0.19138692329465046,official
+1996-01,energy,Energy,能源,0.05144040401030881,official
+1996-01,core_goods,Core goods,核心商品,0.06080384941975659,official
+1996-01,core_services,Core services,核心服務,1.6636162795894351,official
+1996-01,residual,Residual,差額,0.006622968403176666,official
+1996-02,food,Food,食物,0.18165705023347117,official
+1996-02,energy,Energy,能源,0.07151101924278024,official
+1996-02,core_goods,Core goods,核心商品,0.10082250245367756,official
+1996-02,core_services,Core services,核心服務,1.6029459001278887,official
+1996-02,residual,Residual,差額,-0.0029169021205579515,official
+1996-03,food,Food,食物,0.2220292415021523,official
+1996-03,energy,Energy,能源,0.15240240463114144,official
+1996-03,core_goods,Core goods,核心商品,0.1215753302656969,official
+1996-03,core_services,Core services,核心服務,1.5729763989906487,official
+1996-03,residual,Residual,差額,0.0046398990648444105,official
+1996-04,food,Food,食物,0.18217270937273308,official
+1996-04,energy,Energy,能源,0.3047122744163323,official
+1996-04,core_goods,Core goods,核心商品,0.040225472633869774,official
+1996-04,core_services,Core services,核心服務,1.582551112558663,official
+1996-04,residual,Residual,差額,0.0014610567456814216,official
+1996-05,food,Food,食物,0.19187728193227005,official
+1996-05,energy,Energy,能源,0.3248454568299064,official
+1996-05,core_goods,Core goods,核心商品,0.009155814400378432,official
+1996-05,core_services,Core services,核心服務,1.604303262331673,official
+1996-05,residual,Residual,差額,-0.00013200100515131652,official
+1996-06,food,Food,食物,0.24270552446209961,official
+1996-06,energy,Energy,能源,0.18211172969859857,official
+1996-06,core_goods,Core goods,核心商品,-0.012110400637949081,official
+1996-06,core_services,Core services,核心服務,1.625486510034408,official
+1996-06,residual,Residual,差額,-0.009160772036571618,official
+1996-07,food,Food,食物,0.2629841302616442,official
+1996-07,energy,Energy,能源,0.21204846464706056,official
+1996-07,core_goods,Core goods,核心商品,-0.042057608920090805,official
+1996-07,core_services,Core services,核心服務,1.686818530426831,official
+1996-07,residual,Residual,差額,-0.00333677472643501,official
+1996-08,food,Food,食物,0.28300965444163184,official
+1996-08,energy,Energy,能源,0.2014031318066757,official
+1996-08,core_goods,Core goods,核心商品,-0.14280832401248011,official
+1996-08,core_services,Core services,核心服務,1.6659825160416792,official
+1996-08,residual,Residual,差額,-0.013414964384526051,official
+1996-09,food,Food,食物,0.2832125891609677,official
+1996-09,energy,Energy,能源,0.27121553055371717,official
+1996-09,core_goods,Core goods,核心商品,-0.07156232075887929,official
+1996-09,core_services,Core services,核心服務,1.738768144716523,official
+1996-09,residual,Residual,差額,-0.009706596073254303,official
+1996-10,food,Food,食物,0.3033122588784087,official
+1996-10,energy,Energy,能源,0.3017615995071218,official
+1996-10,core_goods,Core goods,核心商品,-0.10152073462322686,official
+1996-10,core_services,Core services,核心服務,1.7588605125346555,official
+1996-10,residual,Residual,差額,-0.006322336477396551,official
+1996-11,food,Food,食物,0.32354736023705793,official
+1996-11,energy,Energy,能源,0.4029014654755094,official
+1996-11,core_goods,Core goods,核心商品,-0.08174874209684752,official
+1996-11,core_services,Core services,核心服務,1.811846587158386,official
+1996-11,residual,Residual,差額,-0.015554430899666016,official
+1996-12,food,Food,食物,0.30296515373352856,official
+1996-12,energy,Energy,能源,0.4240393850658858,official
+1996-12,core_goods,Core goods,核心商品,-0.14269502196193262,official
+1996-12,core_services,Core services,核心服務,1.78037803806735,official
+1996-12,residual,Residual,差額,-0.0015836017569381688,official
+1997-01,food,Food,食物,0.27212323964237717,official
+1997-01,energy,Energy,能源,0.37438774615789167,official
+1997-01,core_goods,Core goods,核心商品,-0.15188438613919242,official
+1997-01,core_services,Core services,核心服務,1.7780751475486474,official
+1997-01,residual,Residual,差額,-0.003958686378788379,official
+1997-02,food,Food,食物,0.27237412485414236,official
+1997-02,energy,Energy,能源,0.363813739789965,official
+1997-02,core_goods,Core goods,核心商品,-0.1514186114352392,official
+1997-02,core_services,Core services,核心服務,1.8390304842473746,official
+1997-02,residual,Residual,差額,-0.0032046382730559486,official
+1997-03,food,Food,食物,0.21127212180260882,official
+1997-03,energy,Energy,能源,0.22128913577733508,official
+1997-03,core_goods,Core goods,核心商品,-0.18040978957930404,official
+1997-03,core_services,Core services,核心服務,1.8777701513807497,official
+1997-03,residual,Residual,差額,-0.009718615033380562,official
+1997-04,food,Food,食物,0.19091224102184912,official
+1997-04,energy,Energy,能源,-0.010375944210053185,official
+1997-04,core_goods,Core goods,核心商品,-0.12005016455714554,official
+1997-04,core_services,Core services,核心服務,1.8657853072941586,official
+1997-04,residual,Residual,差額,-0.01102924332710864,official
+1997-05,food,Food,食物,0.20075739593585365,official
+1997-05,energy,Energy,能源,-0.16239405430440568,official
+1997-05,core_goods,Core goods,核心商品,-0.09027745614542927,official
+1997-05,core_services,Core services,核心服務,1.7443080240838302,official
+1997-05,residual,Residual,差額,0.0010004052567527122,official
+1997-06,food,Food,食物,0.16092906456702033,official
+1997-06,energy,Energy,能源,-0.05256415452084928,official
+1997-06,core_goods,Core goods,核心商品,-0.11163378732396405,official
+1997-06,core_services,Core services,核心服務,1.8177211214195772,official
+1997-06,residual,Residual,差額,0.010676933319841986,official
+1997-07,food,Food,食物,0.14081401562748241,official
+1997-07,energy,Energy,能源,-0.07259326660600543,official
+1997-07,core_goods,Core goods,核心商品,-0.152042549503878,official
+1997-07,core_services,Core services,核心服務,1.7458569839825528,official
+1997-07,residual,Residual,差額,0.009036642257767458,official
+1997-08,food,Food,食物,0.13102333232327606,official
+1997-08,energy,Energy,能源,0.039040589873454296,official
+1997-08,core_goods,Core goods,核心商品,-0.20351961675540742,official
+1997-08,core_services,Core services,核心服務,1.675262687040965,official
+1997-08,residual,Residual,差額,0.013244015410605714,official
+1997-09,food,Food,食物,0.11071022604641795,official
+1997-09,energy,Energy,能源,0.0997515072159312,official
+1997-09,core_goods,Core goods,核心商品,-0.2526396063252709,official
+1997-09,core_services,Core services,核心服務,1.6535652311544051,official
+1997-09,residual,Residual,差額,0.0015854904387306856,official
+1997-10,food,Food,食物,0.08062789596752212,official
+1997-10,energy,Energy,能源,0.029501068728571667,official
+1997-10,core_goods,Core goods,核心商品,-0.24190864881148774,official
+1997-10,core_services,Core services,核心服務,1.5709153767806165,official
+1997-10,residual,Residual,差額,-0.00029709219757134697,official
+1997-11,food,Food,食物,0.08062835622127075,official
+1997-11,energy,Energy,能源,-0.050840147208339855,official
+1997-11,core_goods,Core goods,核心商品,-0.29225208712213424,official
+1997-11,core_services,Core services,核心服務,1.5193637678461474,official
+1997-11,residual,Residual,差額,0.007545286612349544,official
+1997-12,food,Food,食物,0.08053494292988529,official
+1997-12,energy,Energy,能源,-0.20149154675744482,official
+1997-12,core_goods,Core goods,核心商品,-0.2824302714763853,official
+1997-12,core_services,Core services,核心服務,1.5287285808278743,official
+1997-12,residual,Residual,差額,0.00032697313842100506,official
+1998-01,food,Food,食物,0.12071552031997715,official
+1998-01,energy,Energy,能源,-0.3723576887365188,official
+1998-01,core_goods,Core goods,核心商品,-0.30203714020427114,official
+1998-01,core_services,Core services,核心服務,1.598224269695022,official
+1998-01,residual,Residual,差額,-0.0003338332976139391,official
+1998-02,food,Food,食物,0.07035993784835569,official
+1998-02,energy,Energy,能源,-0.48250003563741073,official
+1998-02,core_goods,Core goods,核心商品,-0.34163789539707207,official
+1998-02,core_services,Core services,核心服務,1.5361691208963522,official
+1998-02,residual,Residual,差額,-0.001219084546189353,official
+1998-03,food,Food,食物,0.10033221787112852,official
+1998-03,energy,Energy,能源,-0.49268337486650055,official
+1998-03,core_goods,Core goods,核心商品,-0.4317292986828053,official
+1998-03,core_services,Core services,核心服務,1.515898042007832,official
+1998-03,residual,Residual,差額,-0.001180348878613069,official
+1998-04,food,Food,食物,0.10030272854013145,official
+1998-04,energy,Energy,能源,-0.4625741884086835,official
+1998-04,core_goods,Core goods,核心商品,-0.38100961675249667,official
+1998-04,core_services,Core services,核心服務,1.4552278999630126,official
+1998-04,residual,Residual,差額,0.005041824337786549,official
+1998-05,food,Food,食物,0.10042014175514502,official
+1998-05,energy,Energy,能源,-0.30242506618086584,official
+1998-05,core_goods,Core goods,核心商品,-0.41155546383535907,official
+1998-05,core_services,Core services,核心服務,1.5169222339244544,official
+1998-05,residual,Residual,差額,-0.002448122740616343,official
+1998-06,food,Food,食物,0.10038165226290652,official
+1998-06,energy,Energy,能源,-0.2718966056402092,official
+1998-06,core_goods,Core goods,核心商品,-0.4218259608824198,official
+1998-06,core_services,Core services,核心服務,1.2850059699795315,official
+1998-06,residual,Residual,差額,-0.005117409597460543,official
+1998-07,food,Food,食物,0.10039037417961758,official
+1998-07,energy,Energy,能源,-0.27180299457340107,official
+1998-07,core_goods,Core goods,核心商品,-0.33128491064579363,official
+1998-07,core_services,Core services,核心服務,1.3855518936272977,official
+1998-07,residual,Residual,差額,-0.007779782367806076,official
+1998-08,food,Food,食物,0.10048545067423703,official
+1998-08,energy,Energy,能源,-0.4319843860894251,official
+1998-08,core_goods,Core goods,核心商品,-0.21094208658623134,official
+1998-08,core_services,Core services,核心服務,1.4857700496806245,official
+1998-08,residual,Residual,差額,-0.009333286018451514,official
+1998-09,food,Food,食物,0.09017445482866042,official
+1998-09,energy,Energy,能源,-0.5310764655904843,official
+1998-09,core_goods,Core goods,核心商品,-0.2808248371566128,official
+1998-09,core_services,Core services,核心服務,1.352972245822713,official
+1998-09,residual,Residual,差額,0.00171976777116023,official
+1998-10,food,Food,食物,0.12027095825319604,official
+1998-10,energy,Energy,能源,-0.5103483142889467,official
+1998-10,core_goods,Core goods,核心商品,-0.31061008032582865,official
+1998-10,core_services,Core services,核心服務,1.4223851680054305,official
+1998-10,residual,Residual,差額,0.0009518893539882667,official
+1998-11,food,Food,食物,0.12033641608688274,official
+1998-11,energy,Energy,能源,-0.5004645341931105,official
+1998-11,core_goods,Core goods,核心商品,-0.29088268567226655,official
+1998-11,core_services,Core services,核心服務,1.4027394083375757,official
+1998-11,residual,Residual,差額,-0.010533966853312648,official
+1998-12,food,Food,食物,0.12036194679000296,official
+1998-12,energy,Energy,能源,-0.4809271438876395,official
+1998-12,core_goods,Core goods,核心商品,-0.1904903749593358,official
+1998-12,core_services,Core services,核心服務,1.4036862279175686,official
+1998-12,residual,Residual,差額,-0.008229586568773817,official
+1999-01,food,Food,食物,0.12055558697127346,official
+1999-01,energy,Energy,能源,-0.3809074587197466,official
+1999-01,core_goods,Core goods,核心商品,-0.12991941868355572,official
+1999-01,core_services,Core services,核心服務,1.3336171115132323,official
+1999-01,residual,Residual,差額,-0.007471584483158988,official
+1999-02,food,Food,食物,0.1406291460982475,official
+1999-02,energy,Energy,能源,-0.3013458464759049,official
+1999-02,core_goods,Core goods,核心商品,-0.18076266991046547,official
+1999-02,core_services,Core services,核心服務,1.284850705101911,official
+1999-02,residual,Residual,差額,-0.011250654181812036,official
+1999-03,food,Food,食物,0.12051718285956725,official
+1999-03,energy,Energy,能源,-0.15076311695658323,official
+1999-03,core_goods,Core goods,核心商品,-0.2116618582944421,official
+1999-03,core_services,Core services,核心服務,1.2357769763824071,official
+1999-03,residual,Residual,差額,-0.0010817423277924565,official
+1999-04,food,Food,食物,0.1305532642165033,official
+1999-04,energy,Energy,能源,0.14144354360292663,official
+1999-04,core_goods,Core goods,核心商品,-0.14029591231390712,official
+1999-04,core_services,Core services,核心服務,1.2252449221729427,official
+1999-04,residual,Residual,差額,-0.002387779315802252,official
+1999-05,food,Food,食物,0.13050990902038226,official
+1999-05,energy,Energy,能源,0.07093998166302279,official
+1999-05,core_goods,Core goods,核心商品,-0.1306587206432047,official
+1999-05,core_services,Core services,核心服務,1.2153407151421116,official
+1999-05,residual,Residual,差額,-0.003954016503276758,official
+1999-06,food,Food,食物,0.12061198560033881,official
+1999-06,energy,Energy,能源,0.030709536246205975,official
+1999-06,core_goods,Core goods,核心商品,-0.05082995694218956,official
+1999-06,core_services,Core services,核心服務,1.307216347850639,official
+1999-06,residual,Residual,差額,-0.008682007482183618,official
+1999-07,food,Food,食物,0.12045430221095618,official
+1999-07,energy,Energy,能源,0.141758343895226,official
+1999-07,core_goods,Core goods,核心商品,-0.0904665540064779,official
+1999-07,core_services,Core services,核心服務,1.2460964652865794,official
+1999-07,residual,Residual,差額,0.0002675679481538573,official
+1999-08,food,Food,食物,0.11044369128649377,official
+1999-08,energy,Energy,能源,0.3331421218428306,official
+1999-08,core_goods,Core goods,核心商品,-0.1609534792147156,official
+1999-08,core_services,Core services,核心服務,1.1757501265680372,official
+1999-08,residual,Residual,差額,0.004181526691790616,official
+1999-09,food,Food,食物,0.1408173976669903,official
+1999-09,energy,Energy,能源,0.47487849494139334,official
+1999-09,core_goods,Core goods,核心商品,-0.04009906144905506,official
+1999-09,core_services,Core services,核心服務,1.3091375744016212,official
+1999-09,residual,Residual,差額,0.0008102213404312941,official
+1999-10,food,Food,食物,0.11076281538267133,official
+1999-10,energy,Energy,能源,0.4740265082908611,official
+1999-10,core_goods,Core goods,核心商品,-0.030409418305884284,official
+1999-10,core_services,Core services,核心服務,1.2795342796568525,official
+1999-10,residual,Residual,差額,-0.00023686168793179974,official
+1999-11,food,Food,食物,0.12112444893718587,official
+1999-11,energy,Energy,能源,0.4736398225367141,official
+1999-11,core_goods,Core goods,核心商品,-0.05150745514278487,official
+1999-11,core_services,Core services,核心服務,1.3722269957599753,official
+1999-11,residual,Residual,差額,0.00516314267261464,official
+1999-12,food,Food,食物,0.13118390417683523,official
+1999-12,energy,Energy,能源,0.6351105220342786,official
+1999-12,core_goods,Core goods,核心商品,-0.1419401666245897,official
+1999-12,core_services,Core services,核心服務,1.4234769558753402,official
+1999-12,residual,Residual,差額,0.006924878678233437,official
+2000-01,food,Food,食物,0.11123336788145327,official
+2000-01,energy,Energy,能源,0.7051488837222332,official
+2000-01,core_goods,Core goods,核心商品,-0.21184851116277761,official
+2000-01,core_services,Core services,核心服務,1.585978458780358,official
+2000-01,residual,Residual,差額,-0.0013752486063998148,official
+2000-02,food,Food,食物,0.13174500406401524,official
+2000-02,energy,Energy,能源,0.8991552453824377,official
+2000-02,core_goods,Core goods,核心商品,-0.16259634518904673,official
+2000-02,core_services,Core services,核心服務,1.7006527649317524,official
+2000-02,residual,Residual,差額,-0.00021875613106425718,official
+2000-03,food,Food,食物,0.16213605556489105,official
+2000-03,energy,Energy,能源,1.0742504060942137,official
+2000-03,core_goods,Core goods,核心商品,0.009194813196661676,official
+2000-03,core_services,Core services,核心服務,1.6921978098918948,official
+2000-03,residual,Residual,差額,-0.00689912059599429,official
+2000-04,food,Food,食物,0.15169628050225065,official
+2000-04,energy,Energy,能源,0.68682902016528,official
+2000-04,core_goods,Core goods,核心商品,-0.07954164750477305,official
+2000-04,core_services,Core services,核心服務,1.5947862926265033,official
+2000-04,residual,Residual,差額,-0.0027797984865713943,official
+2000-05,food,Food,食物,0.18251712996490446,official
+2000-05,energy,Energy,能源,0.6652178151635006,official
+2000-05,core_goods,Core goods,核心商品,-0.07020096373461089,official
+2000-05,core_services,Core services,核心服務,1.5865682970308062,official
+2000-05,residual,Residual,差額,0.004846526655895023,official
+2000-06,food,Food,食物,0.18246122573998275,official
+2000-06,energy,Energy,能源,0.9613194386433883,official
+2000-06,core_goods,Core goods,核心商品,-0.12158508061147774,official
+2000-06,core_services,Core services,核心服務,1.6591395873360624,official
+2000-06,residual,Residual,差額,0.002929579817913197,official
+2000-07,food,Food,食物,0.21296860463501677,official
+2000-07,energy,Energy,能源,0.8692762819889749,official
+2000-07,core_goods,Core goods,核心商品,-0.1209949039810045,official
+2000-07,core_services,Core services,核心服務,1.7096932668675453,official
+2000-07,residual,Residual,差額,-0.0021289417776406694,official
+2000-08,food,Food,食物,0.23334479126240507,official
+2000-08,energy,Energy,能源,0.5944586128513611,official
+2000-08,core_goods,Core goods,核心商品,-0.1323554360481233,official
+2000-08,core_services,Core services,核心服務,1.7909724455286358,official
+2000-08,residual,Residual,差額,-0.010953318179304894,official
+2000-09,food,Food,食物,0.21258165646967836,official
+2000-09,energy,Energy,能源,0.717329539961606,official
+2000-09,core_goods,Core goods,核心商品,-0.1304020329526151,official
+2000-09,core_services,Core services,核心服務,1.7583733616915493,official
+2000-09,residual,Residual,差額,-0.009786346623941178,official
+2000-10,food,Food,食物,0.2022408967447504,official
+2000-10,energy,Energy,能源,0.7163773111445078,official
+2000-10,core_goods,Core goods,核心商品,-0.17164168815232528,official
+2000-10,core_services,Core services,核心服務,1.7802152242551257,official
+2000-10,residual,Residual,差額,-0.01233561747713896,official
+2000-11,food,Food,食物,0.19232002644846682,official
+2000-11,energy,Energy,能源,0.7152333526186738,official
+2000-11,core_goods,Core goods,核心商品,-0.07057249910460922,official
+2000-11,core_services,Core services,核心服務,1.7414209163291734,official
+2000-11,residual,Residual,差額,-0.012074000606108193,official
+2000-12,food,Food,食物,0.22282781083792585,official
+2000-12,energy,Energy,能源,0.6345260640710251,official
+2000-12,core_goods,Core goods,核心商品,-0.08140950757940164,official
+2000-12,core_services,Core services,核心服務,1.7204951692481067,official
+2000-12,residual,Residual,差額,-0.011660184434415743,official
+2001-01,food,Food,食物,0.222470909115829,official
+2001-01,energy,Energy,能源,0.7464704431134442,official
+2001-01,core_goods,Core goods,核心商品,-0.04055372048080484,official
+2001-01,core_services,Core services,核心服務,1.7726289387480985,official
+2001-01,residual,Residual,差額,0.00042666630118448623,official
+2001-02,food,Food,食物,0.25302400568375893,official
+2001-02,energy,Energy,能源,0.5436759984151057,official
+2001-02,core_goods,Core goods,核心商品,-0.030996297358964926,official
+2001-02,core_services,Core services,核心服務,1.7613986692352885,official
+2001-02,residual,Residual,差額,0.010094820401406857,official
+2001-03,food,Food,食物,0.24223848717774304,official
+2001-03,energy,Energy,能源,0.22044677232841306,official
+2001-03,core_goods,Core goods,核心商品,-0.1618243656894089,official
+2001-03,core_services,Core services,核心服務,1.7974929596626081,official
+2001-03,residual,Residual,差額,0.010346234950027178,official
+2001-04,food,Food,食物,0.24265072708458144,official
+2001-04,energy,Energy,能源,0.39140419911769514,official
+2001-04,core_goods,Core goods,核心商品,-0.181764337454387,official
+2001-04,core_services,Core services,核心服務,1.9218291487391754,official
+2001-04,residual,Residual,差額,-0.0008829856761729538,official
+2001-05,food,Food,食物,0.2127113801782192,official
+2001-05,energy,Energy,能源,0.676300931909394,official
+2001-05,core_goods,Core goods,核心商品,-0.25392667165498944,official
+2001-05,core_services,Core services,核心服務,1.9333086184613293,official
+2001-05,residual,Residual,差額,-0.010745119379624413,official
+2001-06,food,Food,食物,0.24265666946877457,official
+2001-06,energy,Energy,能源,0.35382352143612544,official
+2001-06,core_goods,Core goods,核心商品,-0.16260853648615664,official
+2001-06,core_services,Core services,核心服務,1.970979879057407,official
+2001-06,residual,Residual,差額,-0.013116847899786954,official
+2001-07,food,Food,食物,0.22257671864645184,official
+2001-07,energy,Energy,能源,0.056983729831347404,official
+2001-07,core_goods,Core goods,核心商品,-0.10068177822258889,official
+2001-07,core_services,Core services,核心服務,1.9399406267328476,official
+2001-07,residual,Residual,差額,-0.017086787757477406,official
+2001-08,food,Food,食物,0.21301146968918228,official
+2001-08,energy,Energy,能源,0.115310141477534,official
+2001-08,core_goods,Core goods,核心商品,-0.16321489436524464,official
+2001-08,core_services,Core services,核心服務,1.9436450077095788,official
+2001-08,residual,Residual,差額,-0.012287310303795262,official
+2001-09,food,Food,食物,0.2120992027150784,official
+2001-09,energy,Energy,能源,0.05841324139417115,official
+2001-09,core_goods,Core goods,核心商品,-0.2934203792490438,official
+2001-09,core_services,Core services,核心服務,1.3488287184183592,official
+2001-09,residual,Residual,差額,-0.012824839734935312,official
+2001-10,food,Food,食物,0.24216373246540157,official
+2001-10,energy,Energy,能源,-0.2551789436875446,official
+2001-10,core_goods,Core goods,核心商品,-0.20275066238080505,official
+2001-10,core_services,Core services,核心服務,1.7541898780143375,official
+2001-10,residual,Residual,差額,-0.006542304950687194,official
+2001-11,food,Food,食物,0.23183945095827124,official
+2001-11,energy,Energy,能源,-0.47818660434881893,official
+2001-11,core_goods,Core goods,核心商品,-0.23227258686221577,official
+2001-11,core_services,Core services,核心服務,1.8041174100487534,official
+2001-11,residual,Residual,差額,-0.003929516365137831,official
+2001-12,food,Food,食物,0.1814295101312843,official
+2001-12,energy,Energy,能源,-0.6186930576229366,official
+2001-12,core_goods,Core goods,核心商品,-0.27291198991565085,official
+2001-12,core_services,Core services,核心服務,1.772592830993282,official
+2001-12,residual,Residual,差額,-0.0003422241890282951,official
+2002-01,food,Food,食物,0.20077617039449103,official
+2002-01,energy,Energy,能源,-0.7749415470026157,official
+2002-01,core_goods,Core goods,核心商品,-0.3316252068542145,official
+2002-01,core_services,Core services,核心服務,1.5759196338013133,official
+2002-01,residual,Residual,差額,-0.00419193402018081,official
+2002-02,food,Food,食物,0.17064518708026863,official
+2002-02,energy,Energy,能源,-0.7539076324485663,official
+2002-02,core_goods,Core goods,核心商品,-0.3312456028141989,official
+2002-02,core_services,Core services,核心服務,1.5946496908645136,official
+2002-02,residual,Residual,差額,-0.0005765643321640201,official
+2002-03,food,Food,食物,0.17069722203717275,official
+2002-03,energy,Energy,能源,-0.51284045033642,official
+2002-03,core_goods,Core goods,核心商品,-0.31148837519152617,official
+2002-03,core_services,Core services,核心服務,1.5955202185064288,official
+2002-03,residual,Residual,差額,0.0014196256078862213,official
+2002-04,food,Food,食物,0.19064492531953664,official
+2002-04,energy,Energy,能源,-0.39073829252397363,official
+2002-04,core_goods,Core goods,核心商品,-0.25038770000133,official
+2002-04,core_services,Core services,核心服務,1.634249670820754,official
+2002-04,residual,Residual,差額,0.00393671778365956,official
+2002-05,food,Food,食物,0.12970949127810572,official
+2002-05,energy,Energy,能源,-0.6090157193075546,official
+2002-05,core_goods,Core goods,核心商品,-0.20045367115473897,official
+2002-05,core_services,Core services,核心服務,1.6617738276845528,official
+2002-05,residual,Residual,差額,0.006246335477859577,official
+2002-06,food,Food,食物,0.08945284567917582,official
+2002-06,energy,Energy,能源,-0.5681122381419,official
+2002-06,core_goods,Core goods,核心商品,-0.25020988373632774,official
+2002-06,core_services,Core services,核心服務,1.660524245875156,official
+2002-06,residual,Residual,差額,0.0045456712306995994,official
+2002-07,food,Food,食物,0.07957280807492086,official
+2002-07,energy,Energy,能源,-0.2579167604943505,official
+2002-07,core_goods,Core goods,核心商品,-0.340509848595234,official
+2002-07,core_services,Core services,核心服務,1.7029604069251456,official
+2002-07,residual,Residual,差額,0.008056905938305325,official
+2002-08,food,Food,食物,0.05957991097451116,official
+2002-08,energy,Energy,能源,-0.1576971278681575,official
+2002-08,core_goods,Core goods,核心商品,-0.20029529436701818,official
+2002-08,core_services,Core services,核心服務,1.6950699485983787,official
+2002-08,residual,Residual,差額,0.006288882412172958,official
+2002-09,food,Food,食物,0.06995839259840216,official
+2002-09,energy,Energy,能源,-0.29843261063182097,official
+2002-09,core_goods,Core goods,核心商品,-0.16126523721536148,official
+2002-09,core_services,Core services,核心服務,2.315478750980366,official
+2002-09,residual,Residual,差額,0.007077379132482742,official
+2002-10,food,Food,食物,0.029660626291527575,official
+2002-10,energy,Energy,能源,0.1132943888094103,official
+2002-10,core_goods,Core goods,核心商品,-0.25153883855242937,official
+2002-10,core_services,Core services,核心服務,1.8616267948921739,official
+2002-10,residual,Residual,差額,0.00740846712234422,official
+2002-11,food,Food,食物,0.050046526424623206,official
+2002-11,energy,Energy,能源,0.35353322463912196,official
+2002-11,core_goods,Core goods,核心商品,-0.31263026736124916,official
+2002-11,core_services,Core services,核心服務,1.8351551543590354,official
+2002-11,residual,Residual,差額,0.003880383345933991,official
+2002-12,food,Food,食物,0.06010867401775408,official
+2002-12,energy,Energy,能源,0.47421652535063624,official
+2002-12,core_goods,Core goods,核心商品,-0.3042958746334408,official
+2002-12,core_services,Core services,核心服務,1.9000145960219206,official
+2002-12,residual,Residual,差額,0.003629101813900082,official
+2003-01,food,Food,食物,0.04028569155917328,official
+2003-01,energy,Energy,能源,0.7084847078787236,official
+2003-01,core_goods,Core goods,核心商品,-0.376090201641235,official
+2003-01,core_services,Core services,核心服務,1.971649454468322,official
+2003-01,residual,Residual,差額,0.002185706142035837,official
+2003-02,food,Food,食物,0.05090394134307418,official
+2003-02,energy,Energy,能源,1.0031313692792292,official
+2003-02,core_goods,Core goods,核心商品,-0.42701381720003173,official
+2003-02,core_services,Core services,核心服務,1.9827695280446807,official
+2003-02,residual,Residual,差額,-0.0051694062839295896,official
+2003-03,food,Food,食物,0.06125866187980939,official
+2003-03,energy,Energy,能源,0.9531499544632603,official
+2003-03,core_goods,Core goods,核心商品,-0.44736282882145634,official
+2003-03,core_services,Core services,核心服務,2.0324643955492787,official
+2003-03,residual,Residual,差額,-0.00985560233887739,official
+2003-04,food,Food,食物,0.03112841745531019,official
+2003-04,energy,Energy,能源,0.5239655625657202,official
+2003-04,core_goods,Core goods,核心商品,-0.5458558096740274,official
+2003-04,core_services,Core services,核心服務,1.9875149842271294,official
+2003-04,residual,Residual,差額,-0.008057045215564829,official
+2003-05,food,Food,食物,0.09126730592407722,official
+2003-05,energy,Energy,能源,0.2588237225797977,official
+2003-05,core_goods,Core goods,核心商品,-0.6076440299487719,official
+2003-05,core_services,Core services,核心服務,2.070926835675818,official
+2003-05,residual,Residual,差額,-0.008566268225381313,official
+2003-06,food,Food,食物,0.15198005903574943,official
+2003-06,energy,Energy,能源,0.2786564775336176,official
+2003-06,core_goods,Core goods,核心商品,-0.6275828140373894,official
+2003-06,core_services,Core services,核心服務,1.990067825516563,official
+2003-06,residual,Residual,差額,-0.004994293210883516,official
+2003-07,food,Food,食物,0.13151139502310422,official
+2003-07,energy,Energy,能源,0.3293610671134789,official
+2003-07,core_goods,Core goods,核心商品,-0.5656209338551962,official
+2003-07,core_services,Core services,核心服務,1.968946893039938,official
+2003-07,residual,Residual,差額,-0.0014623067558585667,official
+2003-08,food,Food,食物,0.1719189213905909,official
+2003-08,energy,Energy,能源,0.5019147407339665,official
+2003-08,core_goods,Core goods,核心商品,-0.6556374848124583,official
+2003-08,core_services,Core services,核心服務,1.9782292306285354,official
+2003-08,residual,Residual,差額,0.010289771762265865,official
+2003-09,food,Food,食物,0.18199214929382768,official
+2003-09,energy,Energy,能源,0.6541467899479663,official
+2003-09,core_goods,Core goods,核心商品,-0.6754231165477759,official
+2003-09,core_services,Core services,核心服務,1.9680923566463662,official
+2003-09,residual,Residual,差額,0.012530613841761795,official
+2003-10,food,Food,食物,0.22222881764100963,official
+2003-10,energy,Energy,能源,0.3596357766756486,official
+2003-10,core_goods,Core goods,核心商品,-0.6652791554392679,official
+2003-10,core_services,Core services,核心服務,2.0490622355866233,official
+2003-10,residual,Residual,差額,0.002564142617253129,official
+2003-11,food,Food,食物,0.23258917773125087,official
+2003-11,energy,Energy,能源,0.338906849421954,official
+2003-11,core_goods,Core goods,核心商品,-0.655418026711055,official
+2003-11,core_services,Core services,核心服務,2.0801534520202347,official
+2003-11,residual,Residual,差額,-5.474855976550508e-05,official
+2003-12,food,Food,食物,0.27312481324135063,official
+2003-12,energy,Energy,能源,0.3999193202634759,official
+2003-12,core_goods,Core goods,核心商品,-0.6052348287017187,official
+2003-12,core_services,Core services,核心服務,2.0607653531849657,official
+2003-12,residual,Residual,差額,-0.0056972106377823906,official
+2004-01,food,Food,食物,0.24197717646144482,official
+2004-01,energy,Energy,能源,0.3526866232302691,official
+2004-01,core_goods,Core goods,核心商品,-0.483365889042888,official
+2004-01,core_services,Core services,核心服務,2.1089216460926674,official
+2004-01,residual,Residual,差額,-0.00781298169711464,official
+2004-02,food,Food,食物,0.22126692980419474,official
+2004-02,energy,Energy,能源,0.14341033975698472,official
+2004-02,core_goods,Core goods,核心商品,-0.381097825245724,official
+2004-02,core_services,Core services,核心服務,2.022839563501277,official
+2004-02,residual,Residual,差額,-0.00579986069189431,official
+2004-03,food,Food,食物,0.23127346413637828,official
+2004-03,energy,Energy,能源,0.022951302669668695,official
+2004-03,core_goods,Core goods,核心商品,-0.29992782245094884,official
+2004-03,core_services,Core services,核心服務,1.9402598906400774,official
+2004-03,residual,Residual,差額,0.0018728851720830608,official
+2004-04,food,Food,食物,0.2520808578093385,official
+2004-04,energy,Energy,能源,0.23220780225020296,official
+2004-04,core_goods,Core goods,核心商品,-0.24997306458056778,official
+2004-04,core_services,Core services,核心服務,2.0276860026033274,official
+2004-04,residual,Residual,差額,-0.0027771835088326036,official
+2004-05,food,Food,食物,0.30378483691164326,official
+2004-05,energy,Energy,能源,0.6260888470272502,official
+2004-05,core_goods,Core goods,核心商品,-0.14013379954582988,official
+2004-05,core_services,Core services,核心服務,1.91259083402147,official
+2004-05,residual,Residual,差額,0.007206853839783367,official
+2004-06,food,Food,食物,0.2740297468680724,official
+2004-06,energy,Energy,能源,0.7487996855183793,official
+2004-06,core_goods,Core goods,核心商品,-0.11028522451925554,official
+2004-06,core_services,Core services,核心服務,1.964255297210909,official
+2004-06,residual,Residual,差額,0.014111460535141784,official
+2004-07,food,Food,食物,0.29345648709776906,official
+2004-07,energy,Energy,能源,0.6463222216510743,official
+2004-07,core_goods,Core goods,核心商品,-0.2113985555669785,official
+2004-07,core_services,Core services,核心服務,1.9431705561838184,official
+2004-07,residual,Residual,差額,0.012987174874062646,official
+2004-08,food,Food,食物,0.2526027484983158,official
+2004-08,energy,Energy,能源,0.4650190191985042,official
+2004-08,core_goods,Core goods,核心商品,-0.2227931966341782,official
+2004-08,core_services,Core services,核心服務,1.8900042264885566,official
+2004-08,residual,Residual,差額,0.006335122119912828,official
+2004-09,food,Food,食物,0.21146368244321592,official
+2004-09,energy,Energy,能源,0.3451360392221954,official
+2004-09,core_goods,Core goods,核心商品,-0.15184045554945547,official
+2004-09,core_services,Core services,核心服務,1.8677541718269222,official
+2004-09,residual,Residual,差額,0.001403546850877735,official
+2004-10,food,Food,食物,0.23257094711041326,official
+2004-10,energy,Energy,能源,0.7193646355941941,official
+2004-10,core_goods,Core goods,核心商品,-0.03024485210575366,official
+2004-10,core_services,Core services,核心服務,1.7702568521568178,official
+2004-10,residual,Residual,差額,0.008063906654920405,official
+2004-11,food,Food,食物,0.23308636780905753,official
+2004-11,energy,Energy,能源,0.9128010250917993,official
+2004-11,core_goods,Core goods,核心商品,0.019999872501019984,official
+2004-11,core_services,Core services,核心服務,1.782593966748266,official
+2004-11,residual,Residual,差額,0.01714504283965379,official
+2004-12,food,Food,食物,0.18238750715603333,official
+2004-12,energy,Energy,能源,0.7895766172635329,official
+2004-12,core_goods,Core goods,核心商品,0.009090134215380696,official
+2004-12,core_services,Core services,核心服務,1.8030653266331658,official
+2004-12,residual,Residual,差額,0.00959582723745811,official
+2005-01,food,Food,食物,0.1811282616685042,official
+2005-01,energy,Energy,能源,0.4331521119263962,official
+2005-01,core_goods,Core goods,核心商品,0.01985147448326554,official
+2005-01,core_services,Core services,核心服務,1.883881306314869,official
+2005-01,residual,Residual,差額,0.01401741246243482,official
+2005-02,food,Food,食物,0.15030185768301782,official
+2005-02,energy,Energy,能源,0.5258306460791381,official
+2005-02,core_goods,Core goods,核心商品,-0.03058980487373067,official
+2005-02,core_services,Core services,核心服務,1.9338153951212111,official
+2005-02,residual,Residual,差額,0.01937478660041858,official
+2005-03,food,Food,食物,0.14060467935201204,official
+2005-03,energy,Energy,能源,0.6064542481596991,official
+2005-03,core_goods,Core goods,核心商品,-0.04026780641169711,official
+2005-03,core_services,Core services,核心服務,2.0261467947827625,official
+2005-03,residual,Residual,差額,0.014571522367707423,official
+2005-04,food,Food,食物,0.20242696544249236,official
+2005-04,energy,Energy,能源,0.7677766995185642,official
+2005-04,core_goods,Core goods,核心商品,-0.09092329796082978,official
+2005-04,core_services,Core services,核心服務,1.9461064199833642,official
+2005-04,residual,Residual,差額,0.019117031734422696,official
+2005-05,food,Food,食物,0.1317142354655545,official
+2005-05,energy,Energy,能源,0.5129797497613185,official
+2005-05,core_goods,Core goods,核心商品,-0.0291219034219386,official
+2005-05,core_services,Core services,核心服務,1.943201346665997,official
+2005-05,residual,Residual,差額,0.010192955127893644,official
+2005-06,food,Food,食物,0.1011688441833373,official
+2005-06,energy,Energy,能源,0.4023462063609375,official
+2005-06,core_goods,Core goods,核心商品,-0.08043391664892084,official
+2005-06,core_services,Core services,核心服務,1.9105789730806328,official
+2005-06,residual,Residual,差額,0.00753566910097847,official
+2005-07,food,Food,食物,0.10130905450222139,official
+2005-07,energy,Energy,能源,0.7184696827482635,official
+2005-07,core_goods,Core goods,核心商品,-0.06131355985232463,official
+2005-07,core_services,Core services,核心服務,1.912552030536262,official
+2005-07,residual,Residual,差額,0.008414617358110998,official
+2005-08,food,Food,食物,0.10125709854151552,official
+2005-08,energy,Energy,能源,1.0570373752282791,official
+2005-08,core_goods,Core goods,核心商品,-0.012111175043154097,official
+2005-08,core_services,Core services,核心服務,1.8839968228554276,official
+2005-08,residual,Residual,差額,0.01062242013359116,official
+2005-09,food,Food,食物,0.1415854389293918,official
+2005-09,energy,Energy,能源,1.7763327674023768,official
+2005-09,core_goods,Core goods,核心商品,-0.021764081693798124,official
+2005-09,core_services,Core services,核心服務,1.925967991610906,official
+2005-09,residual,Residual,差額,0.007898856486560746,official
+2005-10,food,Food,食物,0.10153241845664279,official
+2005-10,energy,Energy,能源,1.4761634844868736,official
+2005-10,core_goods,Core goods,核心商品,-0.07069448587907722,official
+2005-10,core_services,Core services,核心服務,2.036033462609388,official
+2005-10,residual,Residual,差額,0.008327491050126756,official
+2005-11,food,Food,食物,0.10220399217414994,official
+2005-11,energy,Energy,能源,0.8266418187671809,official
+2005-11,core_goods,Core goods,核心商品,-0.049438569553480825,official
+2005-11,core_services,Core services,核心服務,2.065178186681196,official
+2005-11,residual,Residual,差額,-0.006176849352390157,official
+2005-12,food,Food,食物,0.12243264316035693,official
+2005-12,energy,Energy,能源,0.7732916671823367,official
+2005-12,core_goods,Core goods,核心商品,-0.040004950433781813,official
+2005-12,core_services,Core services,核心服務,2.0273309736265643,official
+2005-12,residual,Residual,差額,0.0005773443397907307,official
+2006-01,food,Food,食物,0.17307068609638226,official
+2006-01,energy,Energy,能源,1.2194776718948916,official
+2006-01,core_goods,Core goods,核心商品,-0.06991323371278141,official
+2006-01,core_services,Core services,核心服務,1.9200027191713946,official
+2006-01,residual,Residual,差額,0.004299998764016877,official
+2006-02,food,Food,食物,0.18223919045506087,official
+2006-02,energy,Energy,能源,0.9944393087807522,official
+2006-02,core_goods,Core goods,核心商品,-0.10125511512103738,official
+2006-02,core_services,Core services,核心服務,1.9507469309273777,official
+2006-02,residual,Residual,差額,-0.0039349455208887996,official
+2006-03,food,Food,食物,0.17202617511520737,official
+2006-03,energy,Energy,能源,0.870020153609831,official
+2006-03,core_goods,Core goods,核心商品,-0.0698370506912443,official
+2006-03,core_services,Core services,核心服務,1.9512494009216592,official
+2006-03,residual,Residual,差額,-0.009787403993871013,official
+2006-04,food,Food,食物,0.0815064397142262,official
+2006-04,energy,Energy,能源,0.9833835765841942,official
+2006-04,core_goods,Core goods,核心商品,-0.008937906694606894,official
+2006-04,core_services,Core services,核心服務,2.062463512370869,official
+2006-04,residual,Residual,差額,-0.01558852002987754,official
+2006-05,food,Food,食物,0.09145488615904665,official
+2006-05,energy,Energy,能源,1.1442899484378253,official
+2006-05,core_goods,Core goods,核心商品,-0.06889906796164076,official
+2006-05,core_services,Core services,核心服務,2.168067581966711,official
+2006-05,residual,Residual,差額,-0.013378485958193131,official
+2006-06,food,Food,食物,0.12204296205630355,official
+2006-06,energy,Energy,能源,1.1235881272949815,official
+2006-06,core_goods,Core goods,核心商品,-0.0192192166462669,official
+2006-06,core_services,Core services,核心服務,2.3045997552019584,official
+2006-06,residual,Residual,差額,-0.01938372093023233,official
+2006-07,food,Food,食物,0.12187797089437631,official
+2006-07,energy,Energy,能源,1.0877605245837698,official
+2006-07,core_goods,Core goods,核心商品,-0.020536893937547304,official
+2006-07,core_services,Core services,核心服務,2.2592457889476636,official
+2006-07,residual,Residual,差額,-0.021001755112983744,official
+2006-08,food,Food,食物,0.14199060417349504,official
+2006-08,energy,Energy,能源,0.8683700547482913,official
+2006-08,core_goods,Core goods,核心商品,0.030027434842249554,official
+2006-08,core_services,Core services,核心服務,2.315047161222186,official
+2006-08,residual,Residual,差額,-0.01955266639958575,official
+2006-09,food,Food,食物,0.14129418554321166,official
+2006-09,energy,Energy,能源,-0.3126235992882221,official
+2006-09,core_goods,Core goods,核心商品,0.00960118789977396,official
+2006-09,core_services,Core services,核心服務,2.258257105756745,official
+2006-09,residual,Residual,差額,-0.016501947770886982,official
+2006-10,food,Food,食物,0.15146797911289836,official
+2006-10,energy,Energy,能源,-0.6403357541564132,official
+2006-10,core_goods,Core goods,核心商品,-0.04095732549066684,official
+2006-10,core_services,Core services,核心服務,2.2186613048436468,official
+2006-10,residual,Residual,差額,-0.01186603445171519,official
+2006-11,food,Food,食物,0.12172222155393295,official
+2006-11,energy,Energy,能源,-0.19090219051857907,official
+2006-11,core_goods,Core goods,核心商品,-0.14242869687601498,official
+2006-11,core_services,Core services,核心服務,2.145154274578677,official
+2006-11,residual,Residual,差額,-0.00887250243592752,official
+2006-12,food,Food,食物,0.09133728693267253,official
+2006-12,energy,Energy,能源,0.16390949224717616,official
+2006-12,core_goods,Core goods,核心商品,-0.13262116418664519,official
+2006-12,core_services,Core services,核心服務,2.1778488169275,official
+2006-12,residual,Residual,差額,-0.013722197495521282,official
+2007-01,food,Food,食物,0.12211734144180812,official
+2007-01,energy,Energy,能源,-0.18701331194483678,official
+2007-01,core_goods,Core goods,核心商品,-0.11162269255632438,official
+2007-01,core_services,Core services,核心服務,2.324128259151962,official
+2007-01,residual,Residual,差額,-0.0143464936433082,official
+2007-02,food,Food,食物,0.19328160892036753,official
+2007-02,energy,Energy,能源,-0.05570001435681466,official
+2007-02,core_goods,Core goods,核心商品,-0.05137861313169987,official
+2007-02,core_services,Core services,核心服務,2.316581522779479,official
+2007-02,residual,Residual,差額,-0.013571257656964875,official
+2007-03,food,Food,食物,0.23402263988727823,official
+2007-03,energy,Energy,能源,0.23933131134621358,official
+2007-03,core_goods,Core goods,核心商品,-0.132078308217706,official
+2007-03,core_services,Core services,核心服務,2.235355002029948,official
+2007-03,residual,Residual,差額,-0.011732023021974847,official
+2007-04,food,Food,食物,0.2633125334284186,official
+2007-04,energy,Energy,能源,0.12107731621798305,official
+2007-04,core_goods,Core goods,核心商品,-0.2021652106733227,official
+2007-04,core_services,Core services,核心服務,2.159683603732097,official
+2007-04,residual,Residual,差額,-0.011130326261371337,official
+2007-05,food,Food,食物,0.2932241201503064,official
+2007-05,energy,Energy,能源,0.23417752278896653,official
+2007-05,core_goods,Core goods,核心商品,-0.21182928130297177,official
+2007-05,core_services,Core services,核心服務,2.0467495643721625,official
+2007-05,residual,Residual,差額,-0.009338912530669763,official
+2007-06,food,Food,食物,0.3133926143149381,official
+2007-06,energy,Energy,能源,0.2642319289574194,official
+2007-06,core_goods,Core goods,核心商品,-0.22175312466743136,official
+2007-06,core_services,Core services,核心服務,1.965667797892845,official
+2007-06,residual,Residual,差額,-0.003905095247670687,official
+2007-07,food,Food,食物,0.32275318767823896,official
+2007-07,energy,Energy,能源,0.014183459426335846,official
+2007-07,core_goods,Core goods,核心商品,-0.20152796436399634,official
+2007-07,core_services,Core services,核心服務,1.9923357844870253,official
+2007-07,residual,Residual,差額,-0.0030184543590539015,official
+2007-08,food,Food,食物,0.33234490455212923,official
+2007-08,energy,Energy,能源,-0.1971086049926578,official
+2007-08,core_goods,Core goods,核心商品,-0.28191577092511017,official
+2007-08,core_services,Core services,核心服務,2.029985550660793,official
+2007-08,residual,Residual,差額,-0.009590954478710056,official
+2007-09,food,Food,食物,0.33359355492214554,official
+2007-09,energy,Energy,能源,0.3562605121198558,official
+2007-09,core_goods,Core goods,核心商品,-0.26241584414972563,official
+2007-09,core_services,Core services,核心服務,2.119848413464936,official
+2007-09,residual,Residual,差額,-0.01259958540435635,official
+2007-10,food,Food,食物,0.34516705626785676,official
+2007-10,energy,Energy,能源,0.8294818304172275,official
+2007-10,core_goods,Core goods,核心商品,-0.19185391135982624,official
+2007-10,core_services,Core services,核心服務,2.129681117328989,official
+2007-10,residual,Residual,差額,-0.024001204221867134,official
+2007-11,food,Food,食物,0.37596487708158766,official
+2007-11,energy,Energy,能源,1.179270042841463,official
+2007-11,core_goods,Core goods,核心商品,-0.11150688649962828,official
+2007-11,core_services,Core services,核心服務,2.1738783916158195,official
+2007-11,residual,Residual,差額,-0.017979370006236284,official
+2007-12,food,Food,食物,0.40488651331263525,official
+2007-12,energy,Energy,能源,0.9775970222974881,official
+2007-12,core_goods,Core goods,核心商品,-0.10114756797440969,official
+2007-12,core_services,Core services,核心服務,2.2021747106971494,official
+2007-12,residual,Residual,差額,-0.011876470034805298,official
+2008-01,food,Food,食物,0.40561477331332924,official
+2008-01,energy,Energy,能源,1.0850146514135683,official
+2008-01,core_goods,Core goods,核心商品,-0.08980613249566323,official
+2008-01,core_services,Core services,核心服務,2.0103206901401847,official
+2008-01,residual,Residual,差額,-0.023737165361710666,official
+2008-02,food,Food,食物,0.38577149133569366,official
+2008-02,energy,Energy,能源,1.1042945279910261,official
+2008-02,core_goods,Core goods,核心商品,-0.13041726551454183,official
+2008-02,core_services,Core services,核心服務,1.9380271321905562,official
+2008-02,residual,Residual,差額,-0.024753157827080763,official
+2008-03,food,Food,食物,0.34483759051854607,official
+2008-03,energy,Energy,能源,0.9842948285095583,official
+2008-03,core_goods,Core goods,核心商品,-0.07979812326821434,official
+2008-03,core_services,Core services,核心服務,1.9660731832258365,official
+2008-03,residual,Residual,差額,-0.02426490790974878,official
+2008-04,food,Food,食物,0.4270244842965991,official
+2008-04,energy,Energy,能源,0.9333762311837949,official
+2008-04,core_goods,Core goods,核心商品,-0.0705894582791303,official
+2008-04,core_services,Core services,核心服務,1.8639235272254226,official
+2008-04,residual,Residual,差額,-0.014216107600816486,official
+2008-05,food,Food,食物,0.4267272369304889,official
+2008-05,energy,Energy,能源,1.0282392930766915,official
+2008-05,core_goods,Core goods,核心商品,-0.09126630069719505,official
+2008-05,core_services,Core services,核心服務,1.9339589558288746,official
+2008-05,residual,Residual,差額,-0.015515252588419237,official
+2008-06,food,Food,食物,0.4374412046828231,official
+2008-06,energy,Energy,能源,1.4908339400663364,official
+2008-06,core_goods,Core goods,核心商品,-0.07111557974783027,official
+2008-06,core_services,Core services,核心服務,1.9660282679795216,official
+2008-06,residual,Residual,差額,-0.011748893434576413,official
+2008-07,food,Food,食物,0.5100933522576476,official
+2008-07,energy,Energy,能源,1.726965763146052,official
+2008-07,core_goods,Core goods,核心商品,-0.01994172695907043,official
+2008-07,core_services,Core services,核心服務,1.937646115322925,official
+2008-07,residual,Residual,差額,-0.019108480169858666,official
+2008-08,food,Food,食物,0.5213926429889298,official
+2008-08,energy,Energy,能源,1.5763805350553506,official
+2008-08,core_goods,Core goods,核心商品,0.050437499999999955,official
+2008-08,core_services,Core services,核心服務,1.8505219095940961,official
+2008-08,residual,Residual,差額,-0.018105281365310866,official
+2008-09,food,Food,食物,0.5512597927723022,official
+2008-09,energy,Energy,能源,1.378682197256875,official
+2008-09,core_goods,Core goods,核心商品,0.029924184988627707,official
+2008-09,core_services,Core services,核心服務,1.7178861396374665,official
+2008-09,residual,Residual,差額,-0.00991396144921719,official
+2008-10,food,Food,食物,0.5506901211663117,official
+2008-10,energy,Energy,能源,0.7355449048306193,official
+2008-10,core_goods,Core goods,核心商品,-0.030716232620994575,official
+2008-10,core_services,Core services,核心服務,1.4199122746741795,official
+2008-10,residual,Residual,差額,-0.0035879200165012115,official
+2008-11,food,Food,食物,0.5383698066779827,official
+2008-11,energy,Energy,能源,-0.7813056356159074,official
+2008-11,core_goods,Core goods,核心商品,-0.07114056572606832,official
+2008-11,core_services,Core services,核心服務,1.243053849921965,official
+2008-11,residual,Residual,差額,-0.003948120891771212,official
+2008-12,food,Food,食物,0.5271507319512639,official
+2008-12,energy,Energy,能源,-1.3429176895799233,official
+2008-12,core_goods,Core goods,核心商品,-0.1213225131842154,official
+2008-12,core_services,Core services,核心服務,1.0705780596472088,official
+2008-12,residual,Residual,差額,-0.003919576286586235,official
+2009-01,food,Food,食物,0.4559872344284969,official
+2009-01,energy,Energy,能源,-1.3195235018025981,official
+2009-01,core_goods,Core goods,核心商品,-0.1309661474276127,official
+2009-01,core_services,Core services,核心服務,0.8782971679931071,official
+2009-01,residual,Residual,差額,0.005101693762330106,official
+2009-02,food,Food,食物,0.3952208594510194,official
+2009-02,energy,Energy,能源,-1.2571705777194448,official
+2009-02,core_goods,Core goods,核心商品,-0.02101310221538327,official
+2009-02,core_services,Core services,核心服務,0.7468292186191758,official
+2009-02,residual,Residual,差額,0.00488515761128161,official
+2009-03,food,Food,食物,0.36420454673661645,official
+2009-03,energy,Energy,能源,-1.5126436509279624,official
+2009-03,core_goods,Core goods,核心商品,0.05870073898572797,official
+2009-03,core_services,Core services,核心服務,0.555279065831782,official
+2009-03,residual,Residual,差額,0.008707621142879152,official
+2009-04,food,Food,食物,0.23392943614229889,official
+2009-04,energy,Energy,能源,-1.5696342301152038,official
+2009-04,core_goods,Core goods,核心商品,0.19775650626696242,official
+2009-04,core_services,Core services,核心服務,0.5638152456671809,official
+2009-04,residual,Residual,差額,0.006559082872549471,official
+2009-05,food,Food,食物,0.1733559093967257,official
+2009-05,energy,Energy,能源,-1.752455707557748,official
+2009-05,core_goods,Core goods,核心商品,0.21688270912760704,official
+2009-05,core_services,Core services,核心服務,0.4613815877999551,official
+2009-05,residual,Residual,差額,0.011622673245109794,official
+2009-06,food,Food,食物,0.13230710142830107,official
+2009-06,energy,Energy,能源,-1.753910405557349,official
+2009-06,core_goods,Core goods,核心商品,0.23499994433744867,official
+2009-06,core_services,Core services,核心服務,0.36782381689247107,official
+2009-06,residual,Residual,差額,0.000154853217859241,official
+2009-07,food,Food,食物,0.01255426893456702,official
+2009-07,energy,Energy,能源,-2.0042781317524514,official
+2009-07,core_goods,Core goods,核心商品,0.17449354534877276,official
+2009-07,core_services,Core services,核心服務,0.34519884758158337,official
+2009-07,residual,Residual,差額,0.006022272702081111,official
+2009-08,food,Food,食物,-0.027467950139732952,official
+2009-08,energy,Energy,能源,-1.6179325067648491,official
+2009-08,core_goods,Core goods,核心商品,0.14490396131836933,official
+2009-08,core_services,Core services,核心服務,0.39331799228141767,official
+2009-08,residual,Residual,差額,0.007058732200692974,official
+2009-09,food,Food,食物,-0.09716710804791295,official
+2009-09,energy,Energy,能源,-1.526992476204195,official
+2009-09,core_goods,Core goods,核心商品,0.22394761044688466,official
+2009-09,core_services,Core services,核心服務,0.37212838099881423,official
+2009-09,residual,Residual,差額,0.005334914179969674,official
+2009-10,food,Food,食物,-0.11804898997222563,official
+2009-10,energy,Energy,能源,-0.9135369376805613,official
+2009-10,core_goods,Core goods,核心商品,0.2654964250259339,official
+2009-10,core_services,Core services,核心服務,0.774172848044082,official
+2009-10,residual,Residual,差額,0.0053018928957949685,official
+2009-11,food,Food,食物,-0.13969760590565847,official
+2009-11,energy,Energy,能源,0.42145959613061973,official
+2009-11,core_goods,Core goods,核心商品,0.2889045409908232,official
+2009-11,core_services,Core services,核心服務,0.8846246317429142,official
+2009-11,residual,Residual,差額,0.0053208492770304705,official
+2009-12,food,Food,食物,-0.1302794615087743,official
+2009-12,energy,Energy,能源,0.90608402006856,official
+2009-12,core_goods,Core goods,核心商品,0.3408087584281142,official
+2009-12,core_services,Core services,核心服務,0.9712196644645735,official
+2009-12,residual,Residual,差額,0.0018852868396441735,official
+2010-01,food,Food,食物,-0.1100579970036773,official
+2010-01,energy,Energy,能源,0.9376493621464566,official
+2010-01,core_goods,Core goods,核心商品,0.3105645344350116,official
+2010-01,core_services,Core services,核心服務,1.1640131429609115,official
+2010-01,residual,Residual,差額,-0.000448426930586443,official
+2010-02,food,Food,食物,-0.07968492964448372,official
+2010-02,energy,Energy,能源,0.7043147984501392,official
+2010-02,core_goods,Core goods,核心商品,0.21993995422926158,official
+2010-02,core_services,Core services,核心服務,1.2738004441121156,official
+2010-02,residual,Residual,差額,-0.0020400833843168265,official
+2010-03,food,Food,食物,-0.03930485771643095,official
+2010-03,energy,Energy,能源,0.8450318139028457,official
+2010-03,core_goods,Core goods,核心商品,0.11986004151118879,official
+2010-03,core_services,Core services,核心服務,1.4483549773729996,official
+2010-03,residual,Residual,差額,-0.0012259410904098544,official
+2010-04,food,Food,食物,0.0009310833003001329,official
+2010-04,energy,Energy,能源,0.8637973837703153,official
+2010-04,core_goods,Core goods,核心商品,-0.06171266776148134,official
+2010-04,core_services,Core services,核心服務,1.4788515770994959,official
+2010-04,residual,Residual,差額,0.00025505408007875374,official
+2010-05,food,Food,食物,0.030898887845497644,official
+2010-05,energy,Energy,能源,0.7314377679975561,official
+2010-05,core_goods,Core goods,核心商品,-0.08231153902723246,official
+2010-05,core_services,Core services,核心服務,1.5302239017050019,official
+2010-05,residual,Residual,差額,-0.0017794472037833131,official
+2010-06,food,Food,食物,0.010614990102573328,official
+2010-06,energy,Energy,能源,0.1786100863775418,official
+2010-06,core_goods,Core goods,核心商品,-0.12202841011337048,official
+2010-06,core_services,Core services,核心服務,1.492902307899946,official
+2010-06,residual,Residual,差額,0.002119848839296834,official
+2010-07,food,Food,食物,0.04061042261757496,official
+2010-07,energy,Energy,能源,0.28982726434403183,official
+2010-07,core_goods,Core goods,核心商品,-0.1326383797035604,official
+2010-07,core_services,Core services,核心服務,1.4435210634038822,official
+2010-07,residual,Residual,差額,-0.003930298463809212,official
+2010-08,food,Food,食物,0.04049293563579277,official
+2010-08,energy,Energy,能源,0.18012334604171337,official
+2010-08,core_goods,Core goods,核心商品,-0.10217817896389324,official
+2010-08,core_services,Core services,核心服務,1.3708535546086567,official
+2010-08,residual,Residual,差額,-0.006896501457745341,official
+2010-09,food,Food,食物,0.08065917334646903,official
+2010-09,energy,Energy,能源,0.18027696923559178,official
+2010-09,core_goods,Core goods,核心商品,-0.17190060901885273,official
+2010-09,core_services,Core services,核心服務,1.3394319555774483,official
+2010-09,residual,Residual,差額,-0.008916192736558415,official
+2010-10,food,Food,食物,0.07039202346564358,official
+2010-10,energy,Energy,能源,0.3116493983025328,official
+2010-10,core_goods,Core goods,核心商品,-0.20127867682321582,official
+2010-10,core_services,Core services,核心服務,1.187056199324136,official
+2010-10,residual,Residual,差額,-0.009399083233875949,official
+2010-11,food,Food,食物,0.08032718858121864,official
+2010-11,energy,Energy,能源,0.21207048850223056,official
+2010-11,core_goods,Core goods,核心商品,-0.18069142367639368,official
+2010-11,core_services,Core services,核心服務,1.2055387319634652,official
+2010-11,residual,Residual,差額,-0.010048171593231237,official
+2010-12,food,Food,食物,0.08041138994207185,official
+2010-12,energy,Energy,能源,0.4444277788278722,official
+2010-12,core_goods,Core goods,核心商品,-0.20083667819299747,official
+2010-12,core_services,Core services,核心服務,1.165387429257608,official
+2010-12,residual,Residual,差額,-0.011721722500806608,official
+2011-01,food,Food,食物,0.12088543977988818,official
+2011-01,energy,Energy,能源,0.4243848184964942,official
+2011-01,core_goods,Core goods,核心商品,-0.13979164817608947,official
+2011-01,core_services,Core services,核心服務,1.1649045886216385,official
+2011-01,residual,Residual,差額,-0.0105181059731847,official
+2011-02,food,Food,食物,0.16166895954911578,official
+2011-02,energy,Energy,能源,0.5956459271750948,official
+2011-02,core_goods,Core goods,核心商品,-0.09932589255996628,official
+2011-02,core_services,Core services,核心服務,1.1968029822264628,official
+2011-02,residual,Residual,差額,-0.009761244369504762,official
+2011-03,food,Food,食物,0.21266083912210149,official
+2011-03,energy,Energy,能源,0.8183674012031774,official
+2011-03,core_goods,Core goods,核心商品,-0.1095405546138421,official
+2011-03,core_services,Core services,核心服務,1.1976984522662057,official
+2011-03,residual,Residual,差額,-0.008640054951743359,official
+2011-04,food,Food,食物,0.23316742331967666,official
+2011-04,energy,Energy,能源,1.0220336618314692,official
+2011-04,core_goods,Core goods,核心商品,0.011508470822721724,official
+2011-04,core_services,Core services,核心服務,1.2299854944081496,official
+2011-04,residual,Residual,差額,-0.008598494075954033,official
+2011-05,food,Food,食物,0.26382913248984385,official
+2011-05,energy,Energy,能源,1.1531562226723784,official
+2011-05,core_goods,Core goods,核心商品,0.09272274432969149,official
+2011-05,core_services,Core services,核心服務,1.2635606991443342,official
+2011-05,residual,Residual,差額,-0.007021662847723764,official
+2011-06,food,Food,食物,0.2945062623891208,official
+2011-06,energy,Energy,能源,1.1000228125934375,official
+2011-06,core_goods,Core goods,核心商品,0.13333207827155844,official
+2011-06,core_services,Core services,核心服務,1.2660296120751708,official
+2011-06,residual,Residual,差額,-0.005438810201441324,official
+2011-07,food,Food,食物,0.3250656133129744,official
+2011-07,energy,Energy,能源,1.0294238642147424,official
+2011-07,core_goods,Core goods,核心商品,0.19372457899046228,official
+2011-07,core_services,Core services,核心服務,1.3279645488946425,official
+2011-07,residual,Residual,差額,-0.0004787669565633479,official
+2011-08,food,Food,食物,0.36571412786457763,official
+2011-08,energy,Energy,能源,0.9986288700802192,official
+2011-08,core_goods,Core goods,核心商品,0.2040198006673886,official
+2011-08,core_services,Core services,核心服務,1.4003567876952996,official
+2011-08,residual,Residual,差額,0.008010209719126582,official
+2011-09,food,Food,食物,0.38652044330625224,official
+2011-09,energy,Energy,能源,1.008816341398799,official
+2011-09,core_goods,Core goods,核心商品,0.18324222889438363,official
+2011-09,core_services,Core services,核心服務,1.4313147960084776,official
+2011-09,residual,Residual,差額,0.009136568350408325,official
+2011-10,food,Food,食物,0.39556045818157815,official
+2011-10,energy,Energy,能源,0.7748350040162411,official
+2011-10,core_goods,Core goods,核心商品,0.21316600829656362,official
+2011-10,core_services,Core services,核心服務,1.2977785235637813,official
+2011-10,residual,Residual,差額,0.012292338332541064,official
+2011-11,food,Food,食物,0.374545145065999,official
+2011-11,energy,Energy,能源,0.7341808877468098,official
+2011-11,core_goods,Core goods,核心商品,0.24375798906239707,official
+2011-11,core_services,Core services,核心服務,1.3391518965100702,official
+2011-11,residual,Residual,差額,0.007623926555539562,official
+2011-12,food,Food,食物,0.3842158259192707,official
+2011-12,energy,Energy,能源,0.43050773546040233,official
+2011-12,core_goods,Core goods,核心商品,0.25291591795591006,official
+2011-12,core_services,Core services,核心服務,1.4396740369023098,official
+2011-12,residual,Residual,差額,0.019311368716294464,official
+2012-01,food,Food,食物,0.36388138777828755,official
+2012-01,energy,Energy,能源,0.4205086189945598,official
+2012-01,core_goods,Core goods,核心商品,0.24319645627143824,official
+2012-01,core_services,Core services,核心服務,1.5206673439514102,official
+2012-01,residual,Residual,差額,0.021058639750068053,official
+2012-02,food,Food,食物,0.30278102770243037,official
+2012-02,energy,Energy,能源,0.45207555802477206,official
+2012-02,core_goods,Core goods,核心商品,0.2126042245389283,official
+2012-02,core_services,Core services,核心服務,1.5195177402311624,official
+2012-02,residual,Residual,差額,0.02617547414404653,official
+2012-03,food,Food,食物,0.25226960050343944,official
+2012-03,energy,Energy,能源,0.27173719158908927,official
+2012-03,core_goods,Core goods,核心商品,0.2520935051971443,official
+2012-03,core_services,Core services,核心服務,1.4965179133302953,official
+2012-03,residual,Residual,差額,0.025409261549815376,official
+2012-04,food,Food,食物,0.22133063949782297,official
+2012-04,energy,Energy,能源,0.07143414328467865,official
+2012-04,core_goods,Core goods,核心商品,0.19105318884579234,official
+2012-04,core_services,Core services,核心服務,1.4933996348196246,official
+2012-04,residual,Residual,差額,0.022631135408450742,official
+2012-05,food,Food,食物,0.18058241237424333,official
+2012-05,energy,Energy,能源,-0.18181358926301727,official
+2012-05,core_goods,Core goods,核心商品,0.13045714039509684,official
+2012-05,core_services,Core services,核心服務,1.4208857364441285,official
+2012-05,residual,Residual,差額,0.026828777009435756,official
+2012-06,food,Food,食物,0.17077505683103675,official
+2012-06,energy,Energy,能源,-0.2042207953113048,official
+2012-06,core_goods,Core goods,核心商品,0.0901602042685226,official
+2012-06,core_services,Core services,核心服務,1.4629197685818636,official
+2012-06,residual,Residual,差額,0.026385438326201216,official
+2012-07,food,Food,食物,0.14053583144218462,official
+2012-07,energy,Energy,能源,-0.2645434892500296,official
+2012-07,core_goods,Core goods,核心商品,0.07004097787624895,official
+2012-07,core_services,Core services,核心服務,1.4317194575002419,official
+2012-07,residual,Residual,差額,0.032273357927210755,official
+2012-08,food,Food,食物,0.10029958367311902,official
+2012-08,energy,Energy,能源,-0.0005940169105970138,official
+2012-08,core_goods,Core goods,核心商品,0.009454697626507545,official
+2012-08,core_services,Core services,核心服務,1.3697621142538308,official
+2012-08,residual,Residual,差額,0.03294508347997982,official
+2012-09,food,Food,食物,0.060214943156857076,official
+2012-09,energy,Energy,能源,0.16220172083105644,official
+2012-09,core_goods,Core goods,核心商品,0.029413353048956863,official
+2012-09,core_services,Core services,核心服務,1.3893210967887106,official
+2012-09,residual,Residual,差額,0.036819891349768374,official
+2012-10,food,Food,食物,0.07054902549046921,official
+2012-10,energy,Energy,能源,0.28337022790343847,official
+2012-10,core_goods,Core goods,核心商品,0.02974830974295233,official
+2012-10,core_services,Core services,核心服務,1.562475757803041,official
+2012-10,residual,Residual,差額,0.030734176943943314,official
+2012-11,food,Food,食物,0.09056137724550899,official
+2012-11,energy,Energy,能源,0.07984612917023101,official
+2012-11,core_goods,Core goods,核心商品,-0.010230752780153991,official
+2012-11,core_services,Core services,核心服務,1.5011827416595382,official
+2012-11,residual,Residual,差額,0.03774230111205212,official
+2012-12,food,Food,食物,0.09084874003462501,official
+2012-12,energy,Energy,能源,0.07810193002329709,official
+2012-12,core_goods,Core goods,核心商品,-0.04088678479064698,official
+2012-12,core_services,Core services,核心服務,1.4620376386603116,official
+2012-12,residual,Residual,差額,0.03428131745996388,official
+2013-01,food,Food,食物,0.07076916522887511,official
+2013-01,energy,Energy,能源,0.03813395957143168,official
+2013-01,core_goods,Core goods,核心商品,-0.050227703580633484,official
+2013-01,core_services,Core services,核心服務,1.3795939037638187,official
+2013-01,residual,Residual,差額,0.032538181353432005,official
+2013-02,food,Food,食物,0.09071335968715465,official
+2013-02,energy,Energy,能源,0.19152969055513064,official
+2013-02,core_goods,Core goods,核心商品,-0.08048892714443596,official
+2013-02,core_services,Core services,核心服務,1.3782762688089774,official
+2013-02,residual,Residual,差額,0.02457727620505268,official
+2013-03,food,Food,食物,0.0807194221713122,official
+2013-03,energy,Energy,能源,-0.06188207967417578,official
+2013-03,core_goods,Core goods,核心商品,-0.15100239701327903,official
+2013-03,core_services,Core services,核心服務,1.3877078825675617,official
+2013-03,residual,Residual,差額,0.021450086971281923,official
+2013-04,food,Food,食物,0.09072779849165324,official
+2013-04,energy,Energy,能源,-0.21351675705448683,official
+2013-04,core_goods,Core goods,核心商品,-0.16104599186509622,official
+2013-04,core_services,Core services,核心服務,1.3067554656385052,official
+2013-04,residual,Residual,差額,0.018304804677575115,official
+2013-05,food,Food,食物,0.08061006129244343,official
+2013-05,energy,Energy,能源,-0.03365867107802581,official
+2013-05,core_goods,Core goods,核心商品,-0.17144673495790122,official
+2013-05,core_services,Core services,核心服務,1.349624398210006,official
+2013-05,residual,Residual,差額,0.0039010837521893382,official
+2013-06,food,Food,食物,0.09090213677934092,official
+2013-06,energy,Energy,能源,0.17716892651770752,official
+2013-06,core_goods,Core goods,核心商品,-0.1515238610562947,official
+2013-06,core_services,Core services,核心服務,1.3820485072251576,official
+2013-06,residual,Residual,差額,0.006910688140559618,official
+2013-07,food,Food,食物,0.10101624809095537,official
+2013-07,energy,Energy,能源,0.23723390039029366,official
+2013-07,core_goods,Core goods,核心商品,-0.16161611233667064,official
+2013-07,core_services,Core services,核心服務,1.4131947861870016,official
+2013-07,residual,Residual,差額,0.005284023417622574,official
+2013-08,food,Food,食物,0.10067776544580095,official
+2013-08,energy,Energy,能源,0.00800454521431216,official
+2013-08,core_goods,Core goods,核心商品,-0.14145954230748903,official
+2013-08,core_services,Core services,核心服務,1.4402666878071984,official
+2013-08,residual,Residual,差額,-0.002701125733323817,official
+2013-09,food,Food,食物,0.100372208698218,official
+2013-09,energy,Energy,能源,-0.24196126163152182,official
+2013-09,core_goods,Core goods,核心商品,-0.15113991548375538,official
+2013-09,core_services,Core services,核心服務,1.4372960070816605,official
+2013-09,residual,Residual,差額,-0.0032815908444283615,official
+2013-10,food,Food,食物,0.09021917750646184,official
+2013-10,energy,Energy,能源,-0.3312087334776304,official
+2013-10,core_goods,Core goods,核心商品,-0.18071889381553785,official
+2013-10,core_services,Core services,核心服務,1.4049616491899046,official
+2013-10,residual,Residual,差額,-0.007146279446088921,official
+2013-11,food,Food,食物,0.07016948974334711,official
+2013-11,energy,Energy,能源,-0.14110988444836978,official
+2013-11,core_goods,Core goods,核心商品,-0.19094691354130527,official
+2013-11,core_services,Core services,核心服務,1.4674280036589598,official
+2013-11,residual,Residual,差額,-0.010070235203828881,official
+2013-12,food,Food,食物,0.06029854670115886,official
+2013-12,energy,Energy,能源,0.02973163396218479,official
+2013-12,core_goods,Core goods,核心商品,-0.1914552968641555,official
+2013-12,core_services,Core services,核心服務,1.499218562685343,official
+2013-12,residual,Residual,差額,-0.009693250888588523,official
+2014-01,food,Food,食物,0.0603225400157439,official
+2014-01,energy,Energy,能源,0.12088963526633432,official
+2014-01,core_goods,Core goods,核心商品,-0.24127368144843875,official
+2014-01,core_services,Core services,核心服務,1.4679514038310155,official
+2014-01,residual,Residual,差額,-0.002484492259241744,official
+2014-02,food,Food,食物,0.07035329554249377,official
+2014-02,energy,Energy,能源,-0.14872173531072858,official
+2014-02,core_goods,Core goods,核心商品,-0.230733783755517,official
+2014-02,core_services,Core services,核心服務,1.403799757357709,official
+2014-02,residual,Residual,差額,-0.0007154809965184139,official
+2014-03,food,Food,食物,0.09080114778820375,official
+2014-03,energy,Energy,能源,0.07137231903485255,official
+2014-03,core_goods,Core goods,核心商品,-0.20121774463806974,official
+2014-03,core_services,Core services,核心服務,1.4273216529825739,official
+2014-03,residual,Residual,差額,0.001426043063009752,official
+2014-04,food,Food,食物,0.10118187250369531,official
+2014-04,energy,Energy,能源,0.23174670566405633,official
+2014-04,core_goods,Core goods,核心商品,-0.17125273872797225,official
+2014-04,core_services,Core services,核心服務,1.5108019624492877,official
+2014-04,residual,Residual,差額,0.0006360138797114612,official
+2014-05,food,Food,食物,0.1617324352353317,official
+2014-05,energy,Energy,能源,0.22124972501859397,official
+2014-05,core_goods,Core goods,核心商品,-0.15114182755261313,official
+2014-05,core_services,Core services,核心服務,1.5321872806695929,official
+2014-05,residual,Residual,差額,0.0021386744324891627,official
+2014-06,food,Food,食物,0.1414183729996969,official
+2014-06,energy,Energy,能源,0.17104648124340202,official
+2014-06,core_goods,Core goods,核心商品,-0.13049878231057876,official
+2014-06,core_services,Core services,核心服務,1.4703348907215201,official
+2014-06,residual,Residual,差額,-0.0008423484159632011,official
+2014-07,food,Food,食物,0.1515601511608485,official
+2014-07,energy,Energy,能源,0.1303888633706364,official
+2014-07,core_goods,Core goods,核心商品,-0.12034908969433775,official
+2014-07,core_services,Core services,核心服務,1.5109327501252714,official
+2014-07,residual,Residual,差額,-0.0032909846333699644,official
+2014-08,food,Food,食物,0.17163956470073177,official
+2014-08,energy,Energy,能源,0.00920674630475118,official
+2014-08,core_goods,Core goods,核心商品,-0.15095993078574857,official
+2014-08,core_services,Core services,核心服務,1.4802407905434987,official
+2014-08,residual,Residual,差額,-0.003883294765140821,official
+2014-09,food,Food,食物,0.18171063599233142,official
+2014-09,energy,Energy,能源,-0.04228098691339502,official
+2014-09,core_goods,Core goods,核心商品,-0.1206058806368259,official
+2014-09,core_services,Core services,核心服務,1.4810986079853297,official
+2014-09,residual,Residual,差額,-0.0026730640993539723,official
+2014-10,food,Food,食物,0.17148372059144876,official
+2014-10,energy,Energy,能源,-0.1337509755158528,official
+2014-10,core_goods,Core goods,核心商品,-0.10032340301551462,official
+2014-10,core_services,Core services,核心服務,1.3903069623216757,official
+2014-10,residual,Residual,差額,0.005228556860867206,official
+2014-11,food,Food,食物,0.2014505537892484,official
+2014-11,energy,Energy,能源,-0.345769070922428,official
+2014-11,core_goods,Core goods,核心商品,-0.16101687342850618,official
+2014-11,core_services,Core services,核心服務,1.380119485485111,official
+2014-11,residual,Residual,差額,0.010975313259781405,official
+2014-12,food,Food,食物,0.21129887775634243,official
+2014-12,energy,Energy,能源,-0.6673186466695709,official
+2014-12,core_goods,Core goods,核心商品,-0.17126081274503704,official
+2014-12,core_services,Core services,核心服務,1.348850789304458,official
+2014-12,residual,Residual,差額,0.010688592942943775,official
+2015-01,food,Food,食物,0.2008821702858799,official
+2015-01,energy,Energy,能源,-1.2180870267249053,official
+2015-01,core_goods,Core goods,核心商品,-0.21126192891299397,official
+2015-01,core_services,Core services,核心服務,1.266443372596104,official
+2015-01,residual,Residual,差額,0.0034252799801265665,official
+2015-02,food,Food,食物,0.19079546865301056,official
+2015-02,energy,Energy,能源,-1.1375164494103043,official
+2015-02,core_goods,Core goods,核心商品,-0.17117214980343473,official
+2015-02,core_services,Core services,核心服務,1.2858642665011382,official
+2015-02,residual,Residual,差額,0.0027302917442621755,official
+2015-03,food,Food,食物,0.14053597066570264,official
+2015-03,energy,Energy,能源,-1.0556870319681868,official
+2015-03,core_goods,Core goods,核心商品,-0.14092909156638952,official
+2015-03,core_services,Core services,核心服務,1.2540581521458452,official
+2015-03,residual,Residual,差額,0.0013712751123218236,official
+2015-04,food,Food,食物,0.10031787765370617,official
+2015-04,energy,Energy,能源,-1.1238100982605916,official
+2015-04,core_goods,Core goods,核心商品,-0.12065493313536867,official
+2015-04,core_services,Core services,核心服務,1.2521127573798552,official
+2015-04,residual,Residual,差額,0.0023584604122260516,official
+2015-05,food,Food,食物,0.06021853479778068,official
+2015-05,energy,Energy,能源,-0.9720630590754218,official
+2015-05,core_goods,Core goods,核心商品,-0.13045076018816842,official
+2015-05,core_services,Core services,核心服務,1.2202321224536012,official
+2015-05,residual,Residual,差額,0.007349377747111641,official
+2015-06,food,Food,食物,0.08016811820715042,official
+2015-06,energy,Energy,能源,-0.9109394054682117,official
+2015-06,core_goods,Core goods,核心商品,-0.19031721386486788,official
+2015-06,core_services,Core services,核心服務,1.2790958633666827,official
+2015-06,residual,Residual,差額,0.012421313481336238,official
+2015-07,food,Food,食物,0.0700956967276237,official
+2015-07,energy,Energy,能源,-0.8897039767534988,official
+2015-07,core_goods,Core goods,核心商品,-0.22008604491174746,official
+2015-07,core_services,Core services,核心服務,1.2476499881919274,official
+2015-07,residual,Residual,差額,0.011777166267929629,official
+2015-08,food,Food,食物,0.06012507830230337,official
+2015-08,energy,Energy,能源,-0.8999906550693682,official
+2015-08,core_goods,Core goods,核心商品,-0.2001766294580967,official
+2015-08,core_services,Core services,核心服務,1.268047936413395,official
+2015-08,residual,Residual,差額,0.011265570605563935,official
+2015-09,food,Food,食物,0.060128011661687866,official
+2015-09,energy,Energy,能源,-1.0702630039111822,official
+2015-09,core_goods,Core goods,核心商品,-0.19003849588863908,official
+2015-09,core_services,Core services,核心服務,1.2678445382033199,official
+2015-09,residual,Residual,差額,-0.001971400121135461,official
+2015-10,food,Food,食物,0.07015546701716914,official
+2015-10,energy,Energy,能源,-1.0005871601084366,official
+2015-10,core_goods,Core goods,核心商品,-0.240136264684137,official
+2015-10,core_services,Core services,核心服務,1.2682680933212849,official
+2015-10,residual,Residual,差額,-0.00220190174977071,official
+2015-11,food,Food,食物,0.03016517457935472,official
+2015-11,energy,Energy,能源,-0.8213811143887925,official
+2015-11,core_goods,Core goods,核心商品,-0.19033713293110358,official
+2015-11,core_services,Core services,核心服務,1.2495760142253651,official
+2015-11,residual,Residual,差額,-0.014145398854980396,official
+2015-12,food,Food,食物,-0.00990300658978583,official
+2015-12,energy,Energy,能源,-0.6929036243822075,official
+2015-12,core_goods,Core goods,核心商品,-0.1707133443163097,official
+2015-12,core_services,Core services,核心服務,1.2419874382207579,official
+2015-12,residual,Residual,差額,-0.02250370675452984,official
+2016-01,food,Food,食物,-0.009950752167525402,official
+2016-01,energy,Energy,能源,-0.36507045750822525,official
+2016-01,core_goods,Core goods,核心商品,-0.13141308171415564,official
+2016-01,core_services,Core services,核心服務,1.3993243942309683,official
+2016-01,residual,Residual,差額,-0.021741469571881167,official
+2016-02,food,Food,食物,-0.009846217402530336,official
+2016-02,energy,Energy,能源,-0.6457573973663826,official
+2016-02,core_goods,Core goods,核心商品,-0.12093777433514072,official
+2016-02,core_services,Core services,核心服務,1.4378259746966175,official
+2016-02,residual,Residual,差額,-0.02095409243481583,official
+2016-03,food,Food,食物,-0.020000515421408543,official
+2016-03,energy,Energy,能源,-0.5837576282368465,official
+2016-03,core_goods,Core goods,核心商品,-0.1608259112650503,official
+2016-03,core_services,Core services,核心服務,1.4660156894276761,official
+2016-03,residual,Residual,差額,-0.015921161141343898,official
+2016-04,food,Food,食物,-5.149648793934675e-07,official
+2016-04,energy,Energy,能源,-0.4126377531052382,official
+2016-04,core_goods,Core goods,核心商品,-0.1403587245349867,official
+2016-04,core_services,Core services,核心服務,1.495854944692772,official
+2016-04,residual,Residual,差額,-0.016951098935053976,official
+2016-05,food,Food,食物,-0.03020580106239789,official
+2016-05,energy,Energy,能源,-0.4909965374459297,official
+2016-05,core_goods,Core goods,核心商品,-0.1803887924214247,official
+2016-05,core_services,Core services,核心服務,1.5638613128936472,official
+2016-05,residual,Residual,差額,-0.01358482230006941,official
+2016-06,food,Food,食物,-0.07023914024365233,official
+2016-06,energy,Energy,能源,-0.459256019525001,official
+2016-06,core_goods,Core goods,核心商品,-0.1904433118667706,official
+2016-06,core_services,Core services,核心服務,1.5620161819598835,official
+2016-06,residual,Residual,差額,-0.012470261290461804,official
+2016-07,food,Food,食物,-0.09023974181650529,official
+2016-07,energy,Energy,能源,-0.5495840377029865,official
+2016-07,core_goods,Core goods,核心商品,-0.1905183136109831,official
+2016-07,core_services,Core services,核心服務,1.6018815634444956,official
+2016-07,residual,Residual,差額,-0.016455202090071896,official
+2016-08,food,Food,食物,-0.1103073392615662,official
+2016-08,energy,Energy,能源,-0.47962514854730975,official
+2016-08,core_goods,Core goods,核心商品,-0.1403572306683605,official
+2016-08,core_services,Core services,核心服務,1.6328215793140188,official
+2016-08,residual,Residual,差額,-0.014321394910451146,official
+2016-09,food,Food,食物,-0.13057675143880093,official
+2016-09,energy,Energy,能源,-0.12909311940252566,official
+2016-09,core_goods,Core goods,核心商品,-0.14028478512879966,official
+2016-09,core_services,Core services,核心服務,1.6258695897493767,official
+2016-09,residual,Residual,差額,-0.006140012515789106,official
+2016-10,food,Food,食物,-0.14057675143880094,official
+2016-10,energy,Energy,能源,0.002004678026611452,official
+2016-10,core_goods,Core goods,核心商品,-0.12052874011305234,official
+2016-10,core_services,Core services,核心服務,1.6975772746391455,official
+2016-10,residual,Residual,差額,-0.011473168029387137,official
+2016-11,food,Food,食物,-0.14077405729049192,official
+2016-11,energy,Energy,能源,0.0221335274457135,official
+2016-11,core_goods,Core goods,核心商品,-0.1916930837212164,official
+2016-11,core_services,Core services,核心服務,1.7083633045582234,official
+2016-11,residual,Residual,差額,-0.0006256023293382817,official
+2016-12,food,Food,食物,-0.13102394926941388,official
+2016-12,energy,Energy,能源,0.223439295682154,official
+2016-12,core_goods,Core goods,核心商品,-0.19227394926941394,official
+2016-12,core_services,Core services,核心服務,1.7618008126744376,official
+2016-12,residual,Residual,差額,-0.004784107699880025,official
+2017-01,food,Food,食物,-0.12080864855994093,official
+2017-01,energy,Energy,能源,0.4753984778862723,official
+2017-01,core_goods,Core goods,核心商品,-0.11123399934356286,official
+2017-01,core_services,Core services,核心服務,1.7742211988184131,official
+2017-01,residual,Residual,差額,-0.012366558628057245,official
+2017-02,food,Food,食物,-0.12067125044897123,official
+2017-02,energy,Energy,能源,0.6551396172199703,official
+2017-02,core_goods,Core goods,核心商品,-0.1208961978552004,official
+2017-02,core_services,Core services,核心服務,1.7979690081584485,official
+2017-02,residual,Residual,差額,-0.01440433064805191,official
+2017-03,food,Food,食物,-0.07006787955729833,official
+2017-03,energy,Energy,能源,0.48334954388623264,official
+2017-03,core_goods,Core goods,核心商品,-0.12127158989690089,official
+2017-03,core_services,Core services,核心服務,1.6339262641671701,official
+2017-03,residual,Residual,差額,-0.01957531764153364,official
+2017-04,food,Food,食物,-0.05968171195901749,official
+2017-04,energy,Energy,能源,0.37213035624993623,official
+2017-04,core_goods,Core goods,核心商品,-0.20118437031216518,official
+2017-04,core_services,Core services,核心服務,1.6724502770606064,official
+2017-04,residual,Residual,差額,-0.016241364179079953,official
+2017-05,food,Food,食物,-0.029633327560033822,official
+2017-05,energy,Energy,能源,0.20984350962273182,official
+2017-05,core_goods,Core goods,核心商品,-0.2118988721689607,official
+2017-05,core_services,Core services,核心服務,1.6019556203070715,official
+2017-05,residual,Residual,差額,-0.012494880441765721,official
+2017-06,food,Food,食物,-0.019754487668446476,official
+2017-06,energy,Energy,能源,0.08937533689295703,official
+2017-06,core_goods,Core goods,核心商品,-0.1717536740401729,official
+2017-06,core_services,Core services,核心服務,1.591192372234935,official
+2017-06,residual,Residual,差額,-0.02351161962877235,official
+2017-07,food,Food,食物,0.00039199934920990283,official
+2017-07,energy,Energy,能源,0.14876339712432124,official
+2017-07,core_goods,Core goods,核心商品,-0.14172916963250695,official
+2017-07,core_services,Core services,核心服務,1.501958573142706,official
+2017-07,residual,Residual,差額,-0.023753025157095653,official
+2017-08,food,Food,食物,0.010377542420211416,official
+2017-08,energy,Energy,能源,0.2801558707947887,official
+2017-08,core_goods,Core goods,核心商品,-0.20204195818397833,official
+2017-08,core_services,Core services,核心服務,1.5019461001837955,official
+2017-08,residual,Residual,差額,-0.01852882340398354,official
+2017-09,food,Food,食物,0.020338921208927087,official
+2017-09,energy,Energy,能源,0.4633629619119048,official
+2017-09,core_goods,Core goods,核心商品,-0.2721539334725235,official
+2017-09,core_services,Core services,核心服務,1.561339164453814,official
+2017-09,residual,Residual,差額,-0.015442807045989326,official
+2017-10,food,Food,食物,0.030452320265404377,official
+2017-10,energy,Energy,能源,0.281205546789659,official
+2017-10,core_goods,Core goods,核心商品,-0.21101893433669136,official
+2017-10,core_services,Core services,核心服務,1.5910694056722094,official
+2017-10,residual,Residual,差額,-0.00966763765828027,official
+2017-11,food,Food,食物,0.040270674715119165,official
+2017-11,energy,Energy,能源,0.38292797848353405,official
+2017-11,core_goods,Core goods,核心商品,-0.19213223324334439,official
+2017-11,core_services,Core services,核心服務,1.582559630337408,official
+2017-11,residual,Residual,差額,-0.019913145468698268,official
+2017-12,food,Food,食物,0.050184413198615135,official
+2017-12,energy,Energy,能源,0.31257007600609665,official
+2017-12,core_goods,Core goods,核心商品,-0.1821778320598359,official
+2017-12,core_services,Core services,核心服務,1.592512844323768,official
+2017-12,residual,Residual,差額,-0.006679553047810982,official
+2018-01,food,Food,食物,0.06030638203738525,official
+2018-01,energy,Energy,能源,0.25283677388864867,official
+2018-01,core_goods,Core goods,核心商品,-0.16015042583784986,official
+2018-01,core_services,Core services,核心服務,1.6100467566942516,official
+2018-01,residual,Residual,差額,-0.005389991050874343,official
+2018-02,food,Food,食物,0.04007621553230374,official
+2018-02,energy,Energy,能源,0.3434251802462194,official
+2018-02,core_goods,Core goods,核心商品,-0.1799062117165064,official
+2018-02,core_services,Core services,核心服務,1.6306454722551362,official
+2018-02,residual,Residual,差額,0.0033670395437015443,official
+2018-03,food,Food,食物,0.020086502235394585,official
+2018-03,energy,Energy,能源,0.28191570804239713,official
+2018-03,core_goods,Core goods,核心商品,-0.12960506354548657,official
+2018-03,core_services,Core services,核心服務,1.8248877279348974,official
+2018-03,residual,Residual,差額,0.0010071834028255733,official
+2018-04,food,Food,食物,0.020247681123088494,official
+2018-04,energy,Energy,能源,0.3526413637503134,official
+2018-04,core_goods,Core goods,核心商品,-0.06887410378540995,official
+2018-04,core_services,Core services,核心服務,1.733975733266483,official
+2018-04,residual,Residual,差額,0.008637553271504839,official
+2018-05,food,Food,食物,-0.00016171425131919492,official
+2018-05,energy,Energy,能源,0.5036771934752513,official
+2018-05,core_goods,Core goods,核心商品,-0.00887793182319783,official
+2018-05,core_services,Core services,核心服務,1.7678079292149034,official
+2018-05,residual,Residual,差額,0.0037610601713367053,official
+2018-06,food,Food,食物,0.02004801234889642,official
+2018-06,energy,Energy,能源,0.5232362728785358,official
+2018-06,core_goods,Core goods,核心商品,-0.06018693743359468,official
+2018-06,core_services,Core services,核心服務,1.7794810857406331,official
+2018-06,residual,Residual,差額,0.005729406811924687,official
+2018-07,food,Food,食物,0.020267326633467933,official
+2018-07,energy,Energy,能源,0.5425813853290984,official
+2018-07,core_goods,Core goods,核心商品,-0.08061070308507765,official
+2018-07,core_services,Core services,核心服務,1.8417468412773164,official
+2018-07,residual,Residual,差額,0.014622205745316474,official
+2018-08,food,Food,食物,0.030432883121557182,official
+2018-08,energy,Energy,能源,0.4829007168064623,official
+2018-08,core_goods,Core goods,核心商品,-0.13241824707329025,official
+2018-08,core_services,Core services,核心服務,1.789834444699931,official
+2018-08,residual,Residual,差額,0.009661491397328525,official
+2018-09,food,Food,食物,0.050679980079681275,official
+2018-09,energy,Energy,能源,0.2526128486055777,official
+2018-09,core_goods,Core goods,核心商品,-0.0920749003984064,official
+2018-09,core_services,Core services,核心服務,1.7966235059760955,official
+2018-09,residual,Residual,差額,0.0021187250995966522,official
+2018-10,food,Food,食物,0.030439267489630065,official
+2018-10,energy,Energy,能源,0.38291720961693404,official
+2018-10,core_goods,Core goods,核心商品,-0.10133968626592794,official
+2018-10,core_services,Core services,核心服務,1.736568620624484,official
+2018-10,residual,Residual,差額,0.004512637892773341,official
+2018-11,food,Food,食物,0.06076285075738763,official
+2018-11,energy,Energy,能源,0.11966615346411723,official
+2018-11,core_goods,Core goods,核心商品,-0.03129485969704498,official
+2018-11,core_services,Core services,核心服務,1.7773077725353863,official
+2018-11,residual,Residual,差額,0.015450310404768297,official
+2018-12,food,Food,食物,0.08103371321450889,official
+2018-12,energy,Energy,能源,0.007713075648922374,official
+2018-12,core_goods,Core goods,核心商品,-0.05199621110681308,official
+2018-12,core_services,Core services,核心服務,1.808180934527529,official
+2018-12,residual,Residual,差額,0.019759375526924083,official
+2019-01,food,Food,食物,0.0811025800650204,official
+2019-01,energy,Energy,能源,-0.25487425765076727,official
+2019-01,core_goods,Core goods,核心商品,-0.0503158133973656,official
+2019-01,core_services,Core services,核心服務,1.6328050672437475,official
+2019-01,residual,Residual,差額,0.02311475409836028,official
+2019-02,food,Food,食物,0.12127208724461624,official
+2019-02,energy,Energy,能源,-0.23322868186479448,official
+2019-02,core_goods,Core goods,核心商品,-0.09069407194131104,official
+2019-02,core_services,Core services,核心服務,1.5809899818569062,official
+2019-02,residual,Residual,差額,0.021834227340845835,official
+2019-03,food,Food,食物,0.13127230999566605,official
+2019-03,energy,Energy,能源,-0.0012670895551789851,official
+2019-03,core_goods,Core goods,核心商品,-0.15109323903707497,official
+2019-03,core_services,Core services,核心服務,1.510921161498759,official
+2019-03,residual,Residual,差額,0.03197450849061023,official
+2019-04,food,Food,食物,0.08047176856710492,official
+2019-04,energy,Energy,能源,0.0706949275789557,official
+2019-04,core_goods,Core goods,核心商品,-0.20091867617868442,official
+2019-04,core_services,Core services,核心服務,1.590174321482617,official
+2019-04,residual,Residual,差額,0.02591612129788068,official
+2019-05,food,Food,食物,0.12057768709351488,official
+2019-05,energy,Energy,能源,0.00022463974259622974,official
+2019-05,core_goods,Core goods,核心商品,-0.20057376325521623,official
+2019-05,core_services,Core services,核心服務,1.5188155894095603,official
+2019-05,residual,Residual,差額,0.026509451545496665,official
+2019-06,food,Food,食物,0.11048231385194406,official
+2019-06,energy,Energy,能源,-0.11129139754383552,official
+2019-06,core_goods,Core goods,核心商品,-0.110039106528536,official
+2019-06,core_services,Core services,核心服務,1.5094178125826971,official
+2019-06,residual,Residual,差額,0.027495515980754837,official
+2019-07,food,Food,食物,0.10037606352252366,official
+2019-07,energy,Energy,能源,-0.05066733896629029,official
+2019-07,core_goods,Core goods,核心商品,-0.14060330732251777,official
+2019-07,core_services,Core services,核心服務,1.5198055552835896,official
+2019-07,residual,Residual,差額,0.025018553511457986,official
+2019-08,food,Food,食物,0.09031328271759548,official
+2019-08,energy,Energy,能源,-0.1714205345961177,official
+2019-08,core_goods,Core goods,核心商品,-0.05056815513462742,official
+2019-08,core_services,Core services,核心服務,1.5403341225735754,official
+2019-08,residual,Residual,差額,0.021757690200377988,official
+2019-09,food,Food,食物,0.0802913550352477,official
+2019-09,energy,Energy,能源,-0.2212520260110527,official
+2019-09,core_goods,Core goods,核心商品,-0.08083120154660312,official
+2019-09,core_services,Core services,核心服務,1.4787262981116598,official
+2019-09,residual,Residual,差額,0.02701956687300955,official
+2019-10,food,Food,食物,0.10024650324089868,official
+2019-10,energy,Energy,能源,-0.22035761976704513,official
+2019-10,core_goods,Core goods,核心商品,-0.10052907061747647,official
+2019-10,core_services,Core services,核心服務,1.4876959890832886,official
+2019-10,residual,Residual,差額,0.02150601881183367,official
+2019-11,food,Food,食物,0.0903445386339277,official
+2019-11,energy,Energy,能源,-0.029832017928480885,official
+2019-11,core_goods,Core goods,核心商品,-0.13087099288707002,official
+2019-11,core_services,Core services,核心服務,1.4082464191756796,official
+2019-11,residual,Residual,差額,0.020389359836301413,official
+2019-12,food,Food,食物,0.07029590753741444,official
+2019-12,energy,Energy,能源,0.14102121693070183,official
+2019-12,core_goods,Core goods,核心商品,-0.12119463296365177,official
+2019-12,core_services,Core services,核心服務,1.4603601717607424,official
+2019-12,residual,Residual,差額,0.013280104380686275,official
+2020-01,food,Food,食物,0.0909683578832515,official
+2020-01,energy,Energy,能源,0.31086889174655136,official
+2020-01,core_goods,Core goods,核心商品,-0.20129851531447274,official
+2020-01,core_services,Core services,核心服務,1.5836794676954251,official
+2020-01,residual,Residual,差額,0.010263911620290944,official
+2020-02,food,Food,食物,0.08117857559609475,official
+2020-02,energy,Energy,能源,0.11867760317398579,official
+2020-02,core_goods,Core goods,核心商品,-0.13052112100820723,official
+2020-02,core_services,Core services,核心服務,1.603076257341787,official
+2020-02,residual,Residual,差額,0.01668588821034489,official
+2020-03,food,Food,食物,0.10145543276833965,official
+2020-03,energy,Energy,能源,-0.27492223655997433,official
+2020-03,core_goods,Core goods,核心商品,-0.15119201699832152,official
+2020-03,core_services,Core services,核心服務,1.4795550553512695,official
+2020-03,residual,Residual,差額,0.011312809865233753,official
+2020-04,food,Food,食物,0.34281994969040247,official
+2020-04,energy,Energy,能源,-0.7466626354489164,official
+2020-04,core_goods,Core goods,核心商品,-0.2720565982972137,official
+2020-04,core_services,Core services,核心服務,1.134718653250774,official
+2020-04,residual,Residual,差額,0.0036419311145559075,official
+2020-05,food,Food,食物,0.3928586068545463,official
+2020-05,energy,Energy,能源,-0.7663377966839077,official
+2020-05,core_goods,Core goods,核心商品,-0.3421320636148306,official
+2020-05,core_services,Core services,核心服務,1.2045383090829989,official
+2020-05,residual,Residual,差額,0.001235848600570466,official
+2020-06,food,Food,食物,0.42280536121526036,official
+2020-06,energy,Energy,能源,-0.5053631479262495,official
+2020-06,core_goods,Core goods,核心商品,-0.37195585791040164,official
+2020-06,core_services,Core services,核心服務,1.2146491245023385,official
+2020-06,residual,Residual,差額,-0.0005977735688510455,official
+2020-07,food,Food,食物,0.34174200459361914,official
+2020-07,energy,Energy,能源,-0.4842616432803844,official
+2020-07,core_goods,Core goods,核心商品,-0.1907141340641949,official
+2020-07,core_services,Core services,核心服務,1.2543435756885604,official
+2020-07,residual,Residual,差額,0.001474204319554362,official
+2020-08,food,Food,食物,0.34158377544130414,official
+2020-08,energy,Energy,能源,-0.4038900356901708,official
+2020-08,core_goods,Core goods,核心商品,-0.059487219060480406,official
+2020-08,core_services,Core services,核心服務,1.274952348799074,official
+2020-08,residual,Residual,差額,0.004360181344661207,official
+2020-09,food,Food,食物,0.3111631785449182,official
+2020-09,energy,Energy,能源,-0.32299923842942935,official
+2020-09,core_goods,Core goods,核心商品,-0.05979813559812214,official
+2020-09,core_services,Core services,核心服務,1.346102108297263,official
+2020-09,residual,Residual,差額,0.0018858029749502236,official
+2020-10,food,Food,食物,0.32084933167816626,official
+2020-10,energy,Energy,能源,-0.37246619898572897,official
+2020-10,core_goods,Core goods,核心商品,-0.06967454795654231,official
+2020-10,core_services,Core services,核心服務,1.3048087415918472,official
+2020-10,residual,Residual,差額,0.003968840516955563,official
+2020-11,food,Food,食物,0.3105295893255403,official
+2020-11,energy,Energy,能源,-0.39182525186495426,official
+2020-11,core_goods,Core goods,核心商品,-0.00930871721910331,official
+2020-11,core_services,Core services,核心服務,1.2740905944781973,official
+2020-11,residual,Residual,差額,0.0027784934245889126,official
+2020-12,food,Food,食物,0.3298694239121056,official
+2020-12,energy,Energy,能源,-0.3092046554881264,official
+2020-12,core_goods,Core goods,核心商品,0.05090866384806389,official
+2020-12,core_services,Core services,核心服務,1.2632636352306172,official
+2020-12,residual,Residual,差額,-0.00031493571859431135,official
+2021-01,food,Food,食物,0.2893617571059432,official
+2021-01,energy,Energy,能源,-0.1774253995597665,official
+2021-01,core_goods,Core goods,核心商品,0.1317451430758924,official
+2021-01,core_services,Core services,核心服務,1.2631826969087951,official
+2021-01,residual,Residual,差額,0.0004570772322760597,official
+2021-02,food,Food,食物,0.27929063907509594,official
+2021-02,energy,Energy,能源,0.054340221663335624,official
+2021-02,core_goods,Core goods,核心商品,0.07123636120222235,official
+2021-02,core_services,Core services,核心服務,1.3858501716504261,official
+2021-02,residual,Residual,差額,-0.004405439262512356,official
+2021-03,food,Food,食物,0.26022077087589074,official
+2021-03,energy,Energy,能源,0.4787595784062682,official
+2021-03,core_goods,Core goods,核心商品,0.17244890717457392,official
+2021-03,core_services,Core services,核心服務,1.7265525409749594,official
+2021-03,residual,Residual,差額,-0.0025414544791813043,official
+2021-04,food,Food,食物,0.08108457404803637,official
+2021-04,energy,Energy,能源,0.7606003582503514,official
+2021-04,core_goods,Core goods,核心商品,0.6229420828598394,official
+2021-04,core_services,Core services,核心服務,2.111381864057474,official
+2021-04,residual,Residual,差額,0.0016794429784821041,official
+2021-05,food,Food,食物,0.042115699139904955,official
+2021-05,energy,Energy,能源,0.8615263319928422,official
+2021-05,core_goods,Core goods,核心商品,0.9198916703546209,official
+2021-05,core_services,Core services,核心服務,2.1456726828423545,official
+2021-05,residual,Residual,差額,0.0012771545669849615,official
+2021-06,food,Food,食物,0.06389929989450466,official
+2021-06,energy,Energy,能源,0.7818384962117579,official
+2021-06,core_goods,Core goods,核心商品,1.0724631245804164,official
+2021-06,core_services,Core services,核心服務,2.2895650714491227,official
+2021-06,residual,Residual,差額,0.010129855183662606,official
+2021-07,food,Food,食物,0.185039874543403,official
+2021-07,energy,Energy,能源,0.7716680372544894,official
+2021-07,core_goods,Core goods,核心商品,1.0124250798447092,official
+2021-07,core_services,Core services,核心服務,2.415084912696743,official
+2021-07,residual,Residual,差額,-0.000886802195482872,official
+2021-08,food,Food,食物,0.2157524554209974,official
+2021-08,energy,Energy,能源,0.8224399733002765,official
+2021-08,core_goods,Core goods,核心商品,0.9632422046343091,official
+2021-08,core_services,Core services,核心服務,2.5077262324783063,official
+2021-08,residual,Residual,差額,0.00023171545723776887,official
+2021-09,food,Food,食物,0.3187915131785602,official
+2021-09,energy,Energy,能源,0.8445415345955052,official
+2021-09,core_goods,Core goods,核心商品,1.0227712575078292,official
+2021-09,core_services,Core services,核心服務,2.4691854897817374,official
+2021-09,residual,Residual,差額,0.00027813472686233354,official
+2021-10,food,Food,食物,0.3717178153322365,official
+2021-10,energy,Energy,能源,1.021076832364885,official
+2021-10,core_goods,Core goods,核心商品,1.2414371713060266,official
+2021-10,core_services,Core services,核心服務,2.6379984973989785,official
+2021-10,residual,Residual,差額,0.004942511245731751,official
+2021-11,food,Food,食物,0.4449590529935967,official
+2021-11,energy,Energy,能源,1.1683314332402288,official
+2021-11,core_goods,Core goods,核心商品,1.3469268844173365,official
+2021-11,core_services,Core services,核心服務,2.9008781280282734,official
+2021-11,residual,Residual,差額,0.007342054760695937,official
+2021-12,food,Food,食物,0.46535672049877486,official
+2021-12,energy,Energy,能源,1.0878814369104721,official
+2021-12,core_goods,Core goods,核心商品,1.469572465207807,official
+2021-12,core_services,Core services,核心服務,3.0070584395311215,official
+2021-12,residual,Residual,差額,0.014653591803125643,official
+2022-01,food,Food,食物,0.527158063451657,official
+2022-01,energy,Energy,能源,1.0167784848913402,official
+2022-01,core_goods,Core goods,核心商品,1.6489739310799982,official
+2022-01,core_services,Core services,核心服務,3.027455522556923,official
+2022-01,residual,Residual,差額,0.014489982557871706,official
+2022-02,food,Food,食物,0.621190800537387,official
+2022-02,energy,Energy,能源,0.9888842645221296,official
+2022-02,core_goods,Core goods,核心商品,1.8212464182035117,official
+2022-02,core_services,Core services,核心服務,3.074637028964403,official
+2022-02,residual,Residual,差額,0.0037510921543431053,official
+2022-03,food,Food,食物,0.7138242741943019,official
+2022-03,energy,Energy,能源,1.3335403993683363,official
+2022-03,core_goods,Core goods,核心商品,1.761032620375821,official
+2022-03,core_services,Core services,核心服務,3.110530092787262,official
+2022-03,residual,Residual,差額,0.001339108008839851,official
+2022-04,food,Food,食物,0.7754909672440564,official
+2022-04,energy,Energy,能源,1.2277259583647133,official
+2022-04,core_goods,Core goods,核心商品,1.47505648378009,official
+2022-04,core_services,Core services,核心服務,3.15347967978578,official
+2022-04,residual,Residual,差額,0.002185527135457832,official
+2022-05,food,Food,食物,0.8374437627811862,official
+2022-05,energy,Energy,能源,1.416189656608278,official
+2022-05,core_goods,Core goods,核心商品,1.3127388057629847,official
+2022-05,core_services,Core services,核心服務,3.213981622852067,official
+2022-05,residual,Residual,差額,0.004200464518024027,official
+2022-06,food,Food,食物,0.8680599624544484,official
+2022-06,energy,Energy,能源,1.6998353701181579,official
+2022-06,core_goods,Core goods,核心商品,1.2943842713586335,official
+2022-06,core_services,Core services,核心服務,3.353212261199249,official
+2022-06,residual,Residual,差額,0.002824474546311073,official
+2022-07,food,Food,食物,0.9310457851633352,official
+2022-07,energy,Energy,能源,1.3541898279621112,official
+2022-07,core_goods,Core goods,核心商品,1.261536706912662,official
+2022-07,core_services,Core services,核心服務,3.3062280830325568,official
+2022-07,residual,Residual,差額,0.006529469962067047,official
+2022-08,food,Food,食物,0.9613131506674331,official
+2022-08,energy,Energy,能源,0.9916991030940062,official
+2022-08,core_goods,Core goods,核心商品,1.2832590625826878,official
+2022-08,core_services,Core services,核心服務,3.4357962207684376,official
+2022-08,residual,Residual,差額,0.011387603901507504,official
+2022-09,food,Food,食物,0.9210535889693311,official
+2022-09,energy,Energy,能源,0.8237293084003346,official
+2022-09,core_goods,Core goods,核心商品,1.302453341579656,official
+2022-09,core_services,Core services,核心服務,3.635606286608215,official
+2022-09,residual,Residual,差額,0.010321515625582478,official
+2022-10,food,Food,食物,0.8982564588979223,official
+2022-10,energy,Energy,能源,0.7757857271906051,official
+2022-10,core_goods,Core goods,核心商品,1.0956289972899729,official
+2022-10,core_services,Core services,核心服務,3.732831978319783,official
+2022-10,residual,Residual,差額,0.003368563685643977,official
+2022-11,food,Food,食物,0.8651148202988289,official
+2022-11,energy,Energy,能源,0.59056346749226,official
+2022-11,core_goods,Core goods,核心商品,0.9063582357428097,official
+2022-11,core_services,Core services,核心服務,3.7275999461569524,official
+2022-11,residual,Residual,差額,1.2204424115758172e-05,official
+2022-12,food,Food,食物,0.8519493612161874,official
+2022-12,energy,Energy,能源,0.3065875918920846,official
+2022-12,core_goods,Core goods,核心商品,0.7730461780029977,official
+2022-12,core_services,Core services,核心服務,3.6830684819070734,official
+2022-12,residual,Residual,差額,-0.008342284633503283,official
+2023-01,food,Food,食物,0.8088132554713432,official
+2023-01,energy,Energy,能源,0.3597397007401621,official
+2023-01,core_goods,Core goods,核心商品,0.6253607625268465,official
+2023-01,core_services,Core services,核心服務,3.757864534336783,official
+2023-01,residual,Residual,差額,0.0038759118905273837,official
+2023-02,food,Food,食物,0.7254689953250419,official
+2023-02,energy,Energy,能源,0.21563755843697607,official
+2023-02,core_goods,Core goods,核心商品,0.5138715709623357,official
+2023-02,core_services,Core services,核心服務,3.729957660756814,official
+2023-02,residual,Residual,差額,0.01485251830290224,official
+2023-03,food,Food,食物,0.5988561940135461,official
+2023-03,energy,Energy,能源,-0.36563967664409014,official
+2023-03,core_goods,Core goods,核心商品,0.5711563906488967,official
+2023-03,core_services,Core services,核心服務,3.6719069259340182,official
+2023-03,residual,Residual,差額,0.014871575267635606,official
+2023-04,food,Food,食物,0.5280915178571428,official
+2023-04,energy,Energy,能源,-0.25639770507812504,official
+2023-04,core_goods,Core goods,核心商品,0.5811679513113839,official
+2023-04,core_services,Core services,核心服務,3.665159737723214,official
+2023-04,residual,Residual,差額,0.014274815150663756,official
+2023-05,food,Food,食物,0.44577343350577553,official
+2023-05,energy,Energy,能源,-0.5872789663867732,official
+2023-05,core_goods,Core goods,核心商品,0.5698911621216454,official
+2023-05,core_services,Core services,核心服務,3.6533250145146057,official
+2023-05,residual,Residual,差額,0.015307579657031667,official
+2023-06,food,Food,食物,0.36228560148310907,official
+2023-06,energy,Energy,能源,-0.8978160189508377,official
+2023-06,core_goods,Core goods,核心商品,0.40476526023070586,official
+2023-06,core_services,Core services,核心服務,3.4598488567701184,official
+2023-06,residual,Residual,差額,0.016494438341120965,official
+2023-07,food,Food,食物,0.2826199742820403,official
+2023-07,energy,Energy,能源,-0.6373956279468496,official
+2023-07,core_goods,Core goods,核心商品,0.2714327475353622,official
+2023-07,core_services,Core services,核心服務,3.4228204886412343,official
+2023-07,residual,Residual,差額,0.021859751393058513,official
+2023-08,food,Food,食物,0.23241019807738358,official
+2023-08,energy,Energy,能源,-0.17060834388149568,official
+2023-08,core_goods,Core goods,核心商品,0.1607190995860559,official
+2023-08,core_services,Core services,核心服務,3.199339143375184,official
+2023-08,residual,Residual,差額,0.016270654442205323,official
+2023-09,food,Food,食物,0.2020920320185496,official
+2023-09,energy,Energy,能源,-0.007832183927642844,official
+2023-09,core_goods,Core goods,核心商品,0.10004756749384096,official
+2023-09,core_services,Core services,核心服務,3.179239516823378,official
+2023-09,residual,Residual,差額,0.018145805450661356,official
+2023-10,food,Food,食物,0.1822153144136656,official
+2023-10,energy,Energy,能源,-0.22020695153602146,official
+2023-10,core_goods,Core goods,核心商品,0.15137478583908673,official
+2023-10,core_services,Core services,核心服務,2.9690682940068873,official
+2023-10,residual,Residual,差額,0.017580787433627787,official
+2023-11,food,Food,食物,0.13154938631884353,official
+2023-11,energy,Energy,能源,-0.2819241928253018,official
+2023-11,core_goods,Core goods,核心商品,0.11857394202383675,official
+2023-11,core_services,Core services,核心服務,2.9086386513394404,official
+2023-11,residual,Residual,差額,0.01181989663427263,official
+2023-12,food,Food,食物,0.10141984590950563,official
+2023-12,energy,Energy,能源,-0.10237116885750008,official
+2023-12,core_goods,Core goods,核心商品,0.057345233670124715,official
+2023-12,core_services,Core services,核心服務,2.7999730510593723,official
+2023-12,residual,Residual,差額,0.005796387659258162,official
+2024-01,food,Food,食物,0.10150691957154148,official
+2024-01,energy,Energy,能源,-0.2221675158485934,official
+2024-01,core_goods,Core goods,核心商品,-0.04245178160049773,official
+2024-01,core_services,Core services,核心服務,2.9169019993610115,official
+2024-01,residual,Residual,差額,-0.006139585330168895,official
+2024-02,food,Food,食物,0.10177663187020501,official
+2024-02,energy,Energy,能源,-0.12046249947595691,official
+2024-02,core_goods,Core goods,核心商品,-0.03126675889825177,official
+2024-02,core_services,Core services,核心服務,2.8650698025405608,official
+2024-02,residual,Residual,差額,-0.007923112396773124,official
+2024-03,food,Food,食物,0.11121708875581279,official
+2024-03,energy,Energy,能源,0.051653758656451755,official
+2024-03,core_goods,Core goods,核心商品,-0.07080852095948613,official
+2024-03,core_services,Core services,核心服務,2.8665855106888363,official
+2024-03,residual,Residual,差額,-0.007090512194296572,official
+2024-04,food,Food,食物,0.10094523130307126,official
+2024-04,energy,Energy,能源,0.0711669419281651,official
+2024-04,core_goods,Core goods,核心商品,-0.08000275261498421,official
+2024-04,core_services,Core services,核心服務,2.753597083896368,official
+2024-04,residual,Residual,差額,-0.007176567739349604,official
+2024-05,food,Food,食物,0.09076126497348683,official
+2024-05,energy,Energy,能源,0.11950544830973367,official
+2024-05,core_goods,Core goods,核心商品,-0.17079198195273412,official
+2024-05,core_services,Core services,核心服務,2.672721324576081,official
+2024-05,residual,Residual,差額,-0.015095439069666483,official
+2024-06,food,Food,食物,0.10079519973424135,official
+2024-06,energy,Energy,能源,0.007061539739224328,official
+2024-06,core_goods,Core goods,核心商品,-0.1507091603687401,official
+2024-06,core_services,Core services,核心服務,2.6319589735071838,official
+2024-06,residual,Residual,差額,-0.019552528859724028,official
+2024-07,food,Food,食物,0.09093057202809963,official
+2024-07,energy,Energy,能源,0.01703875724676747,official
+2024-07,core_goods,Core goods,核心商品,-0.08111461296663375,official
+2024-07,core_services,Core services,核心服務,2.592860306375497,official
+2024-07,residual,Residual,差額,-0.02373423128282104,official
+2024-08,food,Food,食物,0.080680976319619,official
+2024-08,energy,Energy,能源,-0.21333964479428494,official
+2024-08,core_goods,Core goods,核心商品,-0.10157916060325436,official
+2024-08,core_services,Core services,核心服務,2.690248875512634,official
+2024-08,residual,Residual,差額,-0.0193461436697846,official
+2024-09,food,Food,食物,0.09082362050361194,official
+2024-09,energy,Energy,能源,-0.34325527375765014,official
+2024-09,core_goods,Core goods,核心商品,-0.08102798118662632,official
+2024-09,core_services,Core services,核心服務,2.605720451718656,official
+2024-09,residual,Residual,差額,-0.012843834172136415,official
+2024-10,food,Food,食物,0.07095954984081543,official
+2024-10,energy,Energy,能源,-0.24294709477858126,official
+2024-10,core_goods,Core goods,核心商品,-0.12042334049046947,official
+2024-10,core_services,Core services,核心服務,2.707708317908471,official
+2024-10,residual,Residual,差額,-0.009018896484770167,official
+2024-11,food,Food,食物,0.10137492189812228,official
+2024-11,energy,Energy,能源,-0.16284126409944424,official
+2024-11,core_goods,Core goods,核心商品,-0.08133299352165475,official
+2024-11,core_services,Core services,核心服務,2.640083199052912,official
+2024-11,residual,Residual,差額,-0.006245026143580912,official
+2024-12,food,Food,食物,0.12174901445466492,official
+2024-12,energy,Energy,能源,-0.05054779894875165,official
+2024-12,core_goods,Core goods,核心商品,-0.0924842312746386,official
+2024-12,core_services,Core services,核心服務,2.6723409986859394,official
+2024-12,residual,Residual,差額,-0.003226182654413101,official
+2025-01,food,Food,食物,0.12183231592556831,official
+2025-01,energy,Energy,能源,0.020436476114102414,official
+2025-01,core_goods,Core goods,核心商品,0.010126507700112924,official
+2025-01,core_services,Core services,核心服務,2.478294028116459,official
+2025-01,residual,Residual,差額,0.0017509778570592438,official
+2025-02,food,Food,食物,0.1014942950584359,official
+2025-02,energy,Energy,能源,-0.029465391108610003,official
+2025-02,core_goods,Core goods,核心商品,0.04182990384380124,official
+2025-02,core_services,Core services,核心服務,2.4656105796285877,official
+2025-02,residual,Residual,差額,-0.004701622177091913,official
+2025-03,food,Food,食物,0.14171195762553518,official
+2025-03,energy,Energy,能源,-0.16012592105156265,official
+2025-03,core_goods,Core goods,核心商品,-0.019381605777745274,official
+2025-03,core_services,Core services,核心服務,2.300466964002827,official
+2025-03,residual,Residual,差額,-0.00746598100622764,official
+2025-04,food,Food,食物,0.13127740512130037,official
+2025-04,energy,Energy,能源,-0.18051505000446105,official
+2025-04,core_goods,Core goods,核心商品,0.011727323605512267,official
+2025-04,core_services,Core services,核心服務,2.3716520533056475,official
+2025-04,residual,Residual,差額,-0.003033522860933946,official
+2025-05,food,Food,食物,0.14141875187445793,official
+2025-05,energy,Energy,能源,-0.16110984120808305,official
+2025-05,core_goods,Core goods,核心商品,0.11305263072570906,official
+2025-05,core_services,Core services,核心服務,2.373841483679044,official
+2025-05,residual,Residual,差額,-0.0038613428008575923,official
+2025-06,food,Food,食物,0.15174536857105841,official
+2025-06,energy,Energy,能源,-0.06079697823552274,official
+2025-06,core_goods,Core goods,核心商品,0.20479919678714859,official
+2025-06,core_services,Core services,核心服務,2.314757173856717,official
+2025-06,residual,Residual,差額,0.001556386837667123,official
+2025-07,food,Food,食物,0.14151963201590934,official
+2025-07,energy,Energy,能源,-0.08118988528791199,official
+2025-07,core_goods,Core goods,核心商品,0.24493092214290915,official
+2025-07,core_services,Core services,核心服務,2.284769646162925,official
+2025-07,residual,Residual,差額,0.000894576438358996,official
+2025-08,food,Food,食物,0.1720326738826872,official
+2025-08,energy,Energy,能源,-0.010396638981039784,official
+2025-08,core_goods,Core goods,核心商品,0.25402256822529484,official
+2025-08,core_services,Core services,核心服務,2.2869570025264143,official
+2025-08,residual,Residual,差額,-0.008311741773013637,official
+2025-09,food,Food,食物,0.18246540363765243,official
+2025-09,energy,Energy,能源,0.09076369758187938,official
+2025-09,core_goods,Core goods,核心商品,0.2947630209591932,official
+2025-09,core_services,Core services,核心服務,2.2369331271245145,official
+2025-09,residual,Residual,差額,-0.021911700739455586,official
+2025-10,food,Food,食物,0.17199988753394066,official
+2025-10,energy,Energy,能源,0.08026815121865008,official
+2025-10,core_goods,Core goods,核心商品,0.2740213846178564,official
+2025-10,core_services,Core services,核心服務,2.1555519673527095,official
+2025-10,residual,Residual,差額,-0.02442907408299444,official
+2025-11,food,Food,食物,0.15177554425424736,official
+2025-11,energy,Energy,能源,0.1416532173968845,official
+2025-11,core_goods,Core goods,核心商品,0.30330731715142867,official
+2025-11,core_services,Core services,核心服務,2.136380248022717,official
+2025-11,residual,Residual,差額,-0.022674024994792763,official
+2025-12,food,Food,食物,0.16217499839979518,official
+2025-12,energy,Energy,能源,0.06176670613838572,official
+2025-12,core_goods,Core goods,核心商品,0.43436767906292006,official
+2025-12,core_services,Core services,核心服務,2.136351693016706,official
+2025-12,residual,Residual,差額,-0.017505600716868575,official
+2026-01,food,Food,食物,0.16216084769141226,official
+2026-01,energy,Energy,能源,-0.039759932388796305,official
+2026-01,core_goods,Core goods,核心商品,0.39464779187230414,official
+2026-01,core_services,Core services,核心服務,2.226307933951508,official
+2026-01,residual,Residual,差額,-0.014989435749436453,official
+2026-02,food,Food,食物,0.18220243301264213,official
+2026-02,energy,Energy,能源,-0.008916752802735151,official
+2026-02,core_goods,Core goods,核心商品,0.46717500198775547,official
+2026-02,core_services,Core services,核心服務,2.1746568339031564,official
+2026-02,residual,Residual,差額,-0.01397256897510779,official
+2026-03,food,Food,食物,0.14181069206873814,official
+2026-03,energy,Energy,能源,0.46220411697876357,official
+2026-03,core_goods,Core goods,核心商品,0.5578563427055113,official
+2026-03,core_services,Core services,核心服務,2.218232924707434,official
+2026-03,residual,Residual,差額,-0.014700363075906608,official
+2026-04,food,Food,食物,0.18239428358552032,official
+2026-04,energy,Energy,能源,0.6457439185815175,official
+2026-04,core_goods,Core goods,核心商品,0.5479226873172008,official
+2026-04,core_services,Core services,核心服務,2.2204503697597553,official
+2026-04,residual,Residual,差額,-0.02256327132360436,official
+2026-05,food,Food,食物,0.1720601544206063,official
+2026-05,energy,Energy,能源,0.8398313397886209,official
+2026-05,core_goods,Core goods,核心商品,0.4869770109486741,official
+2026-05,core_services,Core services,核心服務,2.3459018416555915,official
+2026-05,residual,Residual,差額,-0.02143638060880315,official
+2026-06,food,Food,食物,0.17238570188589913,official
+2026-06,energy,Energy,能源,0.5791799889528919,official
+2026-06,core_goods,Core goods,核心商品,0.41629890317998897,official
+2026-06,core_services,Core services,核心服務,2.314212499013651,official
+2026-06,residual,Residual,差額,-0.029066756095640578,official
+2026-07,food,Food,食物,0.1618156745937938,official
+2026-07,energy,Energy,能源,0.5363632925157202,official
+2026-07,core_goods,Core goods,核心商品,0.43707310923045406,official
+2026-07,core_services,Core services,核心服務,2.253844814271981,official
+2026-07,residual,Residual,差額,-0.027553701164646505,official
+2026-08,food,Food,食物,0.13148103026825644,official
+2026-08,energy,Energy,能源,0.597866995732105,official
+2026-08,core_goods,Core goods,核心商品,0.46622263792059987,official
+2026-08,core_services,Core services,核心服務,2.2451896187190026,official
+2026-08,residual,Residual,差額,-0.02172845813453872,official

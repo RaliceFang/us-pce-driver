@@ -4,7 +4,30 @@
 
 **公開網站：<https://ralicefang.github.io/us-pce-driver/>**
 
-## 使用
+## 新版網頁（TanStack Start）
+
+新版程式位於 `src/`，使用 TanStack Start SSR、TanStack Router、shadcn/ui 與 i18next。支援繁體中文 `/zh-tw`、簡體中文 `/zh-cn` 與英文 `/en`；根網址會導向 `/zh-tw`。圖表資料透過 TanStack Start server function 讀取現有 BEA 資料，沒有新增應用資料 API 或 API 金鑰。
+
+```bash
+pnpm install
+pnpm run dev
+```
+
+開啟 <http://127.0.0.1:3000/zh-tw>。
+
+```bash
+pnpm exec tsc --noEmit
+pnpm test
+pnpm run cf-typegen
+pnpm run build
+pnpm run preview
+```
+
+建置時會把 `web/data/` 中公開的 JSON 和 CSV 複製到 `public/data/`，完整資料僅在伺服器端載入，再回傳選取的圖表與細項數值。`wrangler.jsonc` 已設定 Cloudflare Workers；本次僅更新程式，尚未發布新版網站。部署須另行由使用者操作。
+
+**現有 GitHub Pages 網址仍提供舊版靜態網頁。** GitHub Pages 無法執行新版 SSR。既有 Pages 與 BEA 自動更新流程保留，更新 `src/` 不會把舊網站替換成新版。
+
+## 舊版靜態網站與資料流程
 
 ```bash
 cd us-pce-driver
@@ -28,7 +51,7 @@ python pce_contrib.py --start 2000-01       # 自訂起點，仍會取得鏈接�
 python pce_contrib.py --max-level 5         # 更深的階層，沒有完整歷史者保留母項
 ```
 
-## 網頁功能
+## 舊版網頁功能
 
 - 繁體中文 / English，記住語言與網址設定。
 - MoM / YoY；四大類、六細項、16 官方主要產品、73 重建產品。

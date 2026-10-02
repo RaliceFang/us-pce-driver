@@ -8,3 +8,10 @@ preview.jpg
 .env
 .env.*
 !.env.example
+node_modules/
+dist/
+.tanstack/
+.wrangler/
+.dev.vars
+public/data/
+preview-pce.png

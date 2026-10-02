@@ -2,7 +2,9 @@
 
 參考 [US CPI Driver](https://github.com/JasonShin1996/us-cpi-driver) 的 Python 資料流程、静態儀表板及發布檢查架構，重新建立適用於 BEA PCE 的計算。主圖使用 **BEA 官方價格貢獻度**，細項表提供 **73 個產品的 Fisher 重建估算**。本專案是獨立新專案，未修改原 CPI 專案。
 
-**公開網站：<https://ralicefang.github.io/us-pce-driver/>**
+**新版公開網站：<https://us-pce-driver.us-pce-driver.workers.dev/zh-tw>**
+
+舊版 GitHub Pages：<https://ralicefang.github.io/us-pce-driver/>
 
 ## 新版網頁（TanStack Start）
 
@@ -23,7 +25,7 @@ pnpm run build
 pnpm run preview
 ```
 
-建置時會把 `web/data/` 中公開的 JSON 和 CSV 複製到 `public/data/`，完整資料僅在伺服器端載入，再回傳選取的圖表與細項數值。`wrangler.jsonc` 已設定 Cloudflare Workers；本次僅更新程式，尚未發布新版網站。部署須另行由使用者操作。
+建置時會把 `web/data/` 中公開的 JSON 和 CSV 複製到 `public/data/`，完整資料僅在伺服器端載入，再回傳選取的圖表與細項數值。`wrangler.jsonc` 已設定 Cloudflare Workers；已依使用者授權發布新版至 Cloudflare Workers。此次使用 Wrangler 手動發布；尚未連接 GitHub 自動部署，因此之後更新程式或 BEA 資料仍需重新建置與發布，才會反映到新版公開網站。
 
 **現有 GitHub Pages 網址仍提供舊版靜態網頁。** GitHub Pages 無法執行新版 SSR。既有 Pages 與 BEA 自動更新流程保留，更新 `src/` 不會把舊網站替換成新版。
 

@@ -25,7 +25,7 @@ pnpm run build
 pnpm run preview
 ```
 
-建置時會把 `web/data/` 中公開的 JSON 和 CSV 複製到 `public/data/`，完整資料僅在伺服器端載入，再回傳選取的圖表與細項數值。`wrangler.jsonc` 已設定 Cloudflare Workers；已依使用者授權發布新版至 Cloudflare Workers。此次使用 Wrangler 手動發布；尚未連接 GitHub 自動部署，因此之後更新程式或 BEA 資料仍需重新建置與發布，才會反映到新版公開網站。
+建置時會把 `web/data/` 中公開的 JSON 和 CSV 複製到 `public/data/`，完整資料僅在伺服器端載入，再回傳選取的圖表與細項數值。`wrangler.jsonc` 已設定 Cloudflare Workers；已依使用者授權發布新版至 Cloudflare Workers。已連接 Cloudflare Workers Builds：`main` 分支的提交會自動執行 TypeScript 檢查、Vitest 測試、建置與部署。其他分支的預覽建置關閉。
 
 **現有 GitHub Pages 網址仍提供舊版靜態網頁。** GitHub Pages 無法執行新版 SSR。既有 Pages 與 BEA 自動更新流程保留，更新 `src/` 不會把舊網站替換成新版。
 
@@ -123,6 +123,11 @@ web/data/                 可直接預覽的真實資料、CSV 與驗證記錄
 前端 JSON 的 `meta.months` 是所有序列共用的月份索引。`headline` 包含整體／核心 MoM、YoY；`breakdowns` 包含每組細項及差額；`items` 描述所選產品階層，`series[id]` 包含月／年貢獻、當月支出占比及自身價格漲幅。缺值以 `null` 表示。所有價格漲幅以百分比表示、貢獻以百分點表示。完整細項 CSV 僅匯出互斥最底層，避免下游把母項及子項重複加總。
 
 ## 自動更新與發布
+
+新版 Workers Builds 連接 `RaliceFang/us-pce-driver` 的 `main` 分支，建置指令為 `pnpm exec tsc --noEmit && pnpm test && pnpm run build`，部署指令為 `pnpm exec wrangler deploy`。部署金鑰由 Cloudflare 保存，程式庫不含金鑰。
+
+部署金鑰僅保留本帳號的 **Workers Scripts: Edit**，沒有資料庫、儲存、郵件、網域路由或憑證管理權限；在 **2027-01-04 到期**，到期前需更新授權，否則後續自動部署將失敗，已上線版本不受影響。Cloudflare 這個金鑰設定僅能限制到帳號，不能限制到單一 Worker，同帳號內其他 Worker 仍在可影響範圍。不要把重要的其他網站放在此帳號並誤認它們受到此金鑰隔離。
+
 
 專案已上傳至 <https://github.com/RaliceFang/us-pce-driver>，主分支為 `main`，GitHub Pages 使用 **GitHub Actions** 發布 `web/`。之後上傳網頁修改會自動更新公開網站。
 

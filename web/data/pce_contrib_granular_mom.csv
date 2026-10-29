@@ -32411,151 +32411,225 @@
 2026-06,367,Civic and social organizations' services to households,減：對家庭公民與社會組織服務收入,8.548260608519117e-05,fisher_estimate
 2026-06,368,Professional advocacy services to households,減：對家庭專業倡議服務收入,-0.00020455030129326663,fisher_estimate
 2026-06,residual,Residual,差額,-0.001502443201420442,fisher_estimate
-2026-07,5,New motor vehicles,新車,0.0011756532261305464,fisher_estimate
-2026-07,12,Net purchases of used motor vehicles,中古車淨購買,0.004532257455813127,fisher_estimate
-2026-07,20,Motor vehicle parts and accessories,汽車零組件與配件,0.009262987016305312,fisher_estimate
-2026-07,24,Furniture and furnishings,家具與家飾,-0.008580557213824074,fisher_estimate
-2026-07,29,Household appliances,家用電器,-0.005851409443507892,fisher_estimate
-2026-07,32,"Glassware, tableware, and household utensils",玻璃器皿、餐具與家用器具,-0.006638058852979784,fisher_estimate
-2026-07,35,Tools and equipment for house and garden,家用與園藝工具設備,-0.0005581183940272963,fisher_estimate
-2026-07,39,"Video, audio, photographic, and information processing equipment and media",影音、攝影與資訊設備,0.035041685226860915,fisher_estimate
-2026-07,52,"Sporting equipment, supplies, guns, and ammunition",運動用品、槍械與彈藥,-0.00202136890857193,fisher_estimate
-2026-07,53,Sports and recreational vehicles,運動與休閒交通工具,0.0018671883441725727,fisher_estimate
-2026-07,60,Recreational books,休閒書籍,0.007754429948899446,fisher_estimate
-2026-07,61,Musical instruments,樂器,-0.0002747422675965906,fisher_estimate
-2026-07,63,Jewelry and watches,珠寶與手錶,0.010068236360784622,fisher_estimate
-2026-07,66,Therapeutic appliances and equipment,治療器具與設備,-0.003373663247226152,fisher_estimate
-2026-07,69,Educational books,教育書籍,0.0003375556060709455,fisher_estimate
-2026-07,70,Luggage and similar personal items,行李與個人物品,0.0012764942215406367,fisher_estimate
-2026-07,71,Telephone and related communication equipment,電話與通訊設備,-0.00022636217048195193,fisher_estimate
-2026-07,74,Food and nonalcoholic beverages purchased for off-premises consumption,居家食物與非酒精飲料,-0.0060053416379376055,fisher_estimate
-2026-07,99,Alcoholic beverages purchased for off-premises consumption,居家酒精飲料,0.00037387411910858867,fisher_estimate
-2026-07,103,Food produced and consumed on farms,農場自產自用食物,-0.00012357079657760256,fisher_estimate
-2026-07,105,Garments,服裝,-0.005862508721081967,fisher_estimate
-2026-07,109,Other clothing materials and footwear,其他衣料與鞋類,0.0026315222995666934,fisher_estimate
-2026-07,114,"Motor vehicle fuels, lubricants, and fluids",車用燃料、潤滑油與油液,-0.05834817706284853,fisher_estimate
-2026-07,117,Fuel oil and other fuels,燃油與其他燃料,-0.0018872709441707244,fisher_estimate
-2026-07,121,Pharmaceutical and other medical products,藥品與其他醫療用品,-0.023938571815743732,fisher_estimate
-2026-07,126,Recreational items,休閒用品,0.010180506203593918,fisher_estimate
-2026-07,131,Household supplies,家庭用品,0.008047601552487361,fisher_estimate
-2026-07,137,Personal care products,個人護理用品,0.0030789838242596427,fisher_estimate
-2026-07,141,Tobacco,菸草,0.0024734373197961984,fisher_estimate
-2026-07,142,"Magazines, newspapers, and stationery",報刊與文具,-0.003972234507005573,fisher_estimate
-2026-07,146,Expenditures abroad by U.S. residents,美國居民境外商品支出,0.00011915487837212757,fisher_estimate
-2026-07,149,Less: Personal remittances in kind to nonresidents,減：對非居民實物匯款,6.356530623056994e-06,fisher_estimate
-2026-07,153,Housing,住宅,0.040732521654238726,fisher_estimate
-2026-07,166,Water supply and sanitation,供水與衛生服務,0.0028704456160831868,fisher_estimate
-2026-07,169,Electricity and gas,電力與天然氣,0.004087746215090229,fisher_estimate
-2026-07,173,Outpatient services,門診服務,0.021233244089217042,fisher_estimate
-2026-07,182,Hospital and nursing home services,醫院與護理之家服務,0.012399353001451943,fisher_estimate
-2026-07,191,Motor vehicle services,車輛服務,0.004872106216669038,fisher_estimate
-2026-07,199,Public transportation,公共運輸,0.00022766653427186767,fisher_estimate
-2026-07,210,"Membership clubs, sports centers, parks, theaters, and museums",俱樂部、運動中心、公園與文化場所,-0.002607012418696155,fisher_estimate
-2026-07,218,"Audio-video, photographic, and information processing equipment services",影音、攝影與資訊設備服務,0.0013116606306817849,fisher_estimate
-2026-07,226,Gambling,博弈,0.0007624037014669827,fisher_estimate
-2026-07,230,Other recreational services,其他休閒服務,-0.0008390720937938552,fisher_estimate
-2026-07,235,Food services,餐飲服務（核心）,0.01858120896142487,fisher_estimate
-2026-07,249,Accommodations,住宿,-0.023813247433049592,fisher_estimate
-2026-07,253,Financial services,金融服務,-0.005394464477380636,fisher_estimate
-2026-07,270,Insurance,保險,0.0027971659166514643,fisher_estimate
-2026-07,281,Communication,通訊服務,0.005771429395461787,fisher_estimate
-2026-07,290,Education services,教育服務,0.008323374367646375,fisher_estimate
-2026-07,298,Professional and other services,專業與其他服務,-0.005246244639212245,fisher_estimate
-2026-07,307,Personal care and clothing services,個人護理與衣物服務,0.0022698085207707077,fisher_estimate
-2026-07,315,Social services and religious activities,社會服務與宗教活動,0.004562256865780191,fisher_estimate
-2026-07,327,Household maintenance,家庭維護,0.003462350923842219,fisher_estimate
-2026-07,334,Foreign travel by U.S. residents,美國居民境外旅遊支出,-0.021739369336041033,fisher_estimate
-2026-07,338,Less: Expenditures in the United States by nonresidents,減：非居民在美國的支出,0.003027621305246417,fisher_estimate
-2026-07,344,"Health, gross output",醫療總產出,0.00591443121117419,fisher_estimate
-2026-07,348,"Recreation services, gross output",休閒服務總產出,-0.0011464696015469518,fisher_estimate
-2026-07,349,"Education services, gross output",教育服務總產出,0.00587751846414235,fisher_estimate
-2026-07,350,"Social services, gross output",社會服務總產出,0.0034727398810968126,fisher_estimate
-2026-07,351,"Religious organizations, gross output",宗教組織總產出,0.0012410123153973514,fisher_estimate
-2026-07,352,"Foundations and grantmaking and giving establishments, gross output",基金會與捐贈服務總產出,-0.00010615380688733784,fisher_estimate
-2026-07,353,"Social advocacy establishments, gross output",社會倡議組織總產出,0.000762248780767182,fisher_estimate
-2026-07,354,"Civic and social organizations, gross output",公民與社會組織總產出,0.0007442116581963779,fisher_estimate
-2026-07,355,"Professional advocacy, gross output",專業倡議組織總產出,0.0019229918542985253,fisher_estimate
-2026-07,357,Health services to households,減：對家庭醫療服務收入,-0.010733561937791862,fisher_estimate
-2026-07,361,Recreation services to households,減：對家庭休閒服務收入,0.00023522388739135547,fisher_estimate
-2026-07,362,Education services to households,減：對家庭教育服務收入,-0.00397059276108841,fisher_estimate
-2026-07,363,Social services to households,減：對家庭社會服務收入,-0.001555658036347284,fisher_estimate
-2026-07,364,Religious organizations' services to households,減：對家庭宗教服務收入,-9.395043407980936e-05,fisher_estimate
-2026-07,365,Foundations and grantmaking and giving services to households,減：對家庭基金會與捐贈服務收入,1.7925663390038685e-05,fisher_estimate
-2026-07,366,Services of social advocacy establishments to households,減：對家庭社會倡議服務收入,-7.410878556598938e-05,fisher_estimate
-2026-07,367,Civic and social organizations' services to households,減：對家庭公民與社會組織服務收入,-0.0003798747349256129,fisher_estimate
-2026-07,368,Professional advocacy services to households,減：對家庭專業倡議服務收入,0.00021254388148944956,fisher_estimate
-2026-07,residual,Residual,差額,-0.00021845367323791026,fisher_estimate
-2026-08,5,New motor vehicles,新車,0.005099090579535228,fisher_estimate
-2026-08,12,Net purchases of used motor vehicles,中古車淨購買,0.0037778306253944895,fisher_estimate
-2026-08,20,Motor vehicle parts and accessories,汽車零組件與配件,-0.009564898776446437,fisher_estimate
-2026-08,24,Furniture and furnishings,家具與家飾,-0.0015656972546229191,fisher_estimate
-2026-08,29,Household appliances,家用電器,0.00608198111607766,fisher_estimate
-2026-08,32,"Glassware, tableware, and household utensils",玻璃器皿、餐具與家用器具,-0.003550308054424828,fisher_estimate
-2026-08,35,Tools and equipment for house and garden,家用與園藝工具設備,-0.0004121492398808084,fisher_estimate
-2026-08,39,"Video, audio, photographic, and information processing equipment and media",影音、攝影與資訊設備,0.00148369275007785,fisher_estimate
-2026-08,52,"Sporting equipment, supplies, guns, and ammunition",運動用品、槍械與彈藥,-2.9439860276257888e-05,fisher_estimate
-2026-08,53,Sports and recreational vehicles,運動與休閒交通工具,0.006941563448959845,fisher_estimate
-2026-08,60,Recreational books,休閒書籍,0.0037352620990254042,fisher_estimate
-2026-08,61,Musical instruments,樂器,0.00014046653017621495,fisher_estimate
-2026-08,63,Jewelry and watches,珠寶與手錶,-0.005587489113856616,fisher_estimate
-2026-08,66,Therapeutic appliances and equipment,治療器具與設備,0.0029003043831600994,fisher_estimate
-2026-08,69,Educational books,教育書籍,-0.0003145129914207916,fisher_estimate
-2026-08,70,Luggage and similar personal items,行李與個人物品,0.0030936338003057914,fisher_estimate
-2026-08,71,Telephone and related communication equipment,電話與通訊設備,-0.0042820074723420665,fisher_estimate
-2026-08,74,Food and nonalcoholic beverages purchased for off-premises consumption,居家食物與非酒精飲料,0.0017660108117722897,fisher_estimate
-2026-08,99,Alcoholic beverages purchased for off-premises consumption,居家酒精飲料,0.00043871089123235515,fisher_estimate
-2026-08,103,Food produced and consumed on farms,農場自產自用食物,0.0,fisher_estimate
-2026-08,105,Garments,服裝,0.005862839395616953,fisher_estimate
-2026-08,109,Other clothing materials and footwear,其他衣料與鞋類,-0.0015065056826279741,fisher_estimate
-2026-08,114,"Motor vehicle fuels, lubricants, and fluids",車用燃料、潤滑油與油液,0.08333465852090337,fisher_estimate
-2026-08,117,Fuel oil and other fuels,燃油與其他燃料,0.011421152853697044,fisher_estimate
-2026-08,121,Pharmaceutical and other medical products,藥品與其他醫療用品,-0.006448583672912079,fisher_estimate
-2026-08,126,Recreational items,休閒用品,-0.023875494148225936,fisher_estimate
-2026-08,131,Household supplies,家庭用品,6.304923374125102e-05,fisher_estimate
-2026-08,137,Personal care products,個人護理用品,0.0017319110974860377,fisher_estimate
-2026-08,141,Tobacco,菸草,0.0031583932443877364,fisher_estimate
-2026-08,142,"Magazines, newspapers, and stationery",報刊與文具,0.018594622184847392,fisher_estimate
-2026-08,146,Expenditures abroad by U.S. residents,美國居民境外商品支出,0.0002553610762809931,fisher_estimate
-2026-08,149,Less: Personal remittances in kind to nonresidents,減：對非居民實物匯款,-1.866042535914815e-05,fisher_estimate
-2026-08,153,Housing,住宅,0.02917330130777142,fisher_estimate
-2026-08,166,Water supply and sanitation,供水與衛生服務,0.003139143458553095,fisher_estimate
-2026-08,169,Electricity and gas,電力與天然氣,-0.0067323182174955235,fisher_estimate
-2026-08,173,Outpatient services,門診服務,-0.0018583553870049486,fisher_estimate
-2026-08,182,Hospital and nursing home services,醫院與護理之家服務,0.040408432595392375,fisher_estimate
-2026-08,191,Motor vehicle services,車輛服務,0.016634722073836806,fisher_estimate
-2026-08,199,Public transportation,公共運輸,0.03267989685537495,fisher_estimate
-2026-08,210,"Membership clubs, sports centers, parks, theaters, and museums",俱樂部、運動中心、公園與文化場所,-0.005336721237113679,fisher_estimate
-2026-08,218,"Audio-video, photographic, and information processing equipment services",影音、攝影與資訊設備服務,-0.003231535077221709,fisher_estimate
-2026-08,226,Gambling,博弈,0.004081957857636183,fisher_estimate
-2026-08,230,Other recreational services,其他休閒服務,0.002684140311068782,fisher_estimate
-2026-08,235,Food services,餐飲服務（核心）,0.013127767143402686,fisher_estimate
-2026-08,249,Accommodations,住宿,0.020730784663831592,fisher_estimate
-2026-08,253,Financial services,金融服務,0.01586332119876693,fisher_estimate
-2026-08,270,Insurance,保險,0.0008848630641990614,fisher_estimate
-2026-08,281,Communication,通訊服務,0.030796243608354625,fisher_estimate
-2026-08,290,Education services,教育服務,0.011141164173542634,fisher_estimate
-2026-08,298,Professional and other services,專業與其他服務,0.018022590405576383,fisher_estimate
-2026-08,307,Personal care and clothing services,個人護理與衣物服務,0.005762019252558479,fisher_estimate
-2026-08,315,Social services and religious activities,社會服務與宗教活動,0.0025961364407138927,fisher_estimate
-2026-08,327,Household maintenance,家庭維護,-0.0034201334079457146,fisher_estimate
-2026-08,334,Foreign travel by U.S. residents,美國居民境外旅遊支出,0.017025496136479912,fisher_estimate
-2026-08,338,Less: Expenditures in the United States by nonresidents,減：非居民在美國的支出,-0.01099619824883307,fisher_estimate
-2026-08,344,"Health, gross output",醫療總產出,0.0,fisher_estimate
-2026-08,348,"Recreation services, gross output",休閒服務總產出,0.0025192226856723503,fisher_estimate
-2026-08,349,"Education services, gross output",教育服務總產出,0.007413675551879485,fisher_estimate
-2026-08,350,"Social services, gross output",社會服務總產出,-0.0006276687257288481,fisher_estimate
-2026-08,351,"Religious organizations, gross output",宗教組織總產出,0.0012712303632260132,fisher_estimate
-2026-08,352,"Foundations and grantmaking and giving establishments, gross output",基金會與捐贈服務總產出,0.000271748092539411,fisher_estimate
-2026-08,353,"Social advocacy establishments, gross output",社會倡議組織總產出,-0.0003387030026203537,fisher_estimate
-2026-08,354,"Civic and social organizations, gross output",公民與社會組織總產出,-0.0016668872062646047,fisher_estimate
-2026-08,355,"Professional advocacy, gross output",專業倡議組織總產出,-0.0005306073506759052,fisher_estimate
-2026-08,357,Health services to households,減：對家庭醫療服務收入,-0.02722539443857302,fisher_estimate
-2026-08,361,Recreation services to households,減：對家庭休閒服務收入,0.0007325897495722264,fisher_estimate
-2026-08,362,Education services to households,減：對家庭教育服務收入,-0.005395502083374281,fisher_estimate
-2026-08,363,Social services to households,減：對家庭社會服務收入,-0.0006707333703842548,fisher_estimate
-2026-08,364,Religious organizations' services to households,減：對家庭宗教服務收入,-9.62423044094511e-05,fisher_estimate
-2026-08,365,Foundations and grantmaking and giving services to households,減：對家庭基金會與捐贈服務收入,-4.6870491984934593e-05,fisher_estimate
-2026-08,366,Services of social advocacy establishments to households,減：對家庭社會倡議服務收入,3.278764527968162e-05,fisher_estimate
-2026-08,367,Civic and social organizations' services to households,減：對家庭公民與社會組織服務收入,0.0008512143089936059,fisher_estimate
-2026-08,368,Professional advocacy services to households,減：對家庭專業倡議服務收入,-0.0018725743111177495,fisher_estimate
-2026-08,residual,Residual,差額,-0.0002431591852697368,fisher_estimate
+2026-07,5,New motor vehicles,新車,0.0011741511472242584,fisher_estimate
+2026-07,12,Net purchases of used motor vehicles,中古車淨購買,0.0044834587127679515,fisher_estimate
+2026-07,20,Motor vehicle parts and accessories,汽車零組件與配件,0.009196741384581781,fisher_estimate
+2026-07,24,Furniture and furnishings,家具與家飾,-0.008605201749174014,fisher_estimate
+2026-07,29,Household appliances,家用電器,-0.005852178660776582,fisher_estimate
+2026-07,32,"Glassware, tableware, and household utensils",玻璃器皿、餐具與家用器具,-0.006648733560683603,fisher_estimate
+2026-07,35,Tools and equipment for house and garden,家用與園藝工具設備,-0.0005553420729613619,fisher_estimate
+2026-07,39,"Video, audio, photographic, and information processing equipment and media",影音、攝影與資訊設備,0.03499220138658521,fisher_estimate
+2026-07,52,"Sporting equipment, supplies, guns, and ammunition",運動用品、槍械與彈藥,-0.002018494850762228,fisher_estimate
+2026-07,53,Sports and recreational vehicles,運動與休閒交通工具,0.0018869218122431499,fisher_estimate
+2026-07,60,Recreational books,休閒書籍,0.0077782878903821205,fisher_estimate
+2026-07,61,Musical instruments,樂器,-0.0002742242113942704,fisher_estimate
+2026-07,63,Jewelry and watches,珠寶與手錶,0.01003425070879221,fisher_estimate
+2026-07,66,Therapeutic appliances and equipment,治療器具與設備,-0.0033726156644332166,fisher_estimate
+2026-07,69,Educational books,教育書籍,0.00033974033910779273,fisher_estimate
+2026-07,70,Luggage and similar personal items,行李與個人物品,0.00127713773329686,fisher_estimate
+2026-07,71,Telephone and related communication equipment,電話與通訊設備,-0.00022646603425195775,fisher_estimate
+2026-07,74,Food and nonalcoholic beverages purchased for off-premises consumption,居家食物與非酒精飲料,-0.005960878199993706,fisher_estimate
+2026-07,99,Alcoholic beverages purchased for off-premises consumption,居家酒精飲料,0.0003739176160377607,fisher_estimate
+2026-07,103,Food produced and consumed on farms,農場自產自用食物,-0.00014484153073203283,fisher_estimate
+2026-07,105,Garments,服裝,-0.005866518701357147,fisher_estimate
+2026-07,109,Other clothing materials and footwear,其他衣料與鞋類,0.0026264422297269424,fisher_estimate
+2026-07,114,"Motor vehicle fuels, lubricants, and fluids",車用燃料、潤滑油與油液,-0.057099466670974035,fisher_estimate
+2026-07,117,Fuel oil and other fuels,燃油與其他燃料,-0.0029549793291512223,fisher_estimate
+2026-07,121,Pharmaceutical and other medical products,藥品與其他醫療用品,-0.024087332921693776,fisher_estimate
+2026-07,126,Recreational items,休閒用品,0.010032474968149121,fisher_estimate
+2026-07,131,Household supplies,家庭用品,0.00792947673515005,fisher_estimate
+2026-07,137,Personal care products,個人護理用品,0.003088254567223492,fisher_estimate
+2026-07,141,Tobacco,菸草,0.0024740969328219398,fisher_estimate
+2026-07,142,"Magazines, newspapers, and stationery",報刊與文具,-0.004118613072586543,fisher_estimate
+2026-07,146,Expenditures abroad by U.S. residents,美國居民境外商品支出,-0.00012724147327289003,fisher_estimate
+2026-07,149,Less: Personal remittances in kind to nonresidents,減：對非居民實物匯款,6.4970548011661115e-06,fisher_estimate
+2026-07,153,Housing,住宅,0.0407093162669301,fisher_estimate
+2026-07,166,Water supply and sanitation,供水與衛生服務,0.002868768059973449,fisher_estimate
+2026-07,169,Electricity and gas,電力與天然氣,0.004090300020591106,fisher_estimate
+2026-07,173,Outpatient services,門診服務,0.021156872849787612,fisher_estimate
+2026-07,182,Hospital and nursing home services,醫院與護理之家服務,0.010209556797722813,fisher_estimate
+2026-07,191,Motor vehicle services,車輛服務,0.004797468168456048,fisher_estimate
+2026-07,199,Public transportation,公共運輸,0.0017448842363467843,fisher_estimate
+2026-07,210,"Membership clubs, sports centers, parks, theaters, and museums",俱樂部、運動中心、公園與文化場所,-0.0027746198978173065,fisher_estimate
+2026-07,218,"Audio-video, photographic, and information processing equipment services",影音、攝影與資訊設備服務,0.0013822684137003438,fisher_estimate
+2026-07,226,Gambling,博弈,0.0007391138333836466,fisher_estimate
+2026-07,230,Other recreational services,其他休閒服務,-0.0008381006232412817,fisher_estimate
+2026-07,235,Food services,餐飲服務（核心）,0.01858649518743426,fisher_estimate
+2026-07,249,Accommodations,住宿,-0.023783142124890484,fisher_estimate
+2026-07,253,Financial services,金融服務,-0.0007751808689169922,fisher_estimate
+2026-07,270,Insurance,保險,0.005938737555656476,fisher_estimate
+2026-07,281,Communication,通訊服務,0.00580504136663932,fisher_estimate
+2026-07,290,Education services,教育服務,0.008308612145091356,fisher_estimate
+2026-07,298,Professional and other services,專業與其他服務,-0.004649411011631045,fisher_estimate
+2026-07,307,Personal care and clothing services,個人護理與衣物服務,0.0023121287344689693,fisher_estimate
+2026-07,315,Social services and religious activities,社會服務與宗教活動,0.004901909537194397,fisher_estimate
+2026-07,327,Household maintenance,家庭維護,0.0034683609417492972,fisher_estimate
+2026-07,334,Foreign travel by U.S. residents,美國居民境外旅遊支出,-0.02115290514285684,fisher_estimate
+2026-07,338,Less: Expenditures in the United States by nonresidents,減：非居民在美國的支出,0.003544558007438174,fisher_estimate
+2026-07,344,"Health, gross output",醫療總產出,0.0069130965270611435,fisher_estimate
+2026-07,348,"Recreation services, gross output",休閒服務總產出,-0.0008511779218733888,fisher_estimate
+2026-07,349,"Education services, gross output",教育服務總產出,0.0058285098709320434,fisher_estimate
+2026-07,350,"Social services, gross output",社會服務總產出,0.003971955487414708,fisher_estimate
+2026-07,351,"Religious organizations, gross output",宗教組織總產出,0.0011282604951172773,fisher_estimate
+2026-07,352,"Foundations and grantmaking and giving establishments, gross output",基金會與捐贈服務總產出,-9.738468381546214e-05,fisher_estimate
+2026-07,353,"Social advocacy establishments, gross output",社會倡議組織總產出,0.0009191221907486697,fisher_estimate
+2026-07,354,"Civic and social organizations, gross output",公民與社會組織總產出,0.0007364713786422935,fisher_estimate
+2026-07,355,"Professional advocacy, gross output",專業倡議組織總產出,0.001876866649625949,fisher_estimate
+2026-07,357,Health services to households,減：對家庭醫療服務收入,-0.009590490236075704,fisher_estimate
+2026-07,361,Recreation services to households,減：對家庭休閒服務收入,0.00023370101816177195,fisher_estimate
+2026-07,362,Education services to households,減：對家庭教育服務收入,-0.003963918517981292,fisher_estimate
+2026-07,363,Social services to households,減：對家庭社會服務收入,-0.001730175649480364,fisher_estimate
+2026-07,364,Religious organizations' services to households,減：對家庭宗教服務收入,-8.541410079743128e-05,fisher_estimate
+2026-07,365,Foundations and grantmaking and giving services to households,減：對家庭基金會與捐贈服務收入,1.6794283063400016e-05,fisher_estimate
+2026-07,366,Services of social advocacy establishments to households,減：對家庭社會倡議服務收入,-8.949656021014204e-05,fisher_estimate
+2026-07,367,Civic and social organizations' services to households,減：對家庭公民與社會組織服務收入,-0.0003754555015345264,fisher_estimate
+2026-07,368,Professional advocacy services to households,減：對家庭專業倡議服務收入,0.000186500034332656,fisher_estimate
+2026-07,residual,Residual,差額,0.00038234973928231997,fisher_estimate
+2026-08,5,New motor vehicles,新車,0.005088112802204595,fisher_estimate
+2026-08,12,Net purchases of used motor vehicles,中古車淨購買,0.00369183446504732,fisher_estimate
+2026-08,20,Motor vehicle parts and accessories,汽車零組件與配件,-0.009623912173545274,fisher_estimate
+2026-08,24,Furniture and furnishings,家具與家飾,-0.001515092630478709,fisher_estimate
+2026-08,29,Household appliances,家用電器,0.006106049113630464,fisher_estimate
+2026-08,32,"Glassware, tableware, and household utensils",玻璃器皿、餐具與家用器具,-0.003551794234284435,fisher_estimate
+2026-08,35,Tools and equipment for house and garden,家用與園藝工具設備,-0.0004069917841708884,fisher_estimate
+2026-08,39,"Video, audio, photographic, and information processing equipment and media",影音、攝影與資訊設備,0.00766151770427619,fisher_estimate
+2026-08,52,"Sporting equipment, supplies, guns, and ammunition",運動用品、槍械與彈藥,-2.9288684486146526e-05,fisher_estimate
+2026-08,53,Sports and recreational vehicles,運動與休閒交通工具,0.006879824661864185,fisher_estimate
+2026-08,60,Recreational books,休閒書籍,0.0037585992356507078,fisher_estimate
+2026-08,61,Musical instruments,樂器,0.00013976332010744234,fisher_estimate
+2026-08,63,Jewelry and watches,珠寶與手錶,-0.00556977760195488,fisher_estimate
+2026-08,66,Therapeutic appliances and equipment,治療器具與設備,0.0028983710577135035,fisher_estimate
+2026-08,69,Educational books,教育書籍,-0.0003198704841854623,fisher_estimate
+2026-08,70,Luggage and similar personal items,行李與個人物品,0.0031012838237352565,fisher_estimate
+2026-08,71,Telephone and related communication equipment,電話與通訊設備,-0.004281885742808718,fisher_estimate
+2026-08,74,Food and nonalcoholic beverages purchased for off-premises consumption,居家食物與非酒精飲料,0.0017199945927171146,fisher_estimate
+2026-08,99,Alcoholic beverages purchased for off-premises consumption,居家酒精飲料,0.00044710599577470845,fisher_estimate
+2026-08,103,Food produced and consumed on farms,農場自產自用食物,-3.693310070959936e-05,fisher_estimate
+2026-08,105,Garments,服裝,0.005860222756171799,fisher_estimate
+2026-08,109,Other clothing materials and footwear,其他衣料與鞋類,-0.001503839225006004,fisher_estimate
+2026-08,114,"Motor vehicle fuels, lubricants, and fluids",車用燃料、潤滑油與油液,0.08367866174055494,fisher_estimate
+2026-08,117,Fuel oil and other fuels,燃油與其他燃料,0.011011540526465196,fisher_estimate
+2026-08,121,Pharmaceutical and other medical products,藥品與其他醫療用品,-0.006570209966774961,fisher_estimate
+2026-08,126,Recreational items,休閒用品,-0.024091109223754636,fisher_estimate
+2026-08,131,Household supplies,家庭用品,-7.877469870085847e-06,fisher_estimate
+2026-08,137,Personal care products,個人護理用品,0.0017337735094969618,fisher_estimate
+2026-08,141,Tobacco,菸草,0.003157481947436828,fisher_estimate
+2026-08,142,"Magazines, newspapers, and stationery",報刊與文具,0.018467339205366275,fisher_estimate
+2026-08,146,Expenditures abroad by U.S. residents,美國居民境外商品支出,-8.435043346866117e-05,fisher_estimate
+2026-08,149,Less: Personal remittances in kind to nonresidents,減：對非居民實物匯款,-1.976073652375924e-05,fisher_estimate
+2026-08,153,Housing,住宅,0.02913629486117974,fisher_estimate
+2026-08,166,Water supply and sanitation,供水與衛生服務,0.0031351386319544536,fisher_estimate
+2026-08,169,Electricity and gas,電力與天然氣,-0.006915138531755408,fisher_estimate
+2026-08,173,Outpatient services,門診服務,-0.0026145913883213576,fisher_estimate
+2026-08,182,Hospital and nursing home services,醫院與護理之家服務,0.016172669087595046,fisher_estimate
+2026-08,191,Motor vehicle services,車輛服務,0.016602422758488066,fisher_estimate
+2026-08,199,Public transportation,公共運輸,0.020912588979603353,fisher_estimate
+2026-08,210,"Membership clubs, sports centers, parks, theaters, and museums",俱樂部、運動中心、公園與文化場所,-0.0055290542611368485,fisher_estimate
+2026-08,218,"Audio-video, photographic, and information processing equipment services",影音、攝影與資訊設備服務,-0.003151234854951775,fisher_estimate
+2026-08,226,Gambling,博弈,0.00403264554933532,fisher_estimate
+2026-08,230,Other recreational services,其他休閒服務,0.0026849899745477273,fisher_estimate
+2026-08,235,Food services,餐飲服務（核心）,0.013197599627475848,fisher_estimate
+2026-08,249,Accommodations,住宿,0.020711873358419744,fisher_estimate
+2026-08,253,Financial services,金融服務,0.020556962584011223,fisher_estimate
+2026-08,270,Insurance,保險,0.001884029360897178,fisher_estimate
+2026-08,281,Communication,通訊服務,0.030660956546300407,fisher_estimate
+2026-08,290,Education services,教育服務,0.01112728561269763,fisher_estimate
+2026-08,298,Professional and other services,專業與其他服務,0.017879360278428062,fisher_estimate
+2026-08,307,Personal care and clothing services,個人護理與衣物服務,0.005784009402133634,fisher_estimate
+2026-08,315,Social services and religious activities,社會服務與宗教活動,0.0036234197771737157,fisher_estimate
+2026-08,327,Household maintenance,家庭維護,-0.003422241964881896,fisher_estimate
+2026-08,334,Foreign travel by U.S. residents,美國居民境外旅遊支出,0.015039136196294366,fisher_estimate
+2026-08,338,Less: Expenditures in the United States by nonresidents,減：非居民在美國的支出,-0.009730327832279588,fisher_estimate
+2026-08,344,"Health, gross output",醫療總產出,0.020981113913868393,fisher_estimate
+2026-08,348,"Recreation services, gross output",休閒服務總產出,0.0020807443023269693,fisher_estimate
+2026-08,349,"Education services, gross output",教育服務總產出,0.0076480831753193285,fisher_estimate
+2026-08,350,"Social services, gross output",社會服務總產出,-0.0002540312730038396,fisher_estimate
+2026-08,351,"Religious organizations, gross output",宗教組織總產出,0.0013810462603472528,fisher_estimate
+2026-08,352,"Foundations and grantmaking and giving establishments, gross output",基金會與捐贈服務總產出,0.001397263306746939,fisher_estimate
+2026-08,353,"Social advocacy establishments, gross output",社會倡議組織總產出,-0.00030056639903886396,fisher_estimate
+2026-08,354,"Civic and social organizations, gross output",公民與社會組織總產出,-0.0011139986024528159,fisher_estimate
+2026-08,355,"Professional advocacy, gross output",專業倡議組織總產出,7.240212367955122e-05,fisher_estimate
+2026-08,357,Health services to households,減：對家庭醫療服務收入,-0.010661432233434846,fisher_estimate
+2026-08,361,Recreation services to households,減：對家庭休閒服務收入,0.0007317328801371407,fisher_estimate
+2026-08,362,Education services to households,減：對家庭教育服務收入,-0.005382481857752954,fisher_estimate
+2026-08,363,Social services to households,減：對家庭社會服務收入,-0.0009114751891195816,fisher_estimate
+2026-08,364,Religious organizations' services to households,減：對家庭宗教服務收入,-0.00010485657740264719,fisher_estimate
+2026-08,365,Foundations and grantmaking and giving services to households,減：對家庭基金會與捐贈服務收入,-0.0002413407321645205,fisher_estimate
+2026-08,366,Services of social advocacy establishments to households,減：對家庭社會倡議服務收入,2.9216857329824578e-05,fisher_estimate
+2026-08,367,Civic and social organizations' services to households,減：對家庭公民與社會組織服務收入,0.0005685085791121414,fisher_estimate
+2026-08,368,Professional advocacy services to households,減：對家庭專業倡議服務收入,-0.002498724957822817,fisher_estimate
+2026-08,residual,Residual,差額,0.00021397607458062406,fisher_estimate
+2026-09,5,New motor vehicles,新車,0.004142763842906279,fisher_estimate
+2026-09,12,Net purchases of used motor vehicles,中古車淨購買,0.006640917573750272,fisher_estimate
+2026-09,20,Motor vehicle parts and accessories,汽車零組件與配件,-0.00139498014984107,fisher_estimate
+2026-09,24,Furniture and furnishings,家具與家飾,-0.0031365909122318277,fisher_estimate
+2026-09,29,Household appliances,家用電器,-0.0005621367260128417,fisher_estimate
+2026-09,32,"Glassware, tableware, and household utensils",玻璃器皿、餐具與家用器具,0.003971576117696814,fisher_estimate
+2026-09,35,Tools and equipment for house and garden,家用與園藝工具設備,-0.0004938454638343982,fisher_estimate
+2026-09,39,"Video, audio, photographic, and information processing equipment and media",影音、攝影與資訊設備,0.00240851285210224,fisher_estimate
+2026-09,52,"Sporting equipment, supplies, guns, and ammunition",運動用品、槍械與彈藥,-0.0009443310957872156,fisher_estimate
+2026-09,53,Sports and recreational vehicles,運動與休閒交通工具,0.003425674893374111,fisher_estimate
+2026-09,60,Recreational books,休閒書籍,0.0009149836547571933,fisher_estimate
+2026-09,61,Musical instruments,樂器,0.0004383939072463682,fisher_estimate
+2026-09,63,Jewelry and watches,珠寶與手錶,0.008101959110538135,fisher_estimate
+2026-09,66,Therapeutic appliances and equipment,治療器具與設備,0.0010509560889650474,fisher_estimate
+2026-09,69,Educational books,教育書籍,7.032802550376529e-05,fisher_estimate
+2026-09,70,Luggage and similar personal items,行李與個人物品,0.00018811004956303525,fisher_estimate
+2026-09,71,Telephone and related communication equipment,電話與通訊設備,0.00096518735662426,fisher_estimate
+2026-09,74,Food and nonalcoholic beverages purchased for off-premises consumption,居家食物與非酒精飲料,-0.0010115691826043992,fisher_estimate
+2026-09,99,Alcoholic beverages purchased for off-premises consumption,居家酒精飲料,-0.00012055652516477354,fisher_estimate
+2026-09,103,Food produced and consumed on farms,農場自產自用食物,0.0,fisher_estimate
+2026-09,105,Garments,服裝,0.0012187328658373963,fisher_estimate
+2026-09,109,Other clothing materials and footwear,其他衣料與鞋類,0.003065444195577319,fisher_estimate
+2026-09,114,"Motor vehicle fuels, lubricants, and fluids",車用燃料、潤滑油與油液,0.19059429247547685,fisher_estimate
+2026-09,117,Fuel oil and other fuels,燃油與其他燃料,0.01684746005582894,fisher_estimate
+2026-09,121,Pharmaceutical and other medical products,藥品與其他醫療用品,-0.026863634739271346,fisher_estimate
+2026-09,126,Recreational items,休閒用品,0.0317651295024031,fisher_estimate
+2026-09,131,Household supplies,家庭用品,-0.020063418502414575,fisher_estimate
+2026-09,137,Personal care products,個人護理用品,0.0022068429715544837,fisher_estimate
+2026-09,141,Tobacco,菸草,0.003586816455609042,fisher_estimate
+2026-09,142,"Magazines, newspapers, and stationery",報刊與文具,0.0223839446816897,fisher_estimate
+2026-09,146,Expenditures abroad by U.S. residents,美國居民境外商品支出,-4.1653060497735635e-05,fisher_estimate
+2026-09,149,Less: Personal remittances in kind to nonresidents,減：對非居民實物匯款,-4.277743553805532e-05,fisher_estimate
+2026-09,153,Housing,住宅,0.05002662054250664,fisher_estimate
+2026-09,166,Water supply and sanitation,供水與衛生服務,0.0015110642802809,fisher_estimate
+2026-09,169,Electricity and gas,電力與天然氣,0.002164440817293471,fisher_estimate
+2026-09,173,Outpatient services,門診服務,0.0026743381353126158,fisher_estimate
+2026-09,182,Hospital and nursing home services,醫院與護理之家服務,0.022400058951988707,fisher_estimate
+2026-09,191,Motor vehicle services,車輛服務,0.018658503176630738,fisher_estimate
+2026-09,199,Public transportation,公共運輸,0.055041869431064594,fisher_estimate
+2026-09,210,"Membership clubs, sports centers, parks, theaters, and museums",俱樂部、運動中心、公園與文化場所,0.006848760203098042,fisher_estimate
+2026-09,218,"Audio-video, photographic, and information processing equipment services",影音、攝影與資訊設備服務,0.002700264943241583,fisher_estimate
+2026-09,226,Gambling,博弈,0.006518225362545536,fisher_estimate
+2026-09,230,Other recreational services,其他休閒服務,-0.00097895574539433,fisher_estimate
+2026-09,235,Food services,餐飲服務（核心）,0.012536875785859517,fisher_estimate
+2026-09,249,Accommodations,住宿,0.01793674625386805,fisher_estimate
+2026-09,253,Financial services,金融服務,0.027357865837442083,fisher_estimate
+2026-09,270,Insurance,保險,0.004151197413899326,fisher_estimate
+2026-09,281,Communication,通訊服務,-0.005657855698648985,fisher_estimate
+2026-09,290,Education services,教育服務,0.01347998702445595,fisher_estimate
+2026-09,298,Professional and other services,專業與其他服務,-0.004237078057546137,fisher_estimate
+2026-09,307,Personal care and clothing services,個人護理與衣物服務,0.008198521244220278,fisher_estimate
+2026-09,315,Social services and religious activities,社會服務與宗教活動,0.004403361695893376,fisher_estimate
+2026-09,327,Household maintenance,家庭維護,0.0015454220660693005,fisher_estimate
+2026-09,334,Foreign travel by U.S. residents,美國居民境外旅遊支出,0.014047611666943953,fisher_estimate
+2026-09,338,Less: Expenditures in the United States by nonresidents,減：非居民在美國的支出,-0.01727333323944387,fisher_estimate
+2026-09,344,"Health, gross output",醫療總產出,-0.003592500474229815,fisher_estimate
+2026-09,348,"Recreation services, gross output",休閒服務總產出,0.0022953729906457954,fisher_estimate
+2026-09,349,"Education services, gross output",教育服務總產出,0.006704769419048656,fisher_estimate
+2026-09,350,"Social services, gross output",社會服務總產出,0.006359411090263753,fisher_estimate
+2026-09,351,"Religious organizations, gross output",宗教組織總產出,0.0011223075961813735,fisher_estimate
+2026-09,352,"Foundations and grantmaking and giving establishments, gross output",基金會與捐贈服務總產出,0.0024874359693056055,fisher_estimate
+2026-09,353,"Social advocacy establishments, gross output",社會倡議組織總產出,0.0012086867343271228,fisher_estimate
+2026-09,354,"Civic and social organizations, gross output",公民與社會組織總產出,0.0011940113884376098,fisher_estimate
+2026-09,355,"Professional advocacy, gross output",專業倡議組織總產出,0.0010989400476387476,fisher_estimate
+2026-09,357,Health services to households,減：對家庭醫療服務收入,-0.012674271531130009,fisher_estimate
+2026-09,361,Recreation services to households,減：對家庭休閒服務收入,-0.0002931818367843666,fisher_estimate
+2026-09,362,Education services to households,減：對家庭教育服務收入,-0.006054519941710145,fisher_estimate
+2026-09,363,Social services to households,減：對家庭社會服務收入,-0.0019215273482458273,fisher_estimate
+2026-09,364,Religious organizations' services to households,減：對家庭宗教服務收入,-8.496857818451187e-05,fisher_estimate
+2026-09,365,Foundations and grantmaking and giving services to households,減：對家庭基金會與捐贈服務收入,-0.0004285822573883208,fisher_estimate
+2026-09,366,Services of social advocacy establishments to households,減：對家庭社會倡議服務收入,-0.0001174905606518669,fisher_estimate
+2026-09,367,Civic and social organizations' services to households,減：對家庭公民與社會組織服務收入,-0.0006093557086195292,fisher_estimate
+2026-09,368,Professional advocacy services to households,減：對家庭專業倡議服務收入,0.0008448814295616463,fisher_estimate
+2026-09,residual,Residual,差額,-6.603213290867771e-05,fisher_estimate

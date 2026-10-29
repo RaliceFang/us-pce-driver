@@ -7458,24 +7458,41 @@
 2026-07,m17,Transportation services,運輸服務,0.01,official
 2026-07,m18,Recreation services,休閒服務,0.0,official
 2026-07,m19,Food services and accommodations,餐飲與住宿,-0.01,official
-2026-07,m20,Financial services and insurance,金融服務與保險,0.0,official
+2026-07,m20,Financial services and insurance,金融服務與保險,0.01,official
 2026-07,m21,Other services,其他服務,0.0,official
 2026-07,m22,Final consumption expenditures of nonprofit institutions serving households,服務家庭之非營利機構淨消費,0.0,official
-2026-07,residual,Residual,差額,0.00034094549449807665,official
+2026-07,residual,Residual,差額,0.0017820694705173376,official
 2026-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2026-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
-2026-08,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
+2026-08,m6,Recreational goods and vehicles,休閒商品與交通工具,0.02,official
 2026-08,m7,Other durable goods,其他耐久財,0.0,official
 2026-08,m9,Food and beverages purchased for off-premises consumption,食物與飲料（居家消費）,0.0,official
 2026-08,m10,Clothing and footwear,服裝與鞋類,0.0,official
 2026-08,m11,Gasoline and other energy goods,汽油與其他能源商品,0.09,official
 2026-08,m12,Other nondurable goods,其他非耐久財,-0.01,official
 2026-08,m15,Housing and utilities,住宅與公用事業,0.03,official
-2026-08,m16,Health care,醫療服務,0.04,official
-2026-08,m17,Transportation services,運輸服務,0.05,official
+2026-08,m16,Health care,醫療服務,0.01,official
+2026-08,m17,Transportation services,運輸服務,0.04,official
 2026-08,m18,Recreation services,休閒服務,0.0,official
 2026-08,m19,Food services and accommodations,餐飲與住宿,0.03,official
 2026-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2026-08,m21,Other services,其他服務,0.07,official
-2026-08,m22,Final consumption expenditures of nonprofit institutions serving households,服務家庭之非營利機構淨消費,-0.03,official
-2026-08,residual,Residual,差額,0.01027963284848693,official
+2026-08,m22,Final consumption expenditures of nonprofit institutions serving households,服務家庭之非營利機構淨消費,0.01,official
+2026-08,residual,Residual,差額,0.013202756370655211,official
+2026-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
+2026-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
+2026-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
+2026-09,m7,Other durable goods,其他耐久財,0.01,official
+2026-09,m9,Food and beverages purchased for off-premises consumption,食物與飲料（居家消費）,0.0,official
+2026-09,m10,Clothing and footwear,服裝與鞋類,0.0,official
+2026-09,m11,Gasoline and other energy goods,汽油與其他能源商品,0.21,official
+2026-09,m12,Other nondurable goods,其他非耐久財,0.01,official
+2026-09,m15,Housing and utilities,住宅與公用事業,0.05,official
+2026-09,m16,Health care,醫療服務,0.03,official
+2026-09,m17,Transportation services,運輸服務,0.07,official
+2026-09,m18,Recreation services,休閒服務,0.02,official
+2026-09,m19,Food services and accommodations,餐飲與住宿,0.03,official
+2026-09,m20,Financial services and insurance,金融服務與保險,0.03,official
+2026-09,m21,Other services,其他服務,0.01,official
+2026-09,m22,Final consumption expenditures of nonprofit institutions serving households,服務家庭之非營利機構淨消費,0.0,official
+2026-09,residual,Residual,差額,0.000840431270944686,official

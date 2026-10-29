@@ -2192,10 +2192,15 @@
 2026-07,food,Food,食物,0.1618156745937938,official
 2026-07,energy,Energy,能源,0.5363632925157202,official
 2026-07,core_goods,Core goods,核心商品,0.43707310923045406,official
-2026-07,core_services,Core services,核心服務,2.253844814271981,official
-2026-07,residual,Residual,差額,-0.027553701164646505,official
+2026-07,core_services,Core services,核心服務,2.264175767891195,official
+2026-07,residual,Residual,差額,-0.02606488266906437,official
 2026-08,food,Food,食物,0.13148103026825644,official
-2026-08,energy,Energy,能源,0.597866995732105,official
-2026-08,core_goods,Core goods,核心商品,0.46622263792059987,official
-2026-08,core_services,Core services,核心服務,2.2451896187190026,official
-2026-08,residual,Residual,差額,-0.02172845813453872,official
+2026-08,energy,Energy,能源,0.5978776065205259,official
+2026-08,core_goods,Core goods,核心商品,0.4765349094939047,official
+2026-08,core_services,Core services,核心服務,2.265830195945893,official
+2026-08,residual,Residual,差額,-0.027540419244051595,official
+2026-09,food,Food,食物,0.10118517879953919,official
+2026-09,energy,Energy,能源,0.7628798363649187,official
+2026-09,core_goods,Core goods,核心商品,0.46654845965157016,official
+2026-09,core_services,Core services,核心服務,2.337262403899656,official
+2026-09,residual,Residual,差額,-0.01900165359205097,official

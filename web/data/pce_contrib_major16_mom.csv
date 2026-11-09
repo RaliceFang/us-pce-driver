@@ -15,7 +15,7 @@
 1990-01,m20,Financial services and insurance,金融服務與保險,0.0,official
 1990-01,m21,Other services,其他服務,0.04,official
 1990-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-1990-01,residual,Residual,差額,0.00714556123414023,official
+1990-01,residual,Residual,差額,0.007145561234140452,official
 1990-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1990-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1990-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -32,7 +32,7 @@
 1990-02,m20,Financial services and insurance,金融服務與保險,0.03,official
 1990-02,m21,Other services,其他服務,0.02,official
 1990-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1990-02,residual,Residual,差額,0.0006264410021787903,official
+1990-02,residual,Residual,差額,0.0006264410021787348,official
 1990-03,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 1990-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1990-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -66,7 +66,7 @@
 1990-04,m20,Financial services and insurance,金融服務與保險,0.03,official
 1990-04,m21,Other services,其他服務,0.03,official
 1990-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1990-04,residual,Residual,差額,-0.0099479951891433,official
+1990-04,residual,Residual,差額,-0.009947995189143272,official
 1990-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1990-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1990-05,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -117,7 +117,7 @@
 1990-07,m20,Financial services and insurance,金融服務與保險,-0.03,official
 1990-07,m21,Other services,其他服務,-0.02,official
 1990-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-1990-07,residual,Residual,差額,-0.003156904889839135,official
+1990-07,residual,Residual,差額,-0.0031569048898392182,official
 1990-08,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1990-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1990-08,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -134,7 +134,7 @@
 1990-08,m20,Financial services and insurance,金融服務與保險,0.04,official
 1990-08,m21,Other services,其他服務,0.04,official
 1990-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1990-08,residual,Residual,差額,0.00500276386538534,official
+1990-08,residual,Residual,差額,0.005002763865385451,official
 1990-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1990-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1990-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -151,7 +151,7 @@
 1990-09,m20,Financial services and insurance,金融服務與保險,0.03,official
 1990-09,m21,Other services,其他服務,0.04,official
 1990-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1990-09,residual,Residual,差額,-0.015982428115005165,official
+1990-09,residual,Residual,差額,-0.015982428115005054,official
 1990-10,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1990-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 1990-10,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -168,7 +168,7 @@
 1990-10,m20,Financial services and insurance,金融服務與保險,0.0,official
 1990-10,m21,Other services,其他服務,0.04,official
 1990-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1990-10,residual,Residual,差額,-0.01776813032332414,official
+1990-10,residual,Residual,差額,-0.017768130323324027,official
 1990-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1990-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.03,official
 1990-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -202,7 +202,7 @@
 1990-12,m20,Financial services and insurance,金融服務與保險,-0.03,official
 1990-12,m21,Other services,其他服務,0.0,official
 1990-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1990-12,residual,Residual,差額,0.023614505321260054,official
+1990-12,residual,Residual,差額,0.023614505321260026,official
 1991-01,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1991-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1991-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -219,7 +219,7 @@
 1991-01,m20,Financial services and insurance,金融服務與保險,0.03,official
 1991-01,m21,Other services,其他服務,0.05,official
 1991-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1991-01,residual,Residual,差額,0.0006710968906391002,official
+1991-01,residual,Residual,差額,0.0006710968906390447,official
 1991-02,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1991-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1991-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.03,official
@@ -236,7 +236,7 @@
 1991-02,m20,Financial services and insurance,金融服務與保險,-0.09,official
 1991-02,m21,Other services,其他服務,0.08,official
 1991-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1991-02,residual,Residual,差額,0.0006726384098543273,official
+1991-02,residual,Residual,差額,0.0006726384098543411,official
 1991-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1991-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1991-03,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -270,7 +270,7 @@
 1991-04,m20,Financial services and insurance,金融服務與保險,-0.04,official
 1991-04,m21,Other services,其他服務,0.02,official
 1991-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1991-04,residual,Residual,差額,-0.008689665310911227,official
+1991-04,residual,Residual,差額,-0.008689665310911254,official
 1991-05,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1991-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 1991-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -287,7 +287,7 @@
 1991-05,m20,Financial services and insurance,金融服務與保險,0.06,official
 1991-05,m21,Other services,其他服務,0.01,official
 1991-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-1991-05,residual,Residual,差額,0.004139437813854063,official
+1991-05,residual,Residual,差額,0.004139437813854119,official
 1991-06,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1991-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 1991-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -304,7 +304,7 @@
 1991-06,m20,Financial services and insurance,金融服務與保險,0.05,official
 1991-06,m21,Other services,其他服務,0.03,official
 1991-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1991-06,residual,Residual,差額,-0.001130451726046755,official
+1991-06,residual,Residual,差額,-0.0011304517260467273,official
 1991-07,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1991-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 1991-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -321,7 +321,7 @@
 1991-07,m20,Financial services and insurance,金融服務與保險,0.03,official
 1991-07,m21,Other services,其他服務,0.02,official
 1991-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-1991-07,residual,Residual,差額,0.01723780191279073,official
+1991-07,residual,Residual,差額,0.0172378019127907,official
 1991-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1991-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1991-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -338,7 +338,7 @@
 1991-08,m20,Financial services and insurance,金融服務與保險,0.0,official
 1991-08,m21,Other services,其他服務,0.02,official
 1991-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1991-08,residual,Residual,差額,0.0030587340378942507,official
+1991-08,residual,Residual,差額,0.003058734037894223,official
 1991-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1991-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1991-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.02,official
@@ -355,7 +355,7 @@
 1991-09,m20,Financial services and insurance,金融服務與保險,0.04,official
 1991-09,m21,Other services,其他服務,0.06,official
 1991-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-1991-09,residual,Residual,差額,-0.006068850817836036,official
+1991-09,residual,Residual,差額,-0.006068850817836091,official
 1991-10,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1991-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1991-10,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -372,7 +372,7 @@
 1991-10,m20,Financial services and insurance,金融服務與保險,0.0,official
 1991-10,m21,Other services,其他服務,0.02,official
 1991-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1991-10,residual,Residual,差額,-0.013336766220395174,official
+1991-10,residual,Residual,差額,-0.013336766220395202,official
 1991-11,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1991-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1991-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -406,7 +406,7 @@
 1991-12,m20,Financial services and insurance,金融服務與保險,0.06,official
 1991-12,m21,Other services,其他服務,0.02,official
 1991-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1991-12,residual,Residual,差額,1.2019808632024453e-05,official
+1991-12,residual,Residual,差額,1.2019808631968942e-05,official
 1992-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1992-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 1992-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -423,7 +423,7 @@
 1992-01,m20,Financial services and insurance,金融服務與保險,0.03,official
 1992-01,m21,Other services,其他服務,0.02,official
 1992-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1992-01,residual,Residual,差額,-0.00411523028471128,official
+1992-01,residual,Residual,差額,-0.004115230284711252,official
 1992-02,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 1992-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 1992-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -457,7 +457,7 @@
 1992-03,m20,Financial services and insurance,金融服務與保險,0.03,official
 1992-03,m21,Other services,其他服務,0.04,official
 1992-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.04,official
-1992-03,residual,Residual,差額,-0.007950220551938586,official
+1992-03,residual,Residual,差額,-0.007950220551938614,official
 1992-04,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1992-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1992-04,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -491,7 +491,7 @@
 1992-05,m20,Financial services and insurance,金融服務與保險,-0.01,official
 1992-05,m21,Other services,其他服務,0.02,official
 1992-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-1992-05,residual,Residual,差額,-0.00691804369522972,official
+1992-05,residual,Residual,差額,-0.0069180436952297475,official
 1992-06,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1992-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1992-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -508,7 +508,7 @@
 1992-06,m20,Financial services and insurance,金融服務與保險,0.02,official
 1992-06,m21,Other services,其他服務,0.03,official
 1992-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1992-06,residual,Residual,差額,-0.0027932218407332454,official
+1992-06,residual,Residual,差額,-0.0027932218407332177,official
 1992-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1992-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1992-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -525,7 +525,7 @@
 1992-07,m20,Financial services and insurance,金融服務與保險,0.0,official
 1992-07,m21,Other services,其他服務,0.03,official
 1992-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1992-07,residual,Residual,差額,0.010095553976161797,official
+1992-07,residual,Residual,差額,0.010095553976161853,official
 1992-08,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1992-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1992-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -712,7 +712,7 @@
 1993-06,m20,Financial services and insurance,金融服務與保險,-0.03,official
 1993-06,m21,Other services,其他服務,0.01,official
 1993-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1993-06,residual,Residual,差額,0.01388107741824076,official
+1993-06,residual,Residual,差額,0.013881077418240757,official
 1993-07,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1993-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1993-07,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -729,7 +729,7 @@
 1993-07,m20,Financial services and insurance,金融服務與保險,0.04,official
 1993-07,m21,Other services,其他服務,0.02,official
 1993-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1993-07,residual,Residual,差額,-0.019889154029703954,official
+1993-07,residual,Residual,差額,-0.01988915402970398,official
 1993-08,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1993-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1993-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -763,7 +763,7 @@
 1993-09,m20,Financial services and insurance,金融服務與保險,0.06,official
 1993-09,m21,Other services,其他服務,0.02,official
 1993-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1993-09,residual,Residual,差額,-0.0056575111247468834,official
+1993-09,residual,Residual,差額,-0.005657511124746897,official
 1993-10,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1993-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1993-10,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -780,7 +780,7 @@
 1993-10,m20,Financial services and insurance,金融服務與保險,-0.04,official
 1993-10,m21,Other services,其他服務,0.03,official
 1993-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1993-10,residual,Residual,差額,0.00423403537815803,official
+1993-10,residual,Residual,差額,0.004234035378158085,official
 1993-11,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1993-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1993-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -831,7 +831,7 @@
 1994-01,m20,Financial services and insurance,金融服務與保險,-0.04,official
 1994-01,m21,Other services,其他服務,0.02,official
 1994-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1994-01,residual,Residual,差額,0.003545790003364215,official
+1994-01,residual,Residual,差額,0.0035457900033642117,official
 1994-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1994-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1994-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -848,7 +848,7 @@
 1994-02,m20,Financial services and insurance,金融服務與保險,0.04,official
 1994-02,m21,Other services,其他服務,0.05,official
 1994-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1994-02,residual,Residual,差額,0.011693189439674512,official
+1994-02,residual,Residual,差額,0.01169318943967454,official
 1994-03,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1994-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1994-03,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -882,7 +882,7 @@
 1994-04,m20,Financial services and insurance,金融服務與保險,0.02,official
 1994-04,m21,Other services,其他服務,0.01,official
 1994-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1994-04,residual,Residual,差額,-0.0017052641157499354,official
+1994-04,residual,Residual,差額,-0.0017052641157498938,official
 1994-05,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1994-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 1994-05,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -950,7 +950,7 @@
 1994-08,m20,Financial services and insurance,金融服務與保險,-0.03,official
 1994-08,m21,Other services,其他服務,0.03,official
 1994-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-1994-08,residual,Residual,差額,0.0001409425249367935,official
+1994-08,residual,Residual,差額,0.00014094252493676573,official
 1994-09,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1994-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 1994-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -967,7 +967,7 @@
 1994-09,m20,Financial services and insurance,金融服務與保險,0.01,official
 1994-09,m21,Other services,其他服務,0.04,official
 1994-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1994-09,residual,Residual,差額,-0.008945583335830828,official
+1994-09,residual,Residual,差額,-0.008945583335830842,official
 1994-10,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1994-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1994-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -984,7 +984,7 @@
 1994-10,m20,Financial services and insurance,金融服務與保險,0.04,official
 1994-10,m21,Other services,其他服務,0.03,official
 1994-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1994-10,residual,Residual,差額,-0.0006050248845666517,official
+1994-10,residual,Residual,差額,-0.0006050248845666795,official
 1994-11,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1994-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1994-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -1018,7 +1018,7 @@
 1994-12,m20,Financial services and insurance,金融服務與保險,0.0,official
 1994-12,m21,Other services,其他服務,0.01,official
 1994-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1994-12,residual,Residual,差額,0.014228953814904348,official
+1994-12,residual,Residual,差額,0.014228953814904341,official
 1995-01,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1995-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1995-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -1052,7 +1052,7 @@
 1995-02,m20,Financial services and insurance,金融服務與保險,0.02,official
 1995-02,m21,Other services,其他服務,0.01,official
 1995-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-1995-02,residual,Residual,差額,0.017275909842533632,official
+1995-02,residual,Residual,差額,0.017275909842533604,official
 1995-03,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1995-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1995-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1137,7 +1137,7 @@
 1995-07,m20,Financial services and insurance,金融服務與保險,0.03,official
 1995-07,m21,Other services,其他服務,0.01,official
 1995-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1995-07,residual,Residual,差額,-0.0044776053280380645,official
+1995-07,residual,Residual,差額,-0.004477605328038092,official
 1995-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1995-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1995-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1154,7 +1154,7 @@
 1995-08,m20,Financial services and insurance,金融服務與保險,0.01,official
 1995-08,m21,Other services,其他服務,0.01,official
 1995-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1995-08,residual,Residual,差額,0.015332881035945545,official
+1995-08,residual,Residual,差額,0.0153328810359456,official
 1995-09,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 1995-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1995-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1188,7 +1188,7 @@
 1995-10,m20,Financial services and insurance,金融服務與保險,0.04,official
 1995-10,m21,Other services,其他服務,0.01,official
 1995-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1995-10,residual,Residual,差額,0.018842561953076487,official
+1995-10,residual,Residual,差額,0.018842561953076514,official
 1995-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1995-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 1995-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1205,7 +1205,7 @@
 1995-11,m20,Financial services and insurance,金融服務與保險,0.01,official
 1995-11,m21,Other services,其他服務,0.01,official
 1995-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1995-11,residual,Residual,差額,0.0070662011705702,official
+1995-11,residual,Residual,差額,0.007066201170570214,official
 1995-12,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 1995-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1995-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -1222,7 +1222,7 @@
 1995-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 1995-12,m21,Other services,其他服務,0.03,official
 1995-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1995-12,residual,Residual,差額,-0.007830538807951176,official
+1995-12,residual,Residual,差額,-0.007830538807951204,official
 1996-01,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1996-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 1996-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1256,7 +1256,7 @@
 1996-02,m20,Financial services and insurance,金融服務與保險,0.01,official
 1996-02,m21,Other services,其他服務,0.01,official
 1996-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1996-02,residual,Residual,差額,-0.0022252089055107005,official
+1996-02,residual,Residual,差額,-0.0022252089055106727,official
 1996-03,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1996-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1996-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1273,7 +1273,7 @@
 1996-03,m20,Financial services and insurance,金融服務與保險,-0.04,official
 1996-03,m21,Other services,其他服務,0.03,official
 1996-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-1996-03,residual,Residual,差額,0.0019253208867977545,official
+1996-03,residual,Residual,差額,0.00192532088679781,official
 1996-04,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 1996-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1996-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1290,7 +1290,7 @@
 1996-04,m20,Financial services and insurance,金融服務與保險,0.07,official
 1996-04,m21,Other services,其他服務,0.0,official
 1996-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-1996-04,residual,Residual,差額,-0.010437709948075469,official
+1996-04,residual,Residual,差額,-0.010437709948075413,official
 1996-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1996-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 1996-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1324,7 +1324,7 @@
 1996-06,m20,Financial services and insurance,金融服務與保險,0.03,official
 1996-06,m21,Other services,其他服務,0.03,official
 1996-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1996-06,residual,Residual,差額,-0.0014473455682395449,official
+1996-06,residual,Residual,差額,-0.0014473455682395536,official
 1996-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1996-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1996-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1341,7 +1341,7 @@
 1996-07,m20,Financial services and insurance,金融服務與保險,0.05,official
 1996-07,m21,Other services,其他服務,0.02,official
 1996-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-1996-07,residual,Residual,差額,0.011315511426968267,official
+1996-07,residual,Residual,差額,0.011315511426968239,official
 1996-08,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1996-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1996-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -1358,7 +1358,7 @@
 1996-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 1996-08,m21,Other services,其他服務,0.03,official
 1996-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1996-08,residual,Residual,差額,-0.014675245894525318,official
+1996-08,residual,Residual,差額,-0.014675245894525304,official
 1996-09,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1996-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1996-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1426,7 +1426,7 @@
 1996-12,m20,Financial services and insurance,金融服務與保險,0.0,official
 1996-12,m21,Other services,其他服務,0.02,official
 1996-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1996-12,residual,Residual,差額,0.005991007116988967,official
+1996-12,residual,Residual,差額,0.005991007116988953,official
 1997-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1997-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1997-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1443,7 +1443,7 @@
 1997-01,m20,Financial services and insurance,金融服務與保險,0.01,official
 1997-01,m21,Other services,其他服務,0.0,official
 1997-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1997-01,residual,Residual,差額,0.020159910747473794,official
+1997-01,residual,Residual,差額,0.02015991074747378,official
 1997-02,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1997-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1997-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -1477,7 +1477,7 @@
 1997-03,m20,Financial services and insurance,金融服務與保險,0.05,official
 1997-03,m21,Other services,其他服務,0.02,official
 1997-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-1997-03,residual,Residual,差額,-0.004513264244277906,official
+1997-03,residual,Residual,差額,-0.00451326424427792,official
 1997-04,m4,Motor vehicles and parts,汽車與零組件,-0.03,official
 1997-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1997-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.06,official
@@ -1511,7 +1511,7 @@
 1997-05,m20,Financial services and insurance,金融服務與保險,0.02,official
 1997-05,m21,Other services,其他服務,0.03,official
 1997-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1997-05,residual,Residual,差額,-0.005523088741561419,official
+1997-05,residual,Residual,差額,-0.005523088741561412,official
 1997-06,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 1997-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1997-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -1545,7 +1545,7 @@
 1997-07,m20,Financial services and insurance,金融服務與保險,-0.02,official
 1997-07,m21,Other services,其他服務,0.0,official
 1997-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.05,official
-1997-07,residual,Residual,差額,-0.00030020468500641107,official
+1997-07,residual,Residual,差額,-0.000300204685006418,official
 1997-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1997-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1997-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1613,7 +1613,7 @@
 1997-11,m20,Financial services and insurance,金融服務與保險,0.04,official
 1997-11,m21,Other services,其他服務,0.01,official
 1997-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1997-11,residual,Residual,差額,0.00565674850094844,official
+1997-11,residual,Residual,差額,0.005656748500948437,official
 1997-12,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 1997-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1997-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1630,7 +1630,7 @@
 1997-12,m20,Financial services and insurance,金融服務與保險,-0.01,official
 1997-12,m21,Other services,其他服務,0.0,official
 1997-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1997-12,residual,Residual,差額,0.018788393008655146,official
+1997-12,residual,Residual,差額,0.018788393008655167,official
 1998-01,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 1998-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1998-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1647,7 +1647,7 @@
 1998-01,m20,Financial services and insurance,金融服務與保險,0.0,official
 1998-01,m21,Other services,其他服務,0.01,official
 1998-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-1998-01,residual,Residual,差額,-0.0004957497064916327,official
+1998-01,residual,Residual,差額,-0.0004957497064916397,official
 1998-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1998-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1998-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1664,7 +1664,7 @@
 1998-02,m20,Financial services and insurance,金融服務與保險,-0.01,official
 1998-02,m21,Other services,其他服務,0.01,official
 1998-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1998-02,residual,Residual,差額,-0.012307170323462346,official
+1998-02,residual,Residual,差額,-0.012307170323462333,official
 1998-03,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 1998-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 1998-03,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -1681,7 +1681,7 @@
 1998-03,m20,Financial services and insurance,金融服務與保險,0.0,official
 1998-03,m21,Other services,其他服務,0.03,official
 1998-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1998-03,residual,Residual,差額,0.005558918796587653,official
+1998-03,residual,Residual,差額,0.005558918796587658,official
 1998-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1998-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 1998-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1766,7 +1766,7 @@
 1998-08,m20,Financial services and insurance,金融服務與保險,0.03,official
 1998-08,m21,Other services,其他服務,0.01,official
 1998-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1998-08,residual,Residual,差額,0.018008731164629435,official
+1998-08,residual,Residual,差額,0.01800873116462942,official
 1998-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1998-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 1998-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -1851,7 +1851,7 @@
 1999-01,m20,Financial services and insurance,金融服務與保險,-0.03,official
 1999-01,m21,Other services,其他服務,0.02,official
 1999-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1999-01,residual,Residual,差額,0.02025638867849465,official
+1999-01,residual,Residual,差額,0.020256388678494663,official
 1999-02,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 1999-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 1999-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1902,7 +1902,7 @@
 1999-04,m20,Financial services and insurance,金融服務與保險,0.01,official
 1999-04,m21,Other services,其他服務,0.01,official
 1999-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-1999-04,residual,Residual,差額,0.013112082003023162,official
+1999-04,residual,Residual,差額,0.013112082003023273,official
 1999-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1999-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.03,official
 1999-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -1919,7 +1919,7 @@
 1999-05,m20,Financial services and insurance,金融服務與保險,0.0,official
 1999-05,m21,Other services,其他服務,0.01,official
 1999-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-1999-05,residual,Residual,差額,0.015498836350452717,official
+1999-05,residual,Residual,差額,0.015498836350452724,official
 1999-06,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 1999-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1999-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.04,official
@@ -1936,7 +1936,7 @@
 1999-06,m20,Financial services and insurance,金融服務與保險,-0.03,official
 1999-06,m21,Other services,其他服務,0.01,official
 1999-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1999-06,residual,Residual,差額,0.0006389616177238308,official
+1999-06,residual,Residual,差額,0.0006389616177238377,official
 1999-07,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 1999-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 1999-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -1987,7 +1987,7 @@
 1999-09,m20,Financial services and insurance,金融服務與保險,0.04,official
 1999-09,m21,Other services,其他服務,0.02,official
 1999-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-1999-09,residual,Residual,差額,-0.011015689970613474,official
+1999-09,residual,Residual,差額,-0.011015689970613418,official
 1999-10,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 1999-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1999-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2021,7 +2021,7 @@
 1999-11,m20,Financial services and insurance,金融服務與保險,0.01,official
 1999-11,m21,Other services,其他服務,0.03,official
 1999-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-1999-11,residual,Residual,差額,0.009619324683920516,official
+1999-11,residual,Residual,差額,0.00961932468392053,official
 1999-12,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 1999-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 1999-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2038,7 +2038,7 @@
 1999-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 1999-12,m21,Other services,其他服務,0.02,official
 1999-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-1999-12,residual,Residual,差額,-0.007198391051592451,official
+1999-12,residual,Residual,差額,-0.007198391051592479,official
 2000-01,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2000-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2000-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2089,7 +2089,7 @@
 2000-03,m20,Financial services and insurance,金融服務與保險,-0.02,official
 2000-03,m21,Other services,其他服務,-0.01,official
 2000-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2000-03,residual,Residual,差額,-0.0009855036821523333,official
+2000-03,residual,Residual,差額,-0.0009855036821522778,official
 2000-04,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2000-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2000-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2140,7 +2140,7 @@
 2000-06,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2000-06,m21,Other services,其他服務,-0.01,official
 2000-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2000-06,residual,Residual,差額,0.018752465818670183,official
+2000-06,residual,Residual,差額,0.01875246581867024,official
 2000-07,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2000-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2000-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2157,7 +2157,7 @@
 2000-07,m20,Financial services and insurance,金融服務與保險,0.02,official
 2000-07,m21,Other services,其他服務,0.02,official
 2000-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-2000-07,residual,Residual,差額,0.010833853079135453,official
+2000-07,residual,Residual,差額,0.010833853079135397,official
 2000-08,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2000-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2000-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2174,7 +2174,7 @@
 2000-08,m20,Financial services and insurance,金融服務與保險,0.01,official
 2000-08,m21,Other services,其他服務,0.01,official
 2000-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2000-08,residual,Residual,差額,-0.006762331110776707,official
+2000-08,residual,Residual,差額,-0.006762331110776719,official
 2000-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2000-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2000-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2191,7 +2191,7 @@
 2000-09,m20,Financial services and insurance,金融服務與保險,0.03,official
 2000-09,m21,Other services,其他服務,-0.02,official
 2000-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2000-09,residual,Residual,差額,-0.009886655665862443,official
+2000-09,residual,Residual,差額,-0.009886655665862387,official
 2000-10,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2000-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2000-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2225,7 +2225,7 @@
 2000-11,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2000-11,m21,Other services,其他服務,0.02,official
 2000-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2000-11,residual,Residual,差額,-0.010126692937733994,official
+2000-11,residual,Residual,差額,-0.010126692937734022,official
 2000-12,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2000-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2000-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2242,7 +2242,7 @@
 2000-12,m20,Financial services and insurance,金融服務與保險,0.0,official
 2000-12,m21,Other services,其他服務,0.04,official
 2000-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2000-12,residual,Residual,差額,0.003108505580412646,official
+2000-12,residual,Residual,差額,0.0031085055804126738,official
 2001-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2001-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2001-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2259,7 +2259,7 @@
 2001-01,m20,Financial services and insurance,金融服務與保險,0.07,official
 2001-01,m21,Other services,其他服務,0.03,official
 2001-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2001-01,residual,Residual,差額,0.014102399055941128,official
+2001-01,residual,Residual,差額,0.01410239905594124,official
 2001-02,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2001-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2001-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2293,7 +2293,7 @@
 2001-03,m20,Financial services and insurance,金融服務與保險,0.0,official
 2001-03,m21,Other services,其他服務,0.03,official
 2001-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2001-03,residual,Residual,差額,0.009327363820488283,official
+2001-03,residual,Residual,差額,0.009327363820488273,official
 2001-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2001-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2001-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2344,7 +2344,7 @@
 2001-06,m20,Financial services and insurance,金融服務與保險,0.0,official
 2001-06,m21,Other services,其他服務,0.03,official
 2001-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2001-06,residual,Residual,差額,-0.003572328712617562,official
+2001-06,residual,Residual,差額,-0.003572328712617534,official
 2001-07,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2001-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2001-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2378,7 +2378,7 @@
 2001-08,m20,Financial services and insurance,金融服務與保險,0.0,official
 2001-08,m21,Other services,其他服務,0.03,official
 2001-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2001-08,residual,Residual,差額,-0.0019216351184836496,official
+2001-08,residual,Residual,差額,-0.0019216351184836548,official
 2001-09,m4,Motor vehicles and parts,汽車與零組件,-0.08,official
 2001-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2001-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2412,7 +2412,7 @@
 2001-10,m20,Financial services and insurance,金融服務與保險,0.47,official
 2001-10,m21,Other services,其他服務,0.04,official
 2001-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2001-10,residual,Residual,差額,0.0022671381285925274,official
+2001-10,residual,Residual,差額,0.002267138128592472,official
 2001-11,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2001-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2001-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2429,7 +2429,7 @@
 2001-11,m20,Financial services and insurance,金融服務與保險,0.0,official
 2001-11,m21,Other services,其他服務,0.02,official
 2001-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2001-11,residual,Residual,差額,0.002443172786522535,official
+2001-11,residual,Residual,差額,0.002443172786522549,official
 2001-12,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2001-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2001-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2463,7 +2463,7 @@
 2002-01,m20,Financial services and insurance,金融服務與保險,0.0,official
 2002-01,m21,Other services,其他服務,0.03,official
 2002-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2002-01,residual,Residual,差額,0.0002299536907902494,official
+2002-01,residual,Residual,差額,0.00022995369079023553,official
 2002-02,m4,Motor vehicles and parts,汽車與零組件,-0.03,official
 2002-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2002-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2497,7 +2497,7 @@
 2002-03,m20,Financial services and insurance,金融服務與保險,0.02,official
 2002-03,m21,Other services,其他服務,0.02,official
 2002-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2002-03,residual,Residual,差額,-0.008685248418424996,official
+2002-03,residual,Residual,差額,-0.00868524841842494,official
 2002-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2002-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2002-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2514,7 +2514,7 @@
 2002-04,m20,Financial services and insurance,金融服務與保險,0.02,official
 2002-04,m21,Other services,其他服務,0.01,official
 2002-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2002-04,residual,Residual,差額,-0.011589958159000324,official
+2002-04,residual,Residual,差額,-0.011589958159000269,official
 2002-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2002-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2002-05,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -2531,7 +2531,7 @@
 2002-05,m20,Financial services and insurance,金融服務與保險,0.03,official
 2002-05,m21,Other services,其他服務,0.04,official
 2002-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2002-05,residual,Residual,差額,0.015720294426907533,official
+2002-05,residual,Residual,差額,0.015720294426907526,official
 2002-06,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2002-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2002-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2548,7 +2548,7 @@
 2002-06,m20,Financial services and insurance,金融服務與保險,0.04,official
 2002-06,m21,Other services,其他服務,0.04,official
 2002-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2002-06,residual,Residual,差額,-0.025213450676469962,official
+2002-06,residual,Residual,差額,-0.025213450676469934,official
 2002-07,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2002-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2002-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2582,7 +2582,7 @@
 2002-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2002-08,m21,Other services,其他服務,0.04,official
 2002-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2002-08,residual,Residual,差額,0.0063530689984782895,official
+2002-08,residual,Residual,差額,0.006353068998478262,official
 2002-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2002-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2002-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2616,7 +2616,7 @@
 2002-10,m20,Financial services and insurance,金融服務與保險,0.04,official
 2002-10,m21,Other services,其他服務,0.01,official
 2002-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2002-10,residual,Residual,差額,-0.007425437852924682,official
+2002-10,residual,Residual,差額,-0.0074254378529246545,official
 2002-11,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2002-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2002-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2650,7 +2650,7 @@
 2002-12,m20,Financial services and insurance,金融服務與保險,0.01,official
 2002-12,m21,Other services,其他服務,0.02,official
 2002-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2002-12,residual,Residual,差額,-0.00376737714086188,official
+2002-12,residual,Residual,差額,-0.003767377140861866,official
 2003-01,m4,Motor vehicles and parts,汽車與零組件,-0.06,official
 2003-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2003-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2667,7 +2667,7 @@
 2003-01,m20,Financial services and insurance,金融服務與保險,0.02,official
 2003-01,m21,Other services,其他服務,0.05,official
 2003-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2003-01,residual,Residual,差額,-0.0011861610217042684,official
+2003-01,residual,Residual,差額,-0.001186161021704324,official
 2003-02,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2003-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2003-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2684,7 +2684,7 @@
 2003-02,m20,Financial services and insurance,金融服務與保險,0.06,official
 2003-02,m21,Other services,其他服務,0.04,official
 2003-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2003-02,residual,Residual,差額,0.000979002862664724,official
+2003-02,residual,Residual,差額,0.0009790028626647795,official
 2003-03,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2003-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2003-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2718,7 +2718,7 @@
 2003-04,m20,Financial services and insurance,金融服務與保險,0.07,official
 2003-04,m21,Other services,其他服務,0.03,official
 2003-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-2003-04,residual,Residual,差額,-0.009829527179143926,official
+2003-04,residual,Residual,差額,-0.009829527179143899,official
 2003-05,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2003-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.03,official
 2003-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -2735,7 +2735,7 @@
 2003-05,m20,Financial services and insurance,金融服務與保險,0.06,official
 2003-05,m21,Other services,其他服務,0.02,official
 2003-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-2003-05,residual,Residual,差額,-0.03470106839533972,official
+2003-05,residual,Residual,差額,-0.03470106839533979,official
 2003-06,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2003-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2003-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2752,7 +2752,7 @@
 2003-06,m20,Financial services and insurance,金融服務與保險,0.03,official
 2003-06,m21,Other services,其他服務,0.0,official
 2003-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2003-06,residual,Residual,差額,-0.011618497109835299,official
+2003-06,residual,Residual,差額,-0.011618497109835313,official
 2003-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2003-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2003-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2769,7 +2769,7 @@
 2003-07,m20,Financial services and insurance,金融服務與保險,0.03,official
 2003-07,m21,Other services,其他服務,0.02,official
 2003-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2003-07,residual,Residual,差額,-0.006140124761555343,official
+2003-07,residual,Residual,差額,-0.006140124761555288,official
 2003-08,m4,Motor vehicles and parts,汽車與零組件,-0.03,official
 2003-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2003-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2786,7 +2786,7 @@
 2003-08,m20,Financial services and insurance,金融服務與保險,0.04,official
 2003-08,m21,Other services,其他服務,0.04,official
 2003-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2003-08,residual,Residual,差額,-0.0020232342962930305,official
+2003-08,residual,Residual,差額,-0.002023234296293086,official
 2003-09,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2003-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2003-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -2803,7 +2803,7 @@
 2003-09,m20,Financial services and insurance,金融服務與保險,0.04,official
 2003-09,m21,Other services,其他服務,0.04,official
 2003-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2003-09,residual,Residual,差額,-0.017495997643416028,official
+2003-09,residual,Residual,差額,-0.017495997643416084,official
 2003-10,m4,Motor vehicles and parts,汽車與零組件,-0.04,official
 2003-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2003-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2820,7 +2820,7 @@
 2003-10,m20,Financial services and insurance,金融服務與保險,0.04,official
 2003-10,m21,Other services,其他服務,0.02,official
 2003-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2003-10,residual,Residual,差額,0.02276764168891554,official
+2003-10,residual,Residual,差額,0.022767641688915534,official
 2003-11,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2003-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2003-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2905,7 +2905,7 @@
 2004-03,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2004-03,m21,Other services,其他服務,0.01,official
 2004-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2004-03,residual,Residual,差額,0.00428000556418906,official
+2004-03,residual,Residual,差額,0.004280005564189088,official
 2004-04,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2004-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2004-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -2973,7 +2973,7 @@
 2004-07,m20,Financial services and insurance,金融服務與保險,0.02,official
 2004-07,m21,Other services,其他服務,0.02,official
 2004-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2004-07,residual,Residual,差額,0.0026958199195748628,official
+2004-07,residual,Residual,差額,0.0026958199195748767,official
 2004-08,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2004-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2004-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3024,7 +3024,7 @@
 2004-10,m20,Financial services and insurance,金融服務與保險,0.01,official
 2004-10,m21,Other services,其他服務,0.02,official
 2004-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2004-10,residual,Residual,差額,-0.000558274243481538,official
+2004-10,residual,Residual,差額,-0.0005582742434813714,official
 2004-11,m4,Motor vehicles and parts,汽車與零組件,0.04,official
 2004-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2004-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3041,7 +3041,7 @@
 2004-11,m20,Financial services and insurance,金融服務與保險,0.02,official
 2004-11,m21,Other services,其他服務,0.04,official
 2004-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2004-11,residual,Residual,差額,-0.014657915672233457,official
+2004-11,residual,Residual,差額,-0.014657915672233401,official
 2004-12,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2004-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2004-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3058,7 +3058,7 @@
 2004-12,m20,Financial services and insurance,金融服務與保險,0.01,official
 2004-12,m21,Other services,其他服務,0.04,official
 2004-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2004-12,residual,Residual,差額,0.0032454988979580407,official
+2004-12,residual,Residual,差額,0.0032454988979580476,official
 2005-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2005-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2005-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3092,7 +3092,7 @@
 2005-02,m20,Financial services and insurance,金融服務與保險,0.02,official
 2005-02,m21,Other services,其他服務,0.01,official
 2005-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2005-02,residual,Residual,差額,-0.0019029255812073598,official
+2005-02,residual,Residual,差額,-0.0019029255812073043,official
 2005-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2005-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2005-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3109,7 +3109,7 @@
 2005-03,m20,Financial services and insurance,金融服務與保險,0.02,official
 2005-03,m21,Other services,其他服務,0.02,official
 2005-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2005-03,residual,Residual,差額,-0.0004880934773130452,official
+2005-03,residual,Residual,差額,-0.0004880934773129897,official
 2005-04,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2005-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2005-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3143,7 +3143,7 @@
 2005-05,m20,Financial services and insurance,金融服務與保險,0.01,official
 2005-05,m21,Other services,其他服務,0.03,official
 2005-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2005-05,residual,Residual,差額,0.006370476575629003,official
+2005-05,residual,Residual,差額,0.006370476575628996,official
 2005-06,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2005-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2005-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3194,7 +3194,7 @@
 2005-08,m20,Financial services and insurance,金融服務與保險,0.01,official
 2005-08,m21,Other services,其他服務,-0.01,official
 2005-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2005-08,residual,Residual,差額,0.003432220949206921,official
+2005-08,residual,Residual,差額,0.0034322209492069766,official
 2005-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2005-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2005-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3211,7 +3211,7 @@
 2005-09,m20,Financial services and insurance,金融服務與保險,0.02,official
 2005-09,m21,Other services,其他服務,0.02,official
 2005-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2005-09,residual,Residual,差額,0.005075203029974551,official
+2005-09,residual,Residual,差額,0.005075203029974662,official
 2005-10,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2005-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2005-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3228,7 +3228,7 @@
 2005-10,m20,Financial services and insurance,金融服務與保險,0.05,official
 2005-10,m21,Other services,其他服務,0.02,official
 2005-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2005-10,residual,Residual,差額,-9.041504351423035e-05,official
+2005-10,residual,Residual,差額,-9.041504351425811e-05,official
 2005-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2005-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2005-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -3262,7 +3262,7 @@
 2005-12,m20,Financial services and insurance,金融服務與保險,0.0,official
 2005-12,m21,Other services,其他服務,0.03,official
 2005-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2005-12,residual,Residual,差額,-1.0408340855860843e-17,official
+2005-12,residual,Residual,差額,1.734723475976807e-18,official
 2006-01,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2006-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2006-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3279,7 +3279,7 @@
 2006-01,m20,Financial services and insurance,金融服務與保險,0.03,official
 2006-01,m21,Other services,其他服務,0.03,official
 2006-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2006-01,residual,Residual,差額,0.004777038649841692,official
+2006-01,residual,Residual,差額,0.004777038649841803,official
 2006-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2006-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2006-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3296,7 +3296,7 @@
 2006-02,m20,Financial services and insurance,金融服務與保險,0.01,official
 2006-02,m21,Other services,其他服務,0.03,official
 2006-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2006-02,residual,Residual,差額,-0.00014413292791053828,official
+2006-02,residual,Residual,差額,-0.00014413292791054522,official
 2006-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2006-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2006-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3330,7 +3330,7 @@
 2006-04,m20,Financial services and insurance,金融服務與保險,0.07,official
 2006-04,m21,Other services,其他服務,0.03,official
 2006-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2006-04,residual,Residual,差額,0.0044997970052466085,official
+2006-04,residual,Residual,差額,0.004499797005246664,official
 2006-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2006-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2006-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -3364,7 +3364,7 @@
 2006-06,m20,Financial services and insurance,金融服務與保險,0.04,official
 2006-06,m21,Other services,其他服務,0.03,official
 2006-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2006-06,residual,Residual,差額,0.016559429120085623,official
+2006-06,residual,Residual,差額,0.01655942912008565,official
 2006-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2006-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2006-07,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -3381,7 +3381,7 @@
 2006-07,m20,Financial services and insurance,金融服務與保險,-0.05,official
 2006-07,m21,Other services,其他服務,0.03,official
 2006-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2006-07,residual,Residual,差額,0.001732786245563167,official
+2006-07,residual,Residual,差額,0.001732786245563278,official
 2006-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2006-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2006-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3398,7 +3398,7 @@
 2006-08,m20,Financial services and insurance,金融服務與保險,0.01,official
 2006-08,m21,Other services,其他服務,0.02,official
 2006-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2006-08,residual,Residual,差額,-0.015356713568551505,official
+2006-08,residual,Residual,差額,-0.01535671356855145,official
 2006-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2006-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2006-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.04,official
@@ -3415,7 +3415,7 @@
 2006-09,m20,Financial services and insurance,金融服務與保險,0.04,official
 2006-09,m21,Other services,其他服務,0.03,official
 2006-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2006-09,residual,Residual,差額,-0.011967694566811349,official
+2006-09,residual,Residual,差額,-0.01196769456681146,official
 2006-10,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2006-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2006-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3432,7 +3432,7 @@
 2006-10,m20,Financial services and insurance,金融服務與保險,0.05,official
 2006-10,m21,Other services,其他服務,0.03,official
 2006-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2006-10,residual,Residual,差額,0.004434288944903136,official
+2006-10,residual,Residual,差額,0.004434288944903164,official
 2006-11,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2006-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2006-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3449,7 +3449,7 @@
 2006-11,m20,Financial services and insurance,金融服務與保險,0.0,official
 2006-11,m21,Other services,其他服務,0.01,official
 2006-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2006-11,residual,Residual,差額,-0.0057623196618772216,official
+2006-11,residual,Residual,差額,-0.005762319661877208,official
 2006-12,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2006-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2006-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3466,7 +3466,7 @@
 2006-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 2006-12,m21,Other services,其他服務,0.01,official
 2006-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2006-12,residual,Residual,差額,0.00524188313604812,official
+2006-12,residual,Residual,差額,0.005241883136048231,official
 2007-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2007-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2007-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -3483,7 +3483,7 @@
 2007-01,m20,Financial services and insurance,金融服務與保險,0.03,official
 2007-01,m21,Other services,其他服務,0.01,official
 2007-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2007-01,residual,Residual,差額,0.003991908928421495,official
+2007-01,residual,Residual,差額,0.00399190892842155,official
 2007-02,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2007-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2007-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3500,7 +3500,7 @@
 2007-02,m20,Financial services and insurance,金融服務與保險,0.0,official
 2007-02,m21,Other services,其他服務,0.03,official
 2007-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2007-02,residual,Residual,差額,-0.009390032350311217,official
+2007-02,residual,Residual,差額,-0.009390032350311273,official
 2007-03,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2007-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2007-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3517,7 +3517,7 @@
 2007-03,m20,Financial services and insurance,金融服務與保險,0.01,official
 2007-03,m21,Other services,其他服務,0.04,official
 2007-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2007-03,residual,Residual,差額,-0.00426461480935364,official
+2007-03,residual,Residual,差額,-0.004264614809353584,official
 2007-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2007-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2007-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3602,7 +3602,7 @@
 2007-08,m20,Financial services and insurance,金融服務與保險,0.03,official
 2007-08,m21,Other services,其他服務,0.04,official
 2007-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2007-08,residual,Residual,差額,-0.011918625448590264,official
+2007-08,residual,Residual,差額,-0.011918625448590278,official
 2007-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2007-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2007-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3636,7 +3636,7 @@
 2007-10,m20,Financial services and insurance,金融服務與保險,0.02,official
 2007-10,m21,Other services,其他服務,0.02,official
 2007-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.04,official
-2007-10,residual,Residual,差額,-0.0067399545110045644,official
+2007-10,residual,Residual,差額,-0.006739954511004453,official
 2007-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2007-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2007-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3687,7 +3687,7 @@
 2008-01,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2008-01,m21,Other services,其他服務,0.03,official
 2008-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2008-01,residual,Residual,差額,-0.007681396617560121,official
+2008-01,residual,Residual,差額,-0.007681396617560177,official
 2008-02,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2008-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2008-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3738,7 +3738,7 @@
 2008-04,m20,Financial services and insurance,金融服務與保險,-0.05,official
 2008-04,m21,Other services,其他服務,0.06,official
 2008-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2008-04,residual,Residual,差額,0.015028487617766567,official
+2008-04,residual,Residual,差額,0.015028487617766595,official
 2008-05,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2008-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2008-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3755,7 +3755,7 @@
 2008-05,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2008-05,m21,Other services,其他服務,0.04,official
 2008-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2008-05,residual,Residual,差額,-0.010941114201727609,official
+2008-05,residual,Residual,差額,-0.010941114201727553,official
 2008-06,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2008-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2008-06,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -3772,7 +3772,7 @@
 2008-06,m20,Financial services and insurance,金融服務與保險,0.03,official
 2008-06,m21,Other services,其他服務,0.03,official
 2008-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2008-06,residual,Residual,差額,0.005498990805095638,official
+2008-06,residual,Residual,差額,0.005498990805095749,official
 2008-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2008-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2008-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3789,7 +3789,7 @@
 2008-07,m20,Financial services and insurance,金融服務與保險,-0.03,official
 2008-07,m21,Other services,其他服務,0.03,official
 2008-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2008-07,residual,Residual,差額,0.015338929275160895,official
+2008-07,residual,Residual,差額,0.01533892927516084,official
 2008-08,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2008-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2008-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -3891,7 +3891,7 @@
 2009-01,m20,Financial services and insurance,金融服務與保險,-0.15,official
 2009-01,m21,Other services,其他服務,0.0,official
 2009-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.04,official
-2009-01,residual,Residual,差額,-0.008649004517693439,official
+2009-01,residual,Residual,差額,-0.008649004517693449,official
 2009-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2009-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2009-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3908,7 +3908,7 @@
 2009-02,m20,Financial services and insurance,金融服務與保險,-0.07,official
 2009-02,m21,Other services,其他服務,0.0,official
 2009-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2009-02,residual,Residual,差額,-0.01067462659462981,official
+2009-02,residual,Residual,差額,-0.010674626594629866,official
 2009-03,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2009-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2009-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -3925,7 +3925,7 @@
 2009-03,m20,Financial services and insurance,金融服務與保險,-0.07,official
 2009-03,m21,Other services,其他服務,0.01,official
 2009-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-2009-03,residual,Residual,差額,0.010104910157917493,official
+2009-03,residual,Residual,差額,0.01010491015791748,official
 2009-04,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2009-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2009-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -3976,7 +3976,7 @@
 2009-06,m20,Financial services and insurance,金融服務與保險,0.03,official
 2009-06,m21,Other services,其他服務,0.01,official
 2009-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2009-06,residual,Residual,差額,0.003978752531487606,official
+2009-06,residual,Residual,差額,0.003978752531487717,official
 2009-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2009-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2009-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -3993,7 +3993,7 @@
 2009-07,m20,Financial services and insurance,金融服務與保險,0.03,official
 2009-07,m21,Other services,其他服務,0.02,official
 2009-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2009-07,residual,Residual,差額,0.001247075760301147,official
+2009-07,residual,Residual,差額,0.0012470757603011504,official
 2009-08,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2009-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.03,official
 2009-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4095,7 +4095,7 @@
 2010-01,m20,Financial services and insurance,金融服務與保險,0.08,official
 2010-01,m21,Other services,其他服務,0.01,official
 2010-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2010-01,residual,Residual,差額,-0.0009626524644555379,official
+2010-01,residual,Residual,差額,-0.0009626524644555101,official
 2010-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2010-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2010-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4112,7 +4112,7 @@
 2010-02,m20,Financial services and insurance,金融服務與保險,0.05,official
 2010-02,m21,Other services,其他服務,0.01,official
 2010-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2010-02,residual,Residual,差額,0.007781130735785563,official
+2010-02,residual,Residual,差額,0.00778113073578556,official
 2010-03,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2010-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2010-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4146,7 +4146,7 @@
 2010-04,m20,Financial services and insurance,金融服務與保險,0.03,official
 2010-04,m21,Other services,其他服務,0.02,official
 2010-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2010-04,residual,Residual,差額,0.014287012109344181,official
+2010-04,residual,Residual,差額,0.014287012109344174,official
 2010-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2010-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2010-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -4163,7 +4163,7 @@
 2010-05,m20,Financial services and insurance,金融服務與保險,0.06,official
 2010-05,m21,Other services,其他服務,0.01,official
 2010-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2010-05,residual,Residual,差額,-0.007888384453562637,official
+2010-05,residual,Residual,差額,-0.007888384453562623,official
 2010-06,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2010-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2010-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -4231,7 +4231,7 @@
 2010-09,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2010-09,m21,Other services,其他服務,0.02,official
 2010-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2010-09,residual,Residual,差額,-0.01055468387437633,official
+2010-09,residual,Residual,差額,-0.010554683874376317,official
 2010-10,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2010-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2010-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4248,7 +4248,7 @@
 2010-10,m20,Financial services and insurance,金融服務與保險,0.09,official
 2010-10,m21,Other services,其他服務,0.0,official
 2010-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2010-10,residual,Residual,差額,0.009012716354638517,official
+2010-10,residual,Residual,差額,0.009012716354638572,official
 2010-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2010-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2010-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4265,7 +4265,7 @@
 2010-11,m20,Financial services and insurance,金融服務與保險,0.01,official
 2010-11,m21,Other services,其他服務,0.01,official
 2010-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2010-11,residual,Residual,差額,-0.01083845908385156,official
+2010-11,residual,Residual,差額,-0.010838459083851532,official
 2010-12,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2010-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2010-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.04,official
@@ -4316,7 +4316,7 @@
 2011-02,m20,Financial services and insurance,金融服務與保險,0.0,official
 2011-02,m21,Other services,其他服務,0.02,official
 2011-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2011-02,residual,Residual,差額,-0.021439339319650808,official
+2011-02,residual,Residual,差額,-0.021439339319650752,official
 2011-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2011-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2011-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4333,7 +4333,7 @@
 2011-03,m20,Financial services and insurance,金融服務與保險,0.03,official
 2011-03,m21,Other services,其他服務,0.01,official
 2011-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2011-03,residual,Residual,差額,-0.008026079283630416,official
+2011-03,residual,Residual,差額,-0.008026079283630305,official
 2011-04,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2011-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2011-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4350,7 +4350,7 @@
 2011-04,m20,Financial services and insurance,金融服務與保險,0.06,official
 2011-04,m21,Other services,其他服務,0.02,official
 2011-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2011-04,residual,Residual,差額,-0.015765466657984006,official
+2011-04,residual,Residual,差額,-0.015765466657983895,official
 2011-05,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2011-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2011-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4367,7 +4367,7 @@
 2011-05,m20,Financial services and insurance,金融服務與保險,0.01,official
 2011-05,m21,Other services,其他服務,0.03,official
 2011-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2011-05,residual,Residual,差額,0.003596702572450594,official
+2011-05,residual,Residual,差額,0.0035967025724506496,official
 2011-06,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2011-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2011-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4384,7 +4384,7 @@
 2011-06,m20,Financial services and insurance,金融服務與保險,0.0,official
 2011-06,m21,Other services,其他服務,0.01,official
 2011-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2011-06,residual,Residual,差額,-0.020465757556165098,official
+2011-06,residual,Residual,差額,-0.020465757556165094,official
 2011-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2011-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2011-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4401,7 +4401,7 @@
 2011-07,m20,Financial services and insurance,金融服務與保險,0.01,official
 2011-07,m21,Other services,其他服務,0.01,official
 2011-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2011-07,residual,Residual,差額,-0.009776231159561583,official
+2011-07,residual,Residual,差額,-0.009776231159561555,official
 2011-08,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2011-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2011-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4452,7 +4452,7 @@
 2011-10,m20,Financial services and insurance,金融服務與保險,-0.05,official
 2011-10,m21,Other services,其他服務,0.01,official
 2011-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2011-10,residual,Residual,差額,0.0021430025608726345,official
+2011-10,residual,Residual,差額,0.002143002560872633,official
 2011-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2011-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2011-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -4469,7 +4469,7 @@
 2011-11,m20,Financial services and insurance,金融服務與保險,0.04,official
 2011-11,m21,Other services,其他服務,0.02,official
 2011-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2011-11,residual,Residual,差額,-0.005347641140486081,official
+2011-11,residual,Residual,差額,-0.0053476411404860535,official
 2011-12,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2011-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2011-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4486,7 +4486,7 @@
 2011-12,m20,Financial services and insurance,金融服務與保險,0.04,official
 2011-12,m21,Other services,其他服務,0.01,official
 2011-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.03,official
-2011-12,residual,Residual,差額,-0.002258340461931352,official
+2011-12,residual,Residual,差額,-0.0022583404619313657,official
 2012-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2012-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2012-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4520,7 +4520,7 @@
 2012-02,m20,Financial services and insurance,金融服務與保險,0.05,official
 2012-02,m21,Other services,其他服務,0.01,official
 2012-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2012-02,residual,Residual,差額,0.023656463671795275,official
+2012-02,residual,Residual,差額,0.023656463671795247,official
 2012-03,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2012-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2012-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4571,7 +4571,7 @@
 2012-05,m20,Financial services and insurance,金融服務與保險,0.01,official
 2012-05,m21,Other services,其他服務,0.02,official
 2012-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2012-05,residual,Residual,差額,0.007721379544114351,official
+2012-05,residual,Residual,差額,0.007721379544114337,official
 2012-06,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2012-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2012-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4588,7 +4588,7 @@
 2012-06,m20,Financial services and insurance,金融服務與保險,0.0,official
 2012-06,m21,Other services,其他服務,0.01,official
 2012-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2012-06,residual,Residual,差額,-0.010900299039258196,official
+2012-06,residual,Residual,差額,-0.010900299039258182,official
 2012-07,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2012-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2012-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4622,7 +4622,7 @@
 2012-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2012-08,m21,Other services,其他服務,0.0,official
 2012-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2012-08,residual,Residual,差額,0.006203970812842741,official
+2012-08,residual,Residual,差額,0.006203970812842796,official
 2012-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2012-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2012-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4639,7 +4639,7 @@
 2012-09,m20,Financial services and insurance,金融服務與保險,0.01,official
 2012-09,m21,Other services,其他服務,0.01,official
 2012-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2012-09,residual,Residual,差額,-0.015576343745040466,official
+2012-09,residual,Residual,差額,-0.01557634374504041,official
 2012-10,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2012-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2012-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4656,7 +4656,7 @@
 2012-10,m20,Financial services and insurance,金融服務與保險,0.07,official
 2012-10,m21,Other services,其他服務,0.02,official
 2012-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2012-10,residual,Residual,差額,0.006123001696657582,official
+2012-10,residual,Residual,差額,0.006123001696657637,official
 2012-11,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2012-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2012-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -4690,7 +4690,7 @@
 2012-12,m20,Financial services and insurance,金融服務與保險,0.01,official
 2012-12,m21,Other services,其他服務,0.01,official
 2012-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2012-12,residual,Residual,差額,0.014228621896975581,official
+2012-12,residual,Residual,差額,0.014228621896975577,official
 2013-01,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2013-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2013-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4724,7 +4724,7 @@
 2013-02,m20,Financial services and insurance,金融服務與保險,0.03,official
 2013-02,m21,Other services,其他服務,0.01,official
 2013-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2013-02,residual,Residual,差額,0.02581212280242351,official
+2013-02,residual,Residual,差額,0.025812122802423565,official
 2013-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2013-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2013-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -4741,7 +4741,7 @@
 2013-03,m20,Financial services and insurance,金融服務與保險,0.03,official
 2013-03,m21,Other services,其他服務,0.04,official
 2013-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2013-03,residual,Residual,差額,-0.03177986487334923,official
+2013-03,residual,Residual,差額,-0.03177986487334926,official
 2013-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2013-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2013-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -4758,7 +4758,7 @@
 2013-04,m20,Financial services and insurance,金融服務與保險,0.07,official
 2013-04,m21,Other services,其他服務,-0.01,official
 2013-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-2013-04,residual,Residual,差額,0.018416554959790193,official
+2013-04,residual,Residual,差額,0.01841655495979022,official
 2013-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2013-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2013-05,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -4792,7 +4792,7 @@
 2013-06,m20,Financial services and insurance,金融服務與保險,0.03,official
 2013-06,m21,Other services,其他服務,0.01,official
 2013-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2013-06,residual,Residual,差額,-0.017919778757806537,official
+2013-06,residual,Residual,差額,-0.01791977875780648,official
 2013-07,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2013-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2013-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4843,7 +4843,7 @@
 2013-09,m20,Financial services and insurance,金融服務與保險,0.02,official
 2013-09,m21,Other services,其他服務,0.01,official
 2013-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2013-09,residual,Residual,差額,-0.0062199011820640165,official
+2013-09,residual,Residual,差額,-0.00621990118206401,official
 2013-10,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2013-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2013-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4860,7 +4860,7 @@
 2013-10,m20,Financial services and insurance,金融服務與保險,0.07,official
 2013-10,m21,Other services,其他服務,0.03,official
 2013-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2013-10,residual,Residual,差額,0.002324747853629322,official
+2013-10,residual,Residual,差額,0.0023247478536293498,official
 2013-11,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2013-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2013-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -4894,7 +4894,7 @@
 2013-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 2013-12,m21,Other services,其他服務,0.0,official
 2013-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2013-12,residual,Residual,差額,-0.015447291315994066,official
+2013-12,residual,Residual,差額,-0.015447291315994038,official
 2014-01,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2014-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2014-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5013,7 +5013,7 @@
 2014-07,m20,Financial services and insurance,金融服務與保險,0.04,official
 2014-07,m21,Other services,其他服務,0.01,official
 2014-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2014-07,residual,Residual,差額,-0.0181020636895467,official
+2014-07,residual,Residual,差額,-0.01810206368954667,official
 2014-08,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2014-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2014-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5030,7 +5030,7 @@
 2014-08,m20,Financial services and insurance,金融服務與保險,0.0,official
 2014-08,m21,Other services,其他服務,0.01,official
 2014-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2014-08,residual,Residual,差額,0.017678532923984767,official
+2014-08,residual,Residual,差額,0.017678532923984778,official
 2014-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2014-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2014-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5098,7 +5098,7 @@
 2014-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 2014-12,m21,Other services,其他服務,0.01,official
 2014-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2014-12,residual,Residual,差額,0.0042386243331948015,official
+2014-12,residual,Residual,差額,0.004238624333194746,official
 2015-01,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2015-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2015-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -5183,7 +5183,7 @@
 2015-05,m20,Financial services and insurance,金融服務與保險,0.03,official
 2015-05,m21,Other services,其他服務,0.0,official
 2015-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2015-05,residual,Residual,差額,-0.010026366201826037,official
+2015-05,residual,Residual,差額,-0.010026366201826065,official
 2015-06,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2015-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2015-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5217,7 +5217,7 @@
 2015-07,m20,Financial services and insurance,金融服務與保險,0.02,official
 2015-07,m21,Other services,其他服務,0.0,official
 2015-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2015-07,residual,Residual,差額,0.0012670741211707331,official
+2015-07,residual,Residual,差額,0.001267074121170747,official
 2015-08,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2015-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2015-08,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -5234,7 +5234,7 @@
 2015-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2015-08,m21,Other services,其他服務,0.01,official
 2015-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2015-08,residual,Residual,差額,0.0071717637416091155,official
+2015-08,residual,Residual,差額,0.007171763741609107,official
 2015-09,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2015-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2015-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -5251,7 +5251,7 @@
 2015-09,m20,Financial services and insurance,金融服務與保險,-0.01,official
 2015-09,m21,Other services,其他服務,0.01,official
 2015-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2015-09,residual,Residual,差額,-0.00830266770478158,official
+2015-09,residual,Residual,差額,-0.008302667704781608,official
 2015-10,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2015-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2015-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5268,7 +5268,7 @@
 2015-10,m20,Financial services and insurance,金融服務與保險,-0.02,official
 2015-10,m21,Other services,其他服務,0.02,official
 2015-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2015-10,residual,Residual,差額,-0.010000000000000012,official
+2015-10,residual,Residual,差額,-0.009999999999999998,official
 2015-11,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2015-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2015-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -5302,7 +5302,7 @@
 2015-12,m20,Financial services and insurance,金融服務與保險,0.03,official
 2015-12,m21,Other services,其他服務,0.0,official
 2015-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2015-12,residual,Residual,差額,0.00593020156247509,official
+2015-12,residual,Residual,差額,0.0059302015624750765,official
 2016-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2016-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2016-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -5319,7 +5319,7 @@
 2016-01,m20,Financial services and insurance,金融服務與保險,0.06,official
 2016-01,m21,Other services,其他服務,0.0,official
 2016-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2016-01,residual,Residual,差額,0.011044163519932114,official
+2016-01,residual,Residual,差額,0.01104416351993212,official
 2016-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2016-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2016-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5421,7 +5421,7 @@
 2016-07,m20,Financial services and insurance,金融服務與保險,0.04,official
 2016-07,m21,Other services,其他服務,0.01,official
 2016-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2016-07,residual,Residual,差額,0.01728960081361916,official
+2016-07,residual,Residual,差額,0.017289600813619185,official
 2016-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2016-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2016-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5438,7 +5438,7 @@
 2016-08,m20,Financial services and insurance,金融服務與保險,0.03,official
 2016-08,m21,Other services,其他服務,0.01,official
 2016-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2016-08,residual,Residual,差額,-0.0006902442496613259,official
+2016-08,residual,Residual,差額,-0.0006902442496613537,official
 2016-09,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2016-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2016-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -5455,7 +5455,7 @@
 2016-09,m20,Financial services and insurance,金融服務與保險,0.01,official
 2016-09,m21,Other services,其他服務,0.02,official
 2016-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2016-09,residual,Residual,差額,-0.010111800485379324,official
+2016-09,residual,Residual,差額,-0.010111800485379352,official
 2016-10,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2016-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2016-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -5472,7 +5472,7 @@
 2016-10,m20,Financial services and insurance,金融服務與保險,0.03,official
 2016-10,m21,Other services,其他服務,-0.01,official
 2016-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2016-10,residual,Residual,差額,0.014731113048062267,official
+2016-10,residual,Residual,差額,0.014731113048062239,official
 2016-11,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2016-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2016-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -5489,7 +5489,7 @@
 2016-11,m20,Financial services and insurance,金融服務與保險,0.02,official
 2016-11,m21,Other services,其他服務,0.0,official
 2016-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2016-11,residual,Residual,差額,0.013377837116166393,official
+2016-11,residual,Residual,差額,0.013377837116166372,official
 2016-12,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2016-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2016-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5523,7 +5523,7 @@
 2017-01,m20,Financial services and insurance,金融服務與保險,0.05,official
 2017-01,m21,Other services,其他服務,0.02,official
 2017-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2017-01,residual,Residual,差額,0.0035633030856654924,official
+2017-01,residual,Residual,差額,0.003563303085665548,official
 2017-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2017-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2017-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5557,7 +5557,7 @@
 2017-03,m20,Financial services and insurance,金融服務與保險,0.02,official
 2017-03,m21,Other services,其他服務,-0.02,official
 2017-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2017-03,residual,Residual,差額,0.008787982246500861,official
+2017-03,residual,Residual,差額,0.008787982246500854,official
 2017-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2017-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2017-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5574,7 +5574,7 @@
 2017-04,m20,Financial services and insurance,金融服務與保險,0.07,official
 2017-04,m21,Other services,其他服務,-0.01,official
 2017-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2017-04,residual,Residual,差額,-0.01911237253227152,official
+2017-04,residual,Residual,差額,-0.01911237253227155,official
 2017-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2017-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2017-05,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -5591,7 +5591,7 @@
 2017-05,m20,Financial services and insurance,金融服務與保險,0.06,official
 2017-05,m21,Other services,其他服務,0.01,official
 2017-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2017-05,residual,Residual,差額,-0.0031185760842223353,official
+2017-05,residual,Residual,差額,-0.0031185760842223215,official
 2017-06,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2017-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2017-06,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -5608,7 +5608,7 @@
 2017-06,m20,Financial services and insurance,金融服務與保險,0.05,official
 2017-06,m21,Other services,其他服務,0.01,official
 2017-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2017-06,residual,Residual,差額,0.004267972151441646,official
+2017-06,residual,Residual,差額,0.00426797215144166,official
 2017-07,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2017-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2017-07,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -5625,7 +5625,7 @@
 2017-07,m20,Financial services and insurance,金融服務與保險,0.01,official
 2017-07,m21,Other services,其他服務,0.02,official
 2017-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2017-07,residual,Residual,差額,0.017086783072370902,official
+2017-07,residual,Residual,差額,0.0170867830723709,official
 2017-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2017-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2017-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -5642,7 +5642,7 @@
 2017-08,m20,Financial services and insurance,金融服務與保險,0.03,official
 2017-08,m21,Other services,其他服務,-0.04,official
 2017-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2017-08,residual,Residual,差額,-0.015557848962459514,official
+2017-08,residual,Residual,差額,-0.015557848962459486,official
 2017-09,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2017-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2017-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5676,7 +5676,7 @@
 2017-10,m20,Financial services and insurance,金融服務與保險,0.05,official
 2017-10,m21,Other services,其他服務,0.0,official
 2017-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.04,official
-2017-10,residual,Residual,差額,0.010478087649410495,official
+2017-10,residual,Residual,差額,0.01047808764941048,official
 2017-11,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2017-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2017-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -5710,7 +5710,7 @@
 2017-12,m20,Financial services and insurance,金融服務與保險,0.06,official
 2017-12,m21,Other services,其他服務,0.01,official
 2017-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2017-12,residual,Residual,差額,0.025021107524212508,official
+2017-12,residual,Residual,差額,0.025021107524212494,official
 2018-01,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2018-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2018-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.02,official
@@ -5744,7 +5744,7 @@
 2018-02,m20,Financial services and insurance,金融服務與保險,0.02,official
 2018-02,m21,Other services,其他服務,0.03,official
 2018-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2018-02,residual,Residual,差額,-0.005571003666051455,official
+2018-02,residual,Residual,差額,-0.005571003666051483,official
 2018-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2018-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2018-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5761,7 +5761,7 @@
 2018-03,m20,Financial services and insurance,金融服務與保險,0.06,official
 2018-03,m21,Other services,其他服務,-0.01,official
 2018-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2018-03,residual,Residual,差額,0.016492072256836326,official
+2018-03,residual,Residual,差額,0.016492072256836313,official
 2018-04,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2018-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 2018-04,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -5795,7 +5795,7 @@
 2018-05,m20,Financial services and insurance,金融服務與保險,0.02,official
 2018-05,m21,Other services,其他服務,-0.01,official
 2018-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2018-05,residual,Residual,差額,0.011963131104679892,official
+2018-05,residual,Residual,差額,0.011963131104679864,official
 2018-06,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2018-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2018-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5846,7 +5846,7 @@
 2018-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2018-08,m21,Other services,其他服務,-0.01,official
 2018-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2018-08,residual,Residual,差額,-0.020485524344758754,official
+2018-08,residual,Residual,差額,-0.02048552434475874,official
 2018-09,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2018-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2018-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5863,7 +5863,7 @@
 2018-09,m20,Financial services and insurance,金融服務與保險,0.04,official
 2018-09,m21,Other services,其他服務,0.03,official
 2018-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2018-09,residual,Residual,差額,-0.004536631183450324,official
+2018-09,residual,Residual,差額,-0.004536631183450296,official
 2018-10,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2018-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2018-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5880,7 +5880,7 @@
 2018-10,m20,Financial services and insurance,金融服務與保險,0.03,official
 2018-10,m21,Other services,其他服務,-0.01,official
 2018-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2018-10,residual,Residual,差額,-0.007178816223716161,official
+2018-10,residual,Residual,差額,-0.0071788162237161335,official
 2018-11,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2018-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2018-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5897,7 +5897,7 @@
 2018-11,m20,Financial services and insurance,金融服務與保險,0.0,official
 2018-11,m21,Other services,其他服務,0.0,official
 2018-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2018-11,residual,Residual,差額,0.004114722939704281,official
+2018-11,residual,Residual,差額,0.004114722939704295,official
 2018-12,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2018-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2018-12,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -5914,7 +5914,7 @@
 2018-12,m20,Financial services and insurance,金融服務與保險,0.04,official
 2018-12,m21,Other services,其他服務,0.03,official
 2018-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2018-12,residual,Residual,差額,-0.0008194485043488409,official
+2018-12,residual,Residual,差額,-0.000819448504348827,official
 2019-01,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 2019-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2019-01,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -5931,7 +5931,7 @@
 2019-01,m20,Financial services and insurance,金融服務與保險,-0.07,official
 2019-01,m21,Other services,其他服務,0.01,official
 2019-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2019-01,residual,Residual,差額,0.008393881266983677,official
+2019-01,residual,Residual,差額,0.00839388126698367,official
 2019-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2019-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2019-02,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -5982,7 +5982,7 @@
 2019-04,m20,Financial services and insurance,金融服務與保險,0.06,official
 2019-04,m21,Other services,其他服務,-0.02,official
 2019-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2019-04,residual,Residual,差額,0.0023351347155834423,official
+2019-04,residual,Residual,差額,0.002335134715583387,official
 2019-05,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2019-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2019-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -6016,7 +6016,7 @@
 2019-06,m20,Financial services and insurance,金融服務與保險,0.0,official
 2019-06,m21,Other services,其他服務,0.04,official
 2019-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2019-06,residual,Residual,差額,0.007372746169083164,official
+2019-06,residual,Residual,差額,0.007372746169083157,official
 2019-07,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2019-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2019-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.04,official
@@ -6084,7 +6084,7 @@
 2019-10,m20,Financial services and insurance,金融服務與保險,-0.03,official
 2019-10,m21,Other services,其他服務,0.02,official
 2019-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2019-10,residual,Residual,差額,-0.002621537986955247,official
+2019-10,residual,Residual,差額,-0.0026215379869552746,official
 2019-11,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2019-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2019-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -6152,7 +6152,7 @@
 2020-02,m20,Financial services and insurance,金融服務與保險,0.01,official
 2020-02,m21,Other services,其他服務,0.01,official
 2020-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2020-02,residual,Residual,差額,-0.020566561393431285,official
+2020-02,residual,Residual,差額,-0.0205665613934313,official
 2020-03,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2020-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2020-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -6169,7 +6169,7 @@
 2020-03,m20,Financial services and insurance,金融服務與保險,0.03,official
 2020-03,m21,Other services,其他服務,0.0,official
 2020-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2020-03,residual,Residual,差額,0.0012065255850054468,official
+2020-03,residual,Residual,差額,0.0012065255850055578,official
 2020-04,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2020-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2020-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.05,official
@@ -6186,7 +6186,7 @@
 2020-04,m20,Financial services and insurance,金融服務與保險,-0.18,official
 2020-04,m21,Other services,其他服務,0.02,official
 2020-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2020-04,residual,Residual,差額,-0.015264071505983079,official
+2020-04,residual,Residual,差額,-0.015264071505982968,official
 2020-05,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2020-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2020-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -6220,7 +6220,7 @@
 2020-06,m20,Financial services and insurance,金融服務與保險,0.05,official
 2020-06,m21,Other services,其他服務,-0.01,official
 2020-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2020-06,residual,Residual,差額,0.0055606011044698755,official
+2020-06,residual,Residual,差額,0.00556060110446982,official
 2020-07,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 2020-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2020-07,m6,Recreational goods and vehicles,休閒商品與交通工具,0.05,official
@@ -6237,7 +6237,7 @@
 2020-07,m20,Financial services and insurance,金融服務與保險,0.07,official
 2020-07,m21,Other services,其他服務,0.03,official
 2020-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2020-07,residual,Residual,差額,0.005386976119704734,official
+2020-07,residual,Residual,差額,0.005386976119704789,official
 2020-08,m4,Motor vehicles and parts,汽車與零組件,0.07,official
 2020-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.06,official
 2020-08,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -6254,7 +6254,7 @@
 2020-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2020-08,m21,Other services,其他服務,0.02,official
 2020-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2020-08,residual,Residual,差額,-0.030782573772681676,official
+2020-08,residual,Residual,差額,-0.03078257377268162,official
 2020-09,m4,Motor vehicles and parts,汽車與零組件,0.08,official
 2020-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2020-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.08,official
@@ -6288,7 +6288,7 @@
 2020-10,m20,Financial services and insurance,金融服務與保險,0.02,official
 2020-10,m21,Other services,其他服務,0.0,official
 2020-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2020-10,residual,Residual,差額,0.009475237252156765,official
+2020-10,residual,Residual,差額,0.009475237252156779,official
 2020-11,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2020-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2020-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.03,official
@@ -6339,7 +6339,7 @@
 2021-01,m20,Financial services and insurance,金融服務與保險,-0.07,official
 2021-01,m21,Other services,其他服務,0.02,official
 2021-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-2021-01,residual,Residual,差額,0.0062662844492481495,official
+2021-01,residual,Residual,差額,0.006266284449248094,official
 2021-02,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2021-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2021-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -6356,7 +6356,7 @@
 2021-02,m20,Financial services and insurance,金融服務與保險,0.08,official
 2021-02,m21,Other services,其他服務,0.01,official
 2021-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2021-02,residual,Residual,差額,-0.005500400697684149,official
+2021-02,residual,Residual,差額,-0.0055004006976840936,official
 2021-03,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2021-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2021-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -6407,7 +6407,7 @@
 2021-05,m20,Financial services and insurance,金融服務與保險,0.04,official
 2021-05,m21,Other services,其他服務,0.03,official
 2021-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2021-05,residual,Residual,差額,0.00976346545424156,official
+2021-05,residual,Residual,差額,0.009763465454241504,official
 2021-06,m4,Motor vehicles and parts,汽車與零組件,0.17,official
 2021-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2021-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -6424,7 +6424,7 @@
 2021-06,m20,Financial services and insurance,金融服務與保險,0.04,official
 2021-06,m21,Other services,其他服務,0.01,official
 2021-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-2021-06,residual,Residual,差額,0.014275509165447287,official
+2021-06,residual,Residual,差額,0.014275509165447176,official
 2021-07,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 2021-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2021-07,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -6458,7 +6458,7 @@
 2021-08,m20,Financial services and insurance,金融服務與保險,0.03,official
 2021-08,m21,Other services,其他服務,0.03,official
 2021-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.07,official
-2021-08,residual,Residual,差額,0.00032245653249801665,official
+2021-08,residual,Residual,差額,0.00032245653249807216,official
 2021-09,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 2021-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 2021-09,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.04,official
@@ -6492,7 +6492,7 @@
 2021-10,m20,Financial services and insurance,金融服務與保險,0.03,official
 2021-10,m21,Other services,其他服務,0.02,official
 2021-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-2021-10,residual,Residual,差額,0.0039596900352960596,official
+2021-10,residual,Residual,差額,0.003959690035296171,official
 2021-11,m4,Motor vehicles and parts,汽車與零組件,0.08,official
 2021-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2021-11,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -6509,7 +6509,7 @@
 2021-11,m20,Financial services and insurance,金融服務與保險,0.03,official
 2021-11,m21,Other services,其他服務,0.01,official
 2021-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2021-11,residual,Residual,差額,0.003956639566398579,official
+2021-11,residual,Residual,差額,0.00395663956639869,official
 2021-12,m4,Motor vehicles and parts,汽車與零組件,0.09,official
 2021-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 2021-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -6526,7 +6526,7 @@
 2021-12,m20,Financial services and insurance,金融服務與保險,0.04,official
 2021-12,m21,Other services,其他服務,0.04,official
 2021-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-2021-12,residual,Residual,差額,-0.004008166195544449,official
+2021-12,residual,Residual,差額,-0.004008166195544338,official
 2022-01,m4,Motor vehicles and parts,汽車與零組件,0.05,official
 2022-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.05,official
 2022-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.07,official
@@ -6560,7 +6560,7 @@
 2022-02,m20,Financial services and insurance,金融服務與保險,0.02,official
 2022-02,m21,Other services,其他服務,0.04,official
 2022-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2022-02,residual,Residual,差額,0.004139406095248543,official
+2022-02,residual,Residual,差額,0.0041394060952487655,official
 2022-03,m4,Motor vehicles and parts,汽車與零組件,-0.05,official
 2022-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.04,official
 2022-03,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -6577,7 +6577,7 @@
 2022-03,m20,Financial services and insurance,金融服務與保險,0.03,official
 2022-03,m21,Other services,其他服務,0.01,official
 2022-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2022-03,residual,Residual,差額,0.010581282526232583,official
+2022-03,residual,Residual,差額,0.010581282526232694,official
 2022-04,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2022-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 2022-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -6594,7 +6594,7 @@
 2022-04,m20,Financial services and insurance,金融服務與保險,0.02,official
 2022-04,m21,Other services,其他服務,0.02,official
 2022-04,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.06,official
-2022-04,residual,Residual,差額,-0.010155123443293695,official
+2022-04,residual,Residual,差額,-0.010155123443293723,official
 2022-05,m4,Motor vehicles and parts,汽車與零組件,0.04,official
 2022-05,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2022-05,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -6611,7 +6611,7 @@
 2022-05,m20,Financial services and insurance,金融服務與保險,0.04,official
 2022-05,m21,Other services,其他服務,0.0,official
 2022-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2022-05,residual,Residual,差額,0.021686662946418966,official
+2022-05,residual,Residual,差額,0.021686662946419077,official
 2022-06,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2022-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2022-06,m6,Recreational goods and vehicles,休閒商品與交通工具,0.02,official
@@ -6628,7 +6628,7 @@
 2022-06,m20,Financial services and insurance,金融服務與保險,0.03,official
 2022-06,m21,Other services,其他服務,0.04,official
 2022-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2022-06,residual,Residual,差額,-0.007270040987501947,official
+2022-06,residual,Residual,差額,-0.007270040987501725,official
 2022-07,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2022-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2022-07,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -6662,7 +6662,7 @@
 2022-08,m20,Financial services and insurance,金融服務與保險,0.03,official
 2022-08,m21,Other services,其他服務,0.02,official
 2022-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.05,official
-2022-08,residual,Residual,差額,-0.005109301328758198,official
+2022-08,residual,Residual,差額,-0.005109301328758226,official
 2022-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2022-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2022-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -6679,7 +6679,7 @@
 2022-09,m20,Financial services and insurance,金融服務與保險,0.02,official
 2022-09,m21,Other services,其他服務,0.04,official
 2022-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2022-09,residual,Residual,差額,0.0175632034483999,official
+2022-09,residual,Residual,差額,0.017563203448399956,official
 2022-10,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2022-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2022-10,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -6696,7 +6696,7 @@
 2022-10,m20,Financial services and insurance,金融服務與保險,0.03,official
 2022-10,m21,Other services,其他服務,0.03,official
 2022-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2022-10,residual,Residual,差額,-0.03278389183935382,official
+2022-10,residual,Residual,差額,-0.03278389183935371,official
 2022-11,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2022-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2022-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.04,official
@@ -6713,7 +6713,7 @@
 2022-11,m20,Financial services and insurance,金融服務與保險,0.03,official
 2022-11,m21,Other services,其他服務,0.05,official
 2022-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.06,official
-2022-11,residual,Residual,差額,0.010563688487057743,official
+2022-11,residual,Residual,差額,0.010563688487057687,official
 2022-12,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2022-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2022-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -6730,7 +6730,7 @@
 2022-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 2022-12,m21,Other services,其他服務,0.03,official
 2022-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2022-12,residual,Residual,差額,0.00772688439448567,official
+2022-12,residual,Residual,差額,0.007726884394485656,official
 2023-01,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2023-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2023-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -6747,7 +6747,7 @@
 2023-01,m20,Financial services and insurance,金融服務與保險,-0.02,official
 2023-01,m21,Other services,其他服務,0.04,official
 2023-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.06,official
-2023-01,residual,Residual,差額,0.01815361740952698,official
+2023-01,residual,Residual,差額,0.018153617409526868,official
 2023-02,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2023-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2023-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -6781,7 +6781,7 @@
 2023-03,m20,Financial services and insurance,金融服務與保險,0.05,official
 2023-03,m21,Other services,其他服務,0.01,official
 2023-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2023-03,residual,Residual,差額,0.010702217750387016,official
+2023-03,residual,Residual,差額,0.010702217750387044,official
 2023-04,m4,Motor vehicles and parts,汽車與零組件,0.05,official
 2023-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.02,official
 2023-04,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -6866,7 +6866,7 @@
 2023-08,m20,Financial services and insurance,金融服務與保險,0.01,official
 2023-08,m21,Other services,其他服務,0.03,official
 2023-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2023-08,residual,Residual,差額,0.019361289198895015,official
+2023-08,residual,Residual,差額,0.01936128919889507,official
 2023-09,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2023-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2023-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.05,official
@@ -6883,7 +6883,7 @@
 2023-09,m20,Financial services and insurance,金融服務與保險,0.04,official
 2023-09,m21,Other services,其他服務,0.01,official
 2023-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.07,official
-2023-09,residual,Residual,差額,-0.020485513956880086,official
+2023-09,residual,Residual,差額,-0.02048551395688014,official
 2023-10,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2023-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2023-10,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official
@@ -6900,7 +6900,7 @@
 2023-10,m20,Financial services and insurance,金融服務與保險,0.02,official
 2023-10,m21,Other services,其他服務,-0.01,official
 2023-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2023-10,residual,Residual,差額,-0.023149757419499317,official
+2023-10,residual,Residual,差額,-0.02314975741949929,official
 2023-11,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2023-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.04,official
 2023-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.03,official
@@ -6917,7 +6917,7 @@
 2023-11,m20,Financial services and insurance,金融服務與保險,0.03,official
 2023-11,m21,Other services,其他服務,0.01,official
 2023-11,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2023-11,residual,Residual,差額,0.02499008695508568,official
+2023-11,residual,Residual,差額,0.024990086955085672,official
 2023-12,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2023-12,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2023-12,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.05,official
@@ -6934,7 +6934,7 @@
 2023-12,m20,Financial services and insurance,金融服務與保險,0.05,official
 2023-12,m21,Other services,其他服務,0.02,official
 2023-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.02,official
-2023-12,residual,Residual,差額,0.021943503568024936,official
+2023-12,residual,Residual,差額,0.02194350356802495,official
 2024-01,m4,Motor vehicles and parts,汽車與零組件,-0.04,official
 2024-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2024-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.05,official
@@ -6968,7 +6968,7 @@
 2024-02,m20,Financial services and insurance,金融服務與保險,0.05,official
 2024-02,m21,Other services,其他服務,0.02,official
 2024-02,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2024-02,residual,Residual,差額,-0.006955795951106514,official
+2024-02,residual,Residual,差額,-0.006955795951106569,official
 2024-03,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2024-03,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2024-03,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -7019,7 +7019,7 @@
 2024-05,m20,Financial services and insurance,金融服務與保險,0.04,official
 2024-05,m21,Other services,其他服務,-0.01,official
 2024-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2024-05,residual,Residual,差額,0.004888189538403469,official
+2024-05,residual,Residual,差額,0.004888189538403483,official
 2024-06,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2024-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2024-06,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -7036,7 +7036,7 @@
 2024-06,m20,Financial services and insurance,金融服務與保險,0.04,official
 2024-06,m21,Other services,其他服務,0.04,official
 2024-06,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2024-06,residual,Residual,差額,-0.010572185881376664,official
+2024-06,residual,Residual,差額,-0.01057218588137665,official
 2024-07,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2024-07,m5,Furnishings and durable household equipment,家具與耐久家用設備,-0.01,official
 2024-07,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -7053,7 +7053,7 @@
 2024-07,m20,Financial services and insurance,金融服務與保險,0.05,official
 2024-07,m21,Other services,其他服務,-0.01,official
 2024-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2024-07,residual,Residual,差額,-0.010490996243036455,official
+2024-07,residual,Residual,差額,-0.010490996243036482,official
 2024-08,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2024-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2024-08,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -7087,7 +7087,7 @@
 2024-09,m20,Financial services and insurance,金融服務與保險,0.02,official
 2024-09,m21,Other services,其他服務,0.02,official
 2024-09,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2024-09,residual,Residual,差額,0.005826089062166612,official
+2024-09,residual,Residual,差額,0.005826089062166584,official
 2024-10,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2024-10,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2024-10,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.01,official
@@ -7138,7 +7138,7 @@
 2024-12,m20,Financial services and insurance,金融服務與保險,0.02,official
 2024-12,m21,Other services,其他服務,0.02,official
 2024-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2024-12,residual,Residual,差額,-0.014918422023642852,official
+2024-12,residual,Residual,差額,-0.014918422023642908,official
 2025-01,m4,Motor vehicles and parts,汽車與零組件,0.03,official
 2025-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2025-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.02,official
@@ -7155,7 +7155,7 @@
 2025-01,m20,Financial services and insurance,金融服務與保險,0.03,official
 2025-01,m21,Other services,其他服務,0.02,official
 2025-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.04,official
-2025-01,residual,Residual,差額,0.0012449593548127802,official
+2025-01,residual,Residual,差額,0.0012449593548128357,official
 2025-02,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2025-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2025-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.0,official
@@ -7223,7 +7223,7 @@
 2025-05,m20,Financial services and insurance,金融服務與保險,0.02,official
 2025-05,m21,Other services,其他服務,0.03,official
 2025-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2025-05,residual,Residual,差額,-0.005806773776772883,official
+2025-05,residual,Residual,差額,-0.005806773776772911,official
 2025-06,m4,Motor vehicles and parts,汽車與零組件,-0.01,official
 2025-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.03,official
 2025-06,m6,Recreational goods and vehicles,休閒商品與交通工具,0.03,official
@@ -7257,7 +7257,7 @@
 2025-07,m20,Financial services and insurance,金融服務與保險,0.04,official
 2025-07,m21,Other services,其他服務,0.0,official
 2025-07,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2025-07,residual,Residual,差額,0.008877929456326955,official
+2025-07,residual,Residual,差額,0.008877929456326927,official
 2025-08,m4,Motor vehicles and parts,汽車與零組件,0.02,official
 2025-08,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2025-08,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.05,official
@@ -7308,7 +7308,7 @@
 2025-10,m20,Financial services and insurance,金融服務與保險,0.03,official
 2025-10,m21,Other services,其他服務,0.02,official
 2025-10,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2025-10,residual,Residual,差額,-0.011882038542005813,official
+2025-10,residual,Residual,差額,-0.01188203854200584,official
 2025-11,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2025-11,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2025-11,m6,Recreational goods and vehicles,休閒商品與交通工具,-0.02,official
@@ -7342,7 +7342,7 @@
 2025-12,m20,Financial services and insurance,金融服務與保險,0.03,official
 2025-12,m21,Other services,其他服務,-0.03,official
 2025-12,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.0,official
-2025-12,residual,Residual,差額,0.010199929712239375,official
+2025-12,residual,Residual,差額,0.01019992971223932,official
 2026-01,m4,Motor vehicles and parts,汽車與零組件,-0.02,official
 2026-01,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.02,official
 2026-01,m6,Recreational goods and vehicles,休閒商品與交通工具,0.05,official
@@ -7359,7 +7359,7 @@
 2026-01,m20,Financial services and insurance,金融服務與保險,0.04,official
 2026-01,m21,Other services,其他服務,0.03,official
 2026-01,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.03,official
-2026-01,residual,Residual,差額,-0.0063917325133453495,official
+2026-01,residual,Residual,差額,-0.006391732513345294,official
 2026-02,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2026-02,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.01,official
 2026-02,m6,Recreational goods and vehicles,休閒商品與交通工具,0.03,official
@@ -7393,7 +7393,7 @@
 2026-03,m20,Financial services and insurance,金融服務與保險,0.03,official
 2026-03,m21,Other services,其他服務,0.0,official
 2026-03,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,-0.01,official
-2026-03,residual,Residual,差額,-0.001969093454404325,official
+2026-03,residual,Residual,差額,-0.001969093454404214,official
 2026-04,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2026-04,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2026-04,m6,Recreational goods and vehicles,休閒商品與交通工具,0.03,official
@@ -7427,7 +7427,7 @@
 2026-05,m20,Financial services and insurance,金融服務與保險,0.05,official
 2026-05,m21,Other services,其他服務,0.06,official
 2026-05,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.02,official
-2026-05,residual,Residual,差額,0.005441410554693271,official
+2026-05,residual,Residual,差額,0.005441410554693327,official
 2026-06,m4,Motor vehicles and parts,汽車與零組件,0.0,official
 2026-06,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2026-06,m6,Recreational goods and vehicles,休閒商品與交通工具,0.02,official
@@ -7478,7 +7478,7 @@
 2026-08,m20,Financial services and insurance,金融服務與保險,0.02,official
 2026-08,m21,Other services,其他服務,0.07,official
 2026-08,m22,Final consumption expenditures of nonprofit institutions serving households (NPISHs),服務家庭之非營利機構淨消費,0.01,official
-2026-08,residual,Residual,差額,0.013202756370655155,official
+2026-08,residual,Residual,差額,0.013202756370655211,official
 2026-09,m4,Motor vehicles and parts,汽車與零組件,0.01,official
 2026-09,m5,Furnishings and durable household equipment,家具與耐久家用設備,0.0,official
 2026-09,m6,Recreational goods and vehicles,休閒商品與交通工具,0.01,official

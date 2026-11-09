@@ -33,7 +33,7 @@
       "280"
     ],
     "official_monthly_observations": 10584,
-    "reconstructed_max_difference_pp": 0.032383231448370214,
+    "reconstructed_max_difference_pp": 0.03238323144837013,
     "frontier_min": 239,
     "frontier_max": 243,
     "quarterly_table_248": {
@@ -43,65 +43,65 @@
         {
           "id": "3",
           "official_line": 3,
-          "estimated_pp": 0.23264071003650183,
+          "estimated_pp": 0.23264071003650172,
           "official_pp": 0.23,
-          "difference_pp": 0.00264071003650182
+          "difference_pp": 0.002640710036501709
         },
         {
           "id": "4",
           "official_line": 4,
-          "estimated_pp": 0.06506538389920738,
+          "estimated_pp": 0.06506538389920737,
           "official_pp": 0.06,
-          "difference_pp": 0.005065383899207382
+          "difference_pp": 0.005065383899207368
         },
         {
           "id": "23",
           "official_line": 8,
-          "estimated_pp": -0.09084485559401438,
+          "estimated_pp": -0.09084485559401437,
           "official_pp": -0.09,
-          "difference_pp": -0.0008448555940143848
+          "difference_pp": -0.0008448555940143709
         },
         {
           "id": "38",
           "official_line": 13,
-          "estimated_pp": 0.297740391155493,
+          "estimated_pp": 0.2977403911554929,
           "official_pp": 0.3,
-          "difference_pp": -0.0022596088445069884
+          "difference_pp": -0.0022596088445070994
         },
         {
           "id": "62",
           "official_line": 19,
-          "estimated_pp": -0.0393202094241842,
+          "estimated_pp": -0.03932020942418419,
           "official_pp": -0.04,
-          "difference_pp": 0.0006797905758157974
+          "difference_pp": 0.0006797905758158113
         },
         {
           "id": "72",
           "official_line": 25,
-          "estimated_pp": -0.07683817398619083,
+          "estimated_pp": -0.07683817398619082,
           "official_pp": -0.07,
-          "difference_pp": -0.006838173986190826
+          "difference_pp": -0.0068381739861908125
         },
         {
           "id": "113",
           "official_line": 36,
-          "estimated_pp": -0.11518360307844519,
+          "estimated_pp": -0.11518360307844516,
           "official_pp": -0.11,
-          "difference_pp": -0.00518360307844519
+          "difference_pp": -0.005183603078445162
         },
         {
           "id": "151",
           "official_line": 48,
-          "estimated_pp": 1.931329870629839,
+          "estimated_pp": 1.9313298706298387,
           "official_pp": 1.93,
-          "difference_pp": 0.001329870629839025
+          "difference_pp": 0.001329870629838803
         },
         {
           "id": "342",
           "official_line": 111,
-          "estimated_pp": 0.0008989395934026173,
+          "estimated_pp": 0.0008989395934025613,
           "official_pp": 0.0,
-          "difference_pp": 0.0008989395934026173
+          "difference_pp": 0.0008989395934025613
         }
       ],
       "note": "Fisher reconstruction before official quarterly annual-consistency adjustments; residuals are retained."

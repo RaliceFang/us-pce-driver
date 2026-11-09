@@ -65,7 +65,7 @@
   "json": "完整 JSON",
   "pp": "百分點",
   "sa": "季調",
-  "chartHint": "點選色塊或表格名稱查看下一層；空白處可選取月份。最底層色塊只選取月份。滑鼠拖曳選取區塊可放大，按 Reset Zoom 還原。",
+  "chartHint": "點選色塊或表格名稱查看下一層。滑鼠拖曳選取區塊可放大，按 Reset Zoom 還原。",
   "weightedMethod": "已公布月度列採 BEA 官方值；細項以兩期 Fisher 重建，年增貢獻逐月鏈接。",
   "drillPath": "圖表階層",
   "allProducts": "全部產品",

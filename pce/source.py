@@ -48,11 +48,12 @@ def numeric(value):
     # BEA dots / blanks are unavailable, never zero.
     return float(value) if isinstance(value, (int, float)) else None
 
-def read_table(workbook, sheet_name):
+def read_table(workbook, sheet_name, frequency="M"):
     rows = list(workbook[sheet_name].values)
     header = next(r for r in rows if str(r[0]).strip() == "Line")
-    periods = {i: str(v)[:4] + "-" + str(v)[5:] for i, v in enumerate(header)
-               if re.fullmatch(r"\d{4}M\d{2}", str(v))}
+    pattern = {"M": r"\d{4}M\d{2}", "Q": r"\d{4}Q[1-4]", "A": r"\d{4}"}[frequency]
+    periods = {i: (str(v)[:4]+"-"+str(v)[5:] if frequency=="M" else str(v))
+               for i,v in enumerate(header) if re.fullmatch(pattern,str(v))}
     if not periods:
         raise ValueError(f"Monthly header not found: {sheet_name}")
     table = {}
@@ -64,7 +65,7 @@ def read_table(workbook, sheet_name):
             raise ValueError(f"Duplicate line {line} in {sheet_name}")
         raw = str(row[1])
         name = re.sub(r"\\\d+\\", "", raw.strip())
-        name = re.sub(r"\s*\([^)]*\)\s*$", "", name)
+        name = re.sub(r"\s*\(\d+\)\s*$", "", name)
         table[line] = {"name": name, "indent": len(raw)-len(raw.lstrip()),
                        "code": str(row[2]),
                        "values": {m: numeric(row[i]) for i, m in periods.items()}}

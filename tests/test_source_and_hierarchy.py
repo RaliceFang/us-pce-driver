@@ -1,5 +1,5 @@
 import unittest
-from pce.catalog import hierarchy
+from pce.catalog import hierarchy, full_hierarchy
 from pce.source import numeric, read_table
 
 class FakeSheet:
@@ -13,10 +13,11 @@ class SourceTests(unittest.TestCase):
     def test_month_headers_and_duplicate_series_codes(self):
         rows=[('Table',),('Units',),('Range',),('BEA',),('Published',),
               ('Line',None,None,'2025M12','2026M01','2026Q1'),
-              ('1','Root','REPEATED',100,101,999),('2','Goods','REPEATED',100,'.....',999)]
+              ('1','Root (NPISHs) (132)','REPEATED',100,101,999),('2','Goods','REPEATED',100,'.....',999)]
         d=read_table({'S':FakeSheet(rows)},'S')
         self.assertEqual(d['months'],['2025-12','2026-01'])
         self.assertEqual(len(d['rows']),2)
+        self.assertEqual(d['rows'][1]['name'],'Root (NPISHs)')
         self.assertIsNone(d['rows'][2]['values']['2026-01'])
 
     def test_duplicate_line_rejected(self):
@@ -41,6 +42,17 @@ class HierarchyTests(unittest.TestCase):
         self.assertEqual(nodes[356]['sign'],-1)
         self.assertNotIn(342,leaves)
         self.assertEqual(sum(nodes[i]['sign']*spending['rows'][i]['values']['2026-01'] for i in leaves),100)
+
+    def test_full_tree_retains_missing_prices_and_signed_children(self):
+        prices,spending=self.fixture()
+        prices['rows'][343]['values']['2026-01']=None
+        prices['rows'][357]=dict(name='Health receipts',indent=6,code='SAME',values={'2026-01':100})
+        nodes={n['line']:n for n in full_hierarchy(prices)}
+        self.assertIn(343,nodes)
+        self.assertEqual(nodes[357]['parent'],'356')
+        self.assertEqual(nodes[357]['sign'],-1)
+        self.assertEqual(nodes[151]['zh'],'家庭服務')
+        self.assertEqual(nodes[342]['zh'],'非營利機構服務')
 
     def test_bad_children_hold_valid_parent(self):
         prices,spending=self.fixture();spending['rows'][343]['values']['2026-01']=99

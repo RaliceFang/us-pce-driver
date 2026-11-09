@@ -3,7 +3,7 @@ import { locales, type Locale, TranslationProvider } from '../i18n'
 import { AppHeader } from '../components/app-header'
 export const Route = createFileRoute('/$locale')({
   beforeLoad: ({ params }) => {
-    if (!locales.includes(params.locale as Locale)) throw redirect({ to: '/$locale', search:{tf:'yoy',bk:'basic4',range:'60'}, params: { locale: 'zh-tw' } })
+    if (!locales.includes(params.locale as Locale)) throw redirect({ to: '/$locale', search:{tf:'mom',basis:'parent',bk:'basic4',range:'60'}, params: { locale: 'zh-tw' } })
   },
   component: Layout,
 })

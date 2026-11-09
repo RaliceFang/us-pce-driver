@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""BEA official monthly contributions + linked YoY + detailed Fisher estimates."""
+"""BEA official monthly contributions with detailed two-period Fisher reconstruction."""
 from __future__ import annotations
 import argparse
 import csv
@@ -9,8 +9,9 @@ from datetime import datetime, timezone
 import openpyxl
 
 from pce.source import ROOT, URLS, download, fingerprint, read_table
-from pce.math import rate, linked_yoy, fisher_contributions
-from pce.catalog import GROUPS, MAJOR_LINES, MAJOR_DETAIL, ZH, hierarchy
+from pce.math import rate, linked_yoy
+from pce.chain import build_chain, reconstruct, OFFICIAL_LINES
+from pce.catalog import GROUPS, MAJOR_LINES, MAJOR_DETAIL, ZH, full_hierarchy
 
 def strict_sum(values):
     return None if any(v is None for v in values) else sum(values)
@@ -28,6 +29,9 @@ def build(start='1990-01', offline=False, max_level=4):
         official = read_table(books['nipa'],'T20808-M')
         main_prices = read_table(books['nipa'],'T20804-M')
         main_spending = read_table(books['nipa'],'T20805-M')
+        quarter_prices=read_table(books['underlying'],'U20404-Q','Q')
+        quarter_spending=read_table(books['underlying'],'U20405-Q','Q')
+        quarter_official=read_table(books['nipa'],'T20408-Q','Q')
     finally:
         for book in books.values(): book.close()
     tables = [prices,spending,official,main_prices,main_spending]
@@ -81,60 +85,50 @@ def build(start='1990-01', offline=False, max_level=4):
                 ('other_core_services','Core services excluding housing','核心服務（不含住宅）','#8eb68b',{13:1,27:-1,11:1,29:-1})]
     six = [make(*d[:4],terms(d[4])) for d in six_defs]
 
-    items, leaves = hierarchy(prices,spending,history,max_level)
-    item_map = {int(i['id']):i for i in items}
-    signed = {line:item_map[line]['sign'] for line in leaves}
-    group_lines = {'food':73,'energy':371,'core_goods':375,'core_services':376}
-    for group,official_line in group_lines.items():
-        grouped = [j for j in leaves if item_map[j]['group']==group]
-        for m in history:
-            actual = sum(signed[j]*ex[j]['values'][m] for j in grouped)
-            expected = ex[official_line]['values'][m]
-            if abs(actual-expected)>2+.6*len(grouped):
-                raise ValueError(f'Food / energy / core classification does not reconcile: {group}, {m}')
-    micro = {line:{} for line in leaves}
-    reconstruction, coverage = [], []
-    for i,m in enumerate(calc_months):
-        previous = history[history.index(m)-1]
-        sums = [sum(signed[j]*ex[j]['values'][k] for j in leaves) for k in [previous,m]]
-        for k,total in zip([previous,m],sums):
-            if abs(total-ex[1]['values'][k]) > 2+0.6*len(leaves):
-                raise ValueError(f'Incomplete nominal partition: {k}')
-        coverage.append(100*sums[1]/ex[1]['values'][m])
-        cs, reconstructed = fisher_contributions(
-            [pr[j]['values'][previous] for j in leaves],[pr[j]['values'][m] for j in leaves],
-            [signed[j]*ex[j]['values'][previous] for j in leaves],
-            [signed[j]*ex[j]['values'][m] for j in leaves])
-        reconstruction.append(reconstructed)
-        for j,c in zip(leaves,cs): micro[j][m]=c
-    leaf_components = [make(str(j),item_map[j]['en'],item_map[j]['zh'],
-                            next(g['color'] for g in GROUPS if g['id']==item_map[j]['group']),micro[j]) for j in leaves]
+    items = full_hierarchy(prices)
+    leaves = [int(n['id']) for n in items if n['leaf']]
+    series = {}
+    for node in items:
+        line = int(node['id'])
+        weights, gm, gy = [], [], []
+        for m in months:
+            k = all_months.index(m)
+            value, total = ex[line]['values'].get(m), ex[1]['values'].get(m)
+            weights.append(None if value is None or not total else 100*node['sign']*value/total)
+            gm.append(rate(pr[line]['values'].get(m), pr[line]['values'].get(all_months[k-1])))
+            gy.append(rate(pr[line]['values'].get(m), pr[line]['values'].get(all_months[k-12])))
+        series[node['id']] = dict(weight=weights, gm=gm, gy=gy,
+            mom=[None if w is None or g is None else g*w/100 for w,g in zip(weights,gm)],
+            yoy=[None if w is None or g is None else g*w/100 for w,g in zip(weights,gy)])
+    chain,chain_diagnostics=build_chain(items,pr,ex,off,history,months,index)
+    for id,values in chain.items():series[id].update(values)
+    quarter_months=quarter_prices['months'][-2:]
+    q_estimates,_=reconstruct(full_hierarchy(quarter_prices),quarter_prices['rows'],quarter_spending['rows'],quarter_months)
+    q_ratio=quarter_prices['rows'][1]['values'][quarter_months[-1]]/quarter_prices['rows'][1]['values'][quarter_months[-2]]
+    annualization_factor=sum(q_ratio**k for k in range(4))
+    quarter_benchmark=[]
+    for official_line,id in {3:3,4:4,8:23,13:38,19:62,25:72,36:113,48:151,111:342}.items():
+        estimated=q_estimates[str(id)][-1]*annualization_factor
+        official_value=quarter_official['rows'][official_line]['values'][quarter_months[-1]]
+        quarter_benchmark.append(dict(id=str(id),official_line=official_line,estimated_pp=estimated,official_pp=official_value,difference_pp=estimated-official_value))
+    chain_diagnostics['quarterly_table_248']=dict(period=quarter_months[-1],annualization_factor=annualization_factor,rows=quarter_benchmark,
+        note='Fisher reconstruction before official quarterly annual-consistency adjustments; residuals are retained.')
+    chain_inputs=dict(months=history,price={n['id']:[pr[int(n['id'])]['values'].get(m) for m in history] for n in items},
+                      spending={n['id']:[n['sign']*ex[int(n['id'])]['values'][m] if ex[int(n['id'])]['values'].get(m) is not None else None for m in history] for n in items})
+    # Retain legacy official downloads for compatibility; the interactive dashboard
+    # exclusively uses the complete product tree and direct weighted rates.
+    leaf_components = [dict(id=n['id'],en=n['en'],zh=n['zh'],color=palette[i%len(palette)],
+        **{tf:[None]*12+series[n['id']][tf] for tf in ('mom','yoy')})
+        for i,n in enumerate(items) if n['leaf']]
     breakdowns = {
         'basic4':dict(en='4 components',zh='四大類',method='official',components=basic),
         'detail6':dict(en='6 components',zh='六細項',method='official',components=six),
         'major16':dict(en='16 major products',zh='16 主要細項',method='official',components=major),
-        'granular':dict(en=f'{len(leaves)} detailed products',zh=f'{len(leaves)} 產品細項',method='fisher_estimate',components=leaf_components),
+        'granular':dict(en='All BEA products',zh='完整 BEA 產品細項',method='bea_official_and_fisher',components=leaf_components),
     }
     for bk in breakdowns.values():
         bk['residual']={tf:[None if headline[tf][i] is None or (s:=strict_sum([c[tf][i] for c in bk['components']])) is None
                            else headline[tf][i]-s for i in range(len(calc_months))] for tf in ['mom','yoy']}
-    series={}
-    for node in items:
-        line=int(node['id'])
-        descendants=[]
-        for leaf in leaves:
-            cursor=leaf
-            while cursor:
-                if cursor==line: descendants.append(leaf); break
-                parent=item_map[cursor]['parent']; cursor=int(parent) if parent else None
-        monthly={m:sum(micro[j][m] for j in descendants) for m in calc_months}
-        cy=linked_yoy(calc_months,monthly,index)
-        series[str(line)]={
-            'mom':[monthly[m] for m in months], 'yoy':cy[12:],
-            'weight':[100*sum(signed[j]*ex[j]['values'][m] for j in descendants)/ex[1]['values'][m] for m in months],
-            'gm':[rate(pr[line]['values'].get(m),pr[line]['values'].get(all_months[all_months.index(m)-1])) for m in months],
-            'gy':[rate(pr[line]['values'].get(m),pr[line]['values'].get(all_months[all_months.index(m)-12])) for m in months],
-        }
     # Trim twelve warm-up months consistently after chaining.
     headline={k:v[12:] for k,v in headline.items()}
     for bk in breakdowns.values():
@@ -144,18 +138,16 @@ def build(start='1990-01', offline=False, max_level=4):
     gaps=[b for a,b in zip(all_months,all_months[1:]) if (int(b[:4])*12+int(b[5:]))-(int(a[:4])*12+int(a[5:]))!=1]
     if gaps: raise ValueError(f'Missing calendar months: {gaps}')
     diagnostics=dict(benchmark_observations=benchmark_count,
-        price_spending_main_table_match=True,group_spending_match=True,leaf_count=len(leaves),
-        coverage_min_pct=min(coverage),coverage_max_pct=max(coverage),
-        max_fisher_residual_mom_pp=max(abs(v) for v in breakdowns['granular']['residual']['mom']),
-        max_official_residual_mom_pp=max(abs(v) for v in breakdowns['major16']['residual']['mom']),
-        max_official_residual_yoy_pp=max(abs(v) for v in breakdowns['major16']['residual']['yoy']),
-        max_leaf_vs_official_major_mom_pp=max(abs(series[str(MAJOR_DETAIL[line])]['mom'][i]-major[j]['mom'][i])
-            for j,line in enumerate(MAJOR_LINES) for i in range(len(months))))
+        price_spending_main_table_match=True, leaf_count=len(leaves), product_row_count=len(items),
+        method='bea_official_and_fisher', weight_period='adjacent_months', chain=chain_diagnostics,
+        top_level_ids=['3','72','151','342'],
+        unavailable_price_rows_latest=[n['id'] for n in items if series[n['id']]['mom'][-1] is None])
     data=dict(meta=dict(latest=months[-1],months=months,published=prices['published'],
         generated_utc=datetime.now(timezone.utc).isoformat(),seasonal_adjustment='SA for both MoM and YoY',
-        index_base='2017=100',expenditure_units='Millions of dollars, SAAR',max_level=max_level,
+        index_base='2017=100',expenditure_units='Millions of dollars, SAAR',max_level=None,
+        method='bea_official_and_fisher',weight_period='adjacent_months',top_level_ids=['3','72','151','342'],
         groups=GROUPS,sources=[dict(kind=k,url=URLS[k],sha256=fingerprint(paths[k])) for k in URLS],
-        diagnostics=diagnostics),headline=headline,breakdowns=breakdowns,items=items,series=series)
+        diagnostics=diagnostics),headline=headline,breakdowns=breakdowns,items=items,series=series,chain_inputs=chain_inputs)
     return data
 
 def write(data):
@@ -177,11 +169,10 @@ def write(data):
                              'own_price_change_pct','contribution_pp','method','leaf'])
             for i,m in enumerate(data['meta']['months']):
                 for node in data['items']:
-                    if not node['leaf']: continue
                     s=data['series'][node['id']]
                     writer.writerow([m,node['id'],node['en'],node['zh'],s['weight'][i],
                                      s['gm' if tf=='mom' else 'gy'][i],s[tf][i],
-                                     'fisher_estimate',True])
+                                     ('official_monthly' if tf=='mom' else 'linked_official_monthly') if int(node['id']) in OFFICIAL_LINES.values() else ('fisher_reconstruction' if tf=='mom' else 'linked_fisher_reconstruction'),node['leaf']])
     (output/'validation.json').write_text(json.dumps(data['meta']['diagnostics'],indent=2),encoding='utf-8')
     html=(ROOT/'web'/'index.html')
     if html.exists():
@@ -193,7 +184,7 @@ def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--start',default='1990-01')
     parser.add_argument('--offline',action='store_true',help='Use the explicitly cached vintage')
-    parser.add_argument('--max-level',type=int,default=4,choices=range(3,7))
+    parser.add_argument('--max-level',type=int,default=4,help='Legacy option; full product hierarchy is always retained')
     args=parser.parse_args()
     data=build(args.start,args.offline,args.max_level)
     write(data)

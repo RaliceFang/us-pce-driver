@@ -11,19 +11,19 @@
 1990-02,energy_services,Energy services,能源服務,0.020000000000000004,official
 1990-02,core_goods,Core goods,核心商品,0.22,official
 1990-02,housing,Housing,住宅,0.01,official
-1990-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17,official
+1990-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16999999999999998,official
 1990-02,residual,Residual,差額,0.0006264410021787348,official
 1990-03,food,Food,食物,0.0,official
 1990-03,energy_goods,Energy goods,能源商品,-0.03,official
 1990-03,energy_services,Energy services,能源服務,0.0,official
 1990-03,core_goods,Core goods,核心商品,0.07,official
 1990-03,housing,Housing,住宅,0.12,official
-1990-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.22000000000000003,official
+1990-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.21999999999999997,official
 1990-03,residual,Residual,差額,-0.002519596674097291,official
 1990-04,food,Food,食物,-0.04,official
 1990-04,energy_goods,Energy goods,能源商品,0.01,official
 1990-04,energy_services,Energy services,能源服務,-0.01,official
-1990-04,core_goods,Core goods,核心商品,0.02,official
+1990-04,core_goods,Core goods,核心商品,0.019999999999999997,official
 1990-04,housing,Housing,住宅,0.05,official
 1990-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18,official
 1990-04,residual,Residual,差額,5.200481085673725e-05,official
@@ -39,36 +39,36 @@
 1990-06,energy_services,Energy services,能源服務,0.009999999999999998,official
 1990-06,core_goods,Core goods,核心商品,0.020000000000000007,official
 1990-06,housing,Housing,住宅,0.12,official
-1990-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18,official
-1990-06,residual,Residual,差額,0.0018957665710987448,official
+1990-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18000000000000005,official
+1990-06,residual,Residual,差額,0.0018957665710986893,official
 1990-07,food,Food,食物,0.05,official
 1990-07,energy_goods,Energy goods,能源商品,0.01,official
 1990-07,energy_services,Energy services,能源服務,-0.02,official
 1990-07,core_goods,Core goods,核心商品,0.05999999999999999,official
 1990-07,housing,Housing,住宅,0.07,official
-1990-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
+1990-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08000000000000002,official
 1990-07,residual,Residual,差額,-0.0031569048898392182,official
 1990-08,food,Food,食物,0.04,official
 1990-08,energy_goods,Energy goods,能源商品,0.27,official
 1990-08,energy_services,Energy services,能源服務,0.010000000000000009,official
-1990-08,core_goods,Core goods,核心商品,0.009999999999999988,official
+1990-08,core_goods,Core goods,核心商品,0.010000000000000009,official
 1990-08,housing,Housing,住宅,0.09,official
 1990-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.24000000000000002,official
 1990-08,residual,Residual,差額,0.005002763865385451,official
 1990-09,food,Food,食物,0.03,official
 1990-09,energy_goods,Energy goods,能源商品,0.29,official
 1990-09,energy_services,Energy services,能源服務,0.010000000000000009,official
-1990-09,core_goods,Core goods,核心商品,0.07000000000000003,official
+1990-09,core_goods,Core goods,核心商品,0.07,official
 1990-09,housing,Housing,住宅,0.02,official
 1990-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
 1990-09,residual,Residual,差額,0.004017571884994964,official
 1990-10,food,Food,食物,0.04,official
 1990-10,energy_goods,Energy goods,能源商品,0.25,official
 1990-10,energy_services,Energy services,能源服務,0.0,official
-1990-10,core_goods,Core goods,核心商品,0.040000000000000015,official
+1990-10,core_goods,Core goods,核心商品,0.040000000000000036,official
 1990-10,housing,Housing,住宅,0.03,official
 1990-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.21,official
-1990-10,residual,Residual,差額,0.0022318696766758794,official
+1990-10,residual,Residual,差額,0.0022318696766759905,official
 1990-11,food,Food,食物,0.01,official
 1990-11,energy_goods,Energy goods,能源商品,-0.01,official
 1990-11,energy_services,Energy services,能源服務,0.03,official
@@ -82,7 +82,7 @@
 1990-12,core_goods,Core goods,核心商品,0.04,official
 1990-12,housing,Housing,住宅,0.04,official
 1990-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.030000000000000006,official
-1990-12,residual,Residual,差額,0.0036145053212600226,official
+1990-12,residual,Residual,差額,0.0036145053212600364,official
 1991-01,food,Food,食物,0.12,official
 1991-01,energy_goods,Energy goods,能源商品,-0.21,official
 1991-01,energy_services,Energy services,能源服務,0.06,official
@@ -93,24 +93,24 @@
 1991-02,food,Food,食物,0.05,official
 1991-02,energy_goods,Energy goods,能源商品,-0.24,official
 1991-02,energy_services,Energy services,能源服務,0.009999999999999981,official
-1991-02,core_goods,Core goods,核心商品,0.09999999999999999,official
+1991-02,core_goods,Core goods,核心商品,0.09999999999999998,official
 1991-02,housing,Housing,住宅,0.03,official
-1991-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10000000000000003,official
-1991-02,residual,Residual,差額,0.0006726384098543481,official
+1991-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
+1991-02,residual,Residual,差額,0.0006726384098544036,official
 1991-03,food,Food,食物,0.0,official
 1991-03,energy_goods,Energy goods,能源商品,-0.15,official
 1991-03,energy_services,Energy services,能源服務,-0.010000000000000009,official
 1991-03,core_goods,Core goods,核心商品,0.039999999999999994,official
 1991-03,housing,Housing,住宅,0.02,official
-1991-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
-1991-03,residual,Residual,差額,0.0012390537184692359,official
+1991-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000004,official
+1991-03,residual,Residual,差額,0.0012390537184692046,official
 1991-04,food,Food,食物,0.05,official
 1991-04,energy_goods,Energy goods,能源商品,-0.02,official
 1991-04,energy_services,Energy services,能源服務,-0.02,official
 1991-04,core_goods,Core goods,核心商品,0.08,official
 1991-04,housing,Housing,住宅,0.03,official
 1991-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06000000000000001,official
-1991-04,residual,Residual,差額,0.0013103346890887269,official
+1991-04,residual,Residual,差額,0.0013103346890887546,official
 1991-05,food,Food,食物,0.03,official
 1991-05,energy_goods,Energy goods,能源商品,0.04,official
 1991-05,energy_services,Energy services,能源服務,0.010000000000000002,official
@@ -159,27 +159,27 @@
 1991-11,core_goods,Core goods,核心商品,0.07,official
 1991-11,housing,Housing,住宅,0.05,official
 1991-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
-1991-11,residual,Residual,差額,4.4972695143669084e-05,official
+1991-11,residual,Residual,差額,4.497269514369684e-05,official
 1991-12,food,Food,食物,0.0,official
 1991-12,energy_goods,Energy goods,能源商品,0.02,official
 1991-12,energy_services,Energy services,能源服務,0.02,official
 1991-12,core_goods,Core goods,核心商品,-0.02,official
 1991-12,housing,Housing,住宅,0.07,official
-1991-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
+1991-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
 1991-12,residual,Residual,差額,1.2019808631968942e-05,official
 1992-01,food,Food,食物,-0.01,official
 1992-01,energy_goods,Energy goods,能源商品,-0.08,official
 1992-01,energy_services,Energy services,能源服務,-0.009999999999999995,official
 1992-01,core_goods,Core goods,核心商品,0.04,official
 1992-01,housing,Housing,住宅,0.03,official
-1992-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16999999999999998,official
-1992-01,residual,Residual,差額,-0.004115230284711252,official
+1992-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17,official
+1992-01,residual,Residual,差額,-0.00411523028471128,official
 1992-02,food,Food,食物,0.04,official
 1992-02,energy_goods,Energy goods,能源商品,-0.01,official
 1992-02,energy_services,Energy services,能源服務,-0.01,official
 1992-02,core_goods,Core goods,核心商品,0.03,official
 1992-02,housing,Housing,住宅,0.04,official
-1992-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17,official
+1992-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16999999999999998,official
 1992-02,residual,Residual,差額,-0.0061604776653132465,official
 1992-03,food,Food,食物,0.03,official
 1992-03,energy_goods,Energy goods,能源商品,0.01,official
@@ -191,10 +191,10 @@
 1992-04,food,Food,食物,-0.02,official
 1992-04,energy_goods,Energy goods,能源商品,-0.01,official
 1992-04,energy_services,Energy services,能源服務,0.02,official
-1992-04,core_goods,Core goods,核心商品,0.06,official
+1992-04,core_goods,Core goods,核心商品,0.060000000000000005,official
 1992-04,housing,Housing,住宅,0.03,official
-1992-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
-1992-04,residual,Residual,差額,5.988975201676183e-05,official
+1992-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18999999999999997,official
+1992-04,residual,Residual,差額,5.9889752016817344e-05,official
 1992-05,food,Food,食物,-0.02,official
 1992-05,energy_goods,Energy goods,能源商品,0.03,official
 1992-05,energy_services,Energy services,能源服務,0.0,official
@@ -212,7 +212,7 @@
 1992-07,food,Food,食物,-0.01,official
 1992-07,energy_goods,Energy goods,能源商品,0.02,official
 1992-07,energy_services,Energy services,能源服務,0.0,official
-1992-07,core_goods,Core goods,核心商品,0.060000000000000005,official
+1992-07,core_goods,Core goods,核心商品,0.06,official
 1992-07,housing,Housing,住宅,0.03,official
 1992-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.23,official
 1992-07,residual,Residual,差額,9.555397616184402e-05,official
@@ -221,7 +221,7 @@
 1992-08,energy_services,Energy services,能源服務,0.01,official
 1992-08,core_goods,Core goods,核心商品,0.009999999999999992,official
 1992-08,housing,Housing,住宅,0.03,official
-1992-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
+1992-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
 1992-08,residual,Residual,差額,-0.00619230527045142,official
 1992-09,food,Food,食物,0.02,official
 1992-09,energy_goods,Energy goods,能源商品,-0.01,official
@@ -235,8 +235,8 @@
 1992-10,energy_services,Energy services,能源服務,0.010000000000000002,official
 1992-10,core_goods,Core goods,核心商品,0.020000000000000004,official
 1992-10,housing,Housing,住宅,0.05,official
-1992-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.25,official
-1992-10,residual,Residual,差額,0.0031461397203061403,official
+1992-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.25000000000000006,official
+1992-10,residual,Residual,差額,0.003146139720306085,official
 1992-11,food,Food,食物,-0.03,official
 1992-11,energy_goods,Energy goods,能源商品,0.01,official
 1992-11,energy_services,Energy services,能源服務,0.03,official
@@ -270,35 +270,35 @@
 1993-03,energy_services,Energy services,能源服務,0.04,official
 1993-03,core_goods,Core goods,核心商品,-0.009999999999999998,official
 1993-03,housing,Housing,住宅,0.04,official
-1993-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
-1993-03,residual,Residual,差額,-0.005123314035594184,official
+1993-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
+1993-03,residual,Residual,差額,-0.00512331403559424,official
 1993-04,food,Food,食物,0.02,official
 1993-04,energy_goods,Energy goods,能源商品,-0.01,official
 1993-04,energy_services,Energy services,能源服務,0.01,official
 1993-04,core_goods,Core goods,核心商品,0.049999999999999996,official
 1993-04,housing,Housing,住宅,0.04,official
-1993-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000002,official
+1993-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
 1993-04,residual,Residual,差額,0.006414708570184002,official
 1993-05,food,Food,食物,0.07,official
 1993-05,energy_goods,Energy goods,能源商品,-0.06,official
 1993-05,energy_services,Energy services,能源服務,0.009999999999999995,official
-1993-05,core_goods,Core goods,核心商品,-0.02000000000000001,official
+1993-05,core_goods,Core goods,核心商品,-0.020000000000000004,official
 1993-05,housing,Housing,住宅,0.04,official
 1993-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.27,official
 1993-05,residual,Residual,差額,-0.0010385738340565331,official
 1993-06,food,Food,食物,-0.02,official
 1993-06,energy_goods,Energy goods,能源商品,-0.04,official
 1993-06,energy_services,Energy services,能源服務,0.010000000000000002,official
-1993-06,core_goods,Core goods,核心商品,-0.010000000000000005,official
+1993-06,core_goods,Core goods,核心商品,-0.010000000000000002,official
 1993-06,housing,Housing,住宅,0.02,official
-1993-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-1993-06,residual,Residual,差額,0.0038810774182407547,official
+1993-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999999,official
+1993-06,residual,Residual,差額,0.003881077418240758,official
 1993-07,food,Food,食物,0.0,official
 1993-07,energy_goods,Energy goods,能源商品,-0.02,official
 1993-07,energy_services,Energy services,能源服務,0.01,official
 1993-07,core_goods,Core goods,核心商品,0.03,official
 1993-07,housing,Housing,住宅,0.02,official
-1993-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
+1993-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
 1993-07,residual,Residual,差額,0.00011084597029600851,official
 1993-08,food,Food,食物,0.02,official
 1993-08,energy_goods,Energy goods,能源商品,-0.01,official
@@ -306,7 +306,7 @@
 1993-08,core_goods,Core goods,核心商品,0.03,official
 1993-08,housing,Housing,住宅,0.02,official
 1993-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
-1993-08,residual,Residual,差額,0.0006143654221614503,official
+1993-08,residual,Residual,差額,0.000614365422161478,official
 1993-09,food,Food,食物,0.0,official
 1993-09,energy_goods,Energy goods,能源商品,-0.03,official
 1993-09,energy_services,Energy services,能源服務,0.009999999999999998,official
@@ -317,45 +317,45 @@
 1993-10,food,Food,食物,0.05,official
 1993-10,energy_goods,Energy goods,能源商品,0.13,official
 1993-10,energy_services,Energy services,能源服務,0.0,official
-1993-10,core_goods,Core goods,核心商品,0.029999999999999985,official
+1993-10,core_goods,Core goods,核心商品,0.02999999999999997,official
 1993-10,housing,Housing,住宅,0.03,official
 1993-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-1993-10,residual,Residual,差額,0.004234035378158085,official
+1993-10,residual,Residual,差額,0.004234035378158141,official
 1993-11,food,Food,食物,0.02,official
 1993-11,energy_goods,Energy goods,能源商品,-0.04,official
 1993-11,energy_services,Energy services,能源服務,-0.010000000000000002,official
-1993-11,core_goods,Core goods,核心商品,0.08,official
+1993-11,core_goods,Core goods,核心商品,0.07999999999999999,official
 1993-11,housing,Housing,住宅,0.03,official
-1993-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
-1993-11,residual,Residual,差額,-0.0005221337652670521,official
+1993-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10999999999999999,official
+1993-11,residual,Residual,差額,-0.0005221337652670244,official
 1993-12,food,Food,食物,0.02,official
 1993-12,energy_goods,Energy goods,能源商品,-0.04,official
 1993-12,energy_services,Energy services,能源服務,0.010000000000000002,official
-1993-12,core_goods,Core goods,核心商品,-0.030000000000000002,official
+1993-12,core_goods,Core goods,核心商品,-0.030000000000000006,official
 1993-12,housing,Housing,住宅,0.04,official
 1993-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.020000000000000004,official
-1993-12,residual,Residual,差額,0.002877362087636573,official
+1993-12,residual,Residual,差額,0.00287736208763658,official
 1994-01,food,Food,食物,0.0,official
 1994-01,energy_goods,Energy goods,能源商品,-0.03,official
 1994-01,energy_services,Energy services,能源服務,-0.010000000000000002,official
 1994-01,core_goods,Core goods,核心商品,-0.020000000000000004,official
 1994-01,housing,Housing,住宅,0.04,official
-1994-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.05,official
-1994-01,residual,Residual,差額,0.0035457900033642187,official
+1994-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.049999999999999996,official
+1994-01,residual,Residual,差額,0.0035457900033642256,official
 1994-02,food,Food,食物,-0.02,official
 1994-02,energy_goods,Energy goods,能源商品,0.05,official
 1994-02,energy_services,Energy services,能源服務,0.020000000000000004,official
 1994-02,core_goods,Core goods,核心商品,-0.010000000000000002,official
 1994-02,housing,Housing,住宅,0.05,official
-1994-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
-1994-02,residual,Residual,差額,0.0016931894396745584,official
+1994-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
+1994-02,residual,Residual,差額,0.0016931894396745306,official
 1994-03,food,Food,食物,-0.01,official
 1994-03,energy_goods,Energy goods,能源商品,-0.02,official
 1994-03,energy_services,Energy services,能源服務,0.02,official
 1994-03,core_goods,Core goods,核心商品,0.07,official
 1994-03,housing,Housing,住宅,0.05,official
 1994-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16999999999999998,official
-1994-03,residual,Residual,差額,-0.004739947685381274,official
+1994-03,residual,Residual,差額,-0.004739947685381329,official
 1994-04,food,Food,食物,0.02,official
 1994-04,energy_goods,Energy goods,能源商品,-0.01,official
 1994-04,energy_services,Energy services,能源服務,-0.019999999999999997,official
@@ -368,8 +368,8 @@
 1994-05,energy_services,Energy services,能源服務,0.0,official
 1994-05,core_goods,Core goods,核心商品,0.06999999999999999,official
 1994-05,housing,Housing,住宅,0.04,official
-1994-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-1994-05,residual,Residual,差額,0.005421495114761421,official
+1994-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999998,official
+1994-05,residual,Residual,差額,0.005421495114761449,official
 1994-06,food,Food,食物,0.04,official
 1994-06,energy_goods,Energy goods,能源商品,0.02,official
 1994-06,energy_services,Energy services,能源服務,0.0,official
@@ -387,10 +387,10 @@
 1994-08,food,Food,食物,0.02,official
 1994-08,energy_goods,Energy goods,能源商品,0.11,official
 1994-08,energy_services,Energy services,能源服務,0.009999999999999995,official
-1994-08,core_goods,Core goods,核心商品,-0.02,official
+1994-08,core_goods,Core goods,核心商品,-0.020000000000000004,official
 1994-08,housing,Housing,住宅,0.03,official
 1994-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-1994-08,residual,Residual,差額,0.0001409425249367935,official
+1994-08,residual,Residual,差額,0.00014094252493673798,official
 1994-09,food,Food,食物,0.01,official
 1994-09,energy_goods,Energy goods,能源商品,-0.01,official
 1994-09,energy_services,Energy services,能源服務,-0.01,official
@@ -408,7 +408,7 @@
 1994-11,food,Food,食物,0.01,official
 1994-11,energy_goods,Energy goods,能源商品,0.02,official
 1994-11,energy_services,Energy services,能源服務,0.0,official
-1994-11,core_goods,Core goods,核心商品,0.020000000000000004,official
+1994-11,core_goods,Core goods,核心商品,0.02,official
 1994-11,housing,Housing,住宅,0.04,official
 1994-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 1994-11,residual,Residual,差額,6.00110743555482e-05,official
@@ -417,14 +417,14 @@
 1994-12,energy_services,Energy services,能源服務,-0.01,official
 1994-12,core_goods,Core goods,核心商品,-0.05,official
 1994-12,housing,Housing,住宅,0.04,official
-1994-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04000000000000001,official
-1994-12,residual,Residual,差額,0.004228953814904339,official
+1994-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
+1994-12,residual,Residual,差額,0.004228953814904346,official
 1995-01,food,Food,食物,-0.01,official
 1995-01,energy_goods,Energy goods,能源商品,-0.02,official
 1995-01,energy_services,Energy services,能源服務,0.01,official
 1995-01,core_goods,Core goods,核心商品,0.06,official
 1995-01,housing,Housing,住宅,0.05,official
-1995-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
+1995-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000003,official
 1995-01,residual,Residual,差額,0.0030123449418441584,official
 1995-02,food,Food,食物,0.04,official
 1995-02,energy_goods,Energy goods,能源商品,-0.01,official
@@ -439,7 +439,7 @@
 1995-03,core_goods,Core goods,核心商品,0.03,official
 1995-03,housing,Housing,住宅,0.04,official
 1995-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
-1995-03,residual,Residual,差額,-0.00560241501352679,official
+1995-03,residual,Residual,差額,-0.005602415013526818,official
 1995-04,food,Food,食物,0.07,official
 1995-04,energy_goods,Energy goods,能源商品,0.0,official
 1995-04,energy_services,Energy services,能源服務,0.0,official
@@ -459,8 +459,8 @@
 1995-06,energy_services,Energy services,能源服務,0.01,official
 1995-06,core_goods,Core goods,核心商品,-0.04,official
 1995-06,housing,Housing,住宅,0.04,official
-1995-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999999,official
-1995-06,residual,Residual,差額,0.00755953348804525,official
+1995-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999998,official
+1995-06,residual,Residual,差額,0.007559533488045264,official
 1995-07,food,Food,食物,0.01,official
 1995-07,energy_goods,Energy goods,能源商品,-0.02,official
 1995-07,energy_services,Energy services,能源服務,0.0,official
@@ -492,21 +492,21 @@
 1995-11,food,Food,食物,-0.01,official
 1995-11,energy_goods,Energy goods,能源商品,-0.05,official
 1995-11,energy_services,Energy services,能源服務,0.0,official
-1995-11,core_goods,Core goods,核心商品,-0.029999999999999992,official
+1995-11,core_goods,Core goods,核心商品,-0.03,official
 1995-11,housing,Housing,住宅,0.05,official
 1995-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03,official
-1995-11,residual,Residual,差額,0.007066201170570203,official
+1995-11,residual,Residual,差額,0.007066201170570205,official
 1995-12,food,Food,食物,0.02,official
 1995-12,energy_goods,Energy goods,能源商品,0.05,official
 1995-12,energy_services,Energy services,能源服務,0.009999999999999995,official
-1995-12,core_goods,Core goods,核心商品,0.009999999999999998,official
+1995-12,core_goods,Core goods,核心商品,0.009999999999999995,official
 1995-12,housing,Housing,住宅,0.05,official
 1995-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
 1995-12,residual,Residual,差額,-0.007830538807951204,official
 1996-01,food,Food,食物,0.02,official
 1996-01,energy_goods,Energy goods,能源商品,0.09,official
 1996-01,energy_services,Energy services,能源服務,0.010000000000000009,official
-1996-01,core_goods,Core goods,核心商品,0.030000000000000016,official
+1996-01,core_goods,Core goods,核心商品,0.030000000000000013,official
 1996-01,housing,Housing,住宅,0.03,official
 1996-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
 1996-01,residual,Residual,差額,0.0025475841874046945,official
@@ -520,10 +520,10 @@
 1996-03,food,Food,食物,0.04,official
 1996-03,energy_goods,Energy goods,能源商品,0.07,official
 1996-03,energy_services,Energy services,能源服務,-0.010000000000000009,official
-1996-03,core_goods,Core goods,核心商品,0.049999999999999996,official
+1996-03,core_goods,Core goods,核心商品,0.04999999999999999,official
 1996-03,housing,Housing,住宅,0.04,official
 1996-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
-1996-03,residual,Residual,差額,0.00192532088679781,official
+1996-03,residual,Residual,差額,0.0019253208867977545,official
 1996-04,food,Food,食物,0.03,official
 1996-04,energy_goods,Energy goods,能源商品,0.13,official
 1996-04,energy_services,Energy services,能源服務,0.01999999999999999,official
@@ -536,29 +536,29 @@
 1996-05,energy_services,Energy services,能源服務,0.009999999999999998,official
 1996-05,core_goods,Core goods,核心商品,-0.05,official
 1996-05,housing,Housing,住宅,0.04,official
-1996-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-1996-05,residual,Residual,差額,-0.007468719643919208,official
+1996-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
+1996-05,residual,Residual,差額,-0.0074687196439191805,official
 1996-06,food,Food,食物,0.05,official
 1996-06,energy_goods,Energy goods,能源商品,-0.1,official
 1996-06,energy_services,Energy services,能源服務,-0.01999999999999999,official
 1996-06,core_goods,Core goods,核心商品,-0.06,official
 1996-06,housing,Housing,住宅,0.03,official
-1996-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
-1996-06,residual,Residual,差額,-0.0014473455682395553,official
+1996-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999998,official
+1996-06,residual,Residual,差額,-0.0014473455682395275,official
 1996-07,food,Food,食物,0.03,official
 1996-07,energy_goods,Energy goods,能源商品,-0.01,official
 1996-07,energy_services,Energy services,能源服務,0.02,official
 1996-07,core_goods,Core goods,核心商品,1.734723475976807e-18,official
 1996-07,housing,Housing,住宅,0.04,official
-1996-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-1996-07,residual,Residual,差額,0.00131551142696823,official
+1996-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12999999999999998,official
+1996-07,residual,Residual,差額,0.0013155114269682855,official
 1996-08,food,Food,食物,0.03,official
 1996-08,energy_goods,Energy goods,能源商品,-0.02,official
 1996-08,energy_services,Energy services,能源服務,0.01,official
 1996-08,core_goods,Core goods,核心商品,-0.05,official
 1996-08,housing,Housing,住宅,0.04,official
-1996-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
-1996-08,residual,Residual,差額,-0.0046752458945253095,official
+1996-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000002,official
+1996-08,residual,Residual,差額,-0.004675245894525323,official
 1996-09,food,Food,食物,0.02,official
 1996-09,energy_goods,Energy goods,能源商品,0.0,official
 1996-09,energy_services,Energy services,能源服務,0.0,official
@@ -576,7 +576,7 @@
 1996-11,food,Food,食物,0.01,official
 1996-11,energy_goods,Energy goods,能源商品,0.04,official
 1996-11,energy_services,Energy services,能源服務,0.010000000000000002,official
-1996-11,core_goods,Core goods,核心商品,-0.01,official
+1996-11,core_goods,Core goods,核心商品,-0.010000000000000002,official
 1996-11,housing,Housing,住宅,0.03,official
 1996-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 1996-11,residual,Residual,差額,-0.00211766056032775,official
@@ -590,9 +590,9 @@
 1997-01,food,Food,食物,-0.01,official
 1997-01,energy_goods,Energy goods,能源商品,0.01,official
 1997-01,energy_services,Energy services,能源服務,0.04,official
-1997-01,core_goods,Core goods,核心商品,0.02,official
+1997-01,core_goods,Core goods,核心商品,0.019999999999999997,official
 1997-01,housing,Housing,住宅,0.03,official
-1997-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
+1997-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
 1997-01,residual,Residual,差額,0.00015991074747379042,official
 1997-02,food,Food,食物,0.03,official
 1997-02,energy_goods,Energy goods,能源商品,0.0,official
@@ -604,24 +604,24 @@
 1997-03,food,Food,食物,-0.02,official
 1997-03,energy_goods,Energy goods,能源商品,-0.06,official
 1997-03,energy_services,Energy services,能源服務,-0.020000000000000004,official
-1997-03,core_goods,Core goods,核心商品,0.02,official
+1997-03,core_goods,Core goods,核心商品,0.020000000000000004,official
 1997-03,housing,Housing,住宅,0.03,official
-1997-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16000000000000003,official
-1997-03,residual,Residual,差額,-0.004513264244277934,official
+1997-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
+1997-03,residual,Residual,差額,-0.004513264244277906,official
 1997-04,food,Food,食物,0.01,official
 1997-04,energy_goods,Energy goods,能源商品,-0.07,official
 1997-04,energy_services,Energy services,能源服務,-0.009999999999999995,official
-1997-04,core_goods,Core goods,核心商品,8.673617379884035e-18,official
+1997-04,core_goods,Core goods,核心商品,1.3877787807814457e-17,official
 1997-04,housing,Housing,住宅,0.04,official
-1997-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-1997-04,residual,Residual,差額,-0.0017443930224180504,official
+1997-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12999999999999998,official
+1997-04,residual,Residual,差額,-0.0017443930224180226,official
 1997-05,food,Food,食物,0.01,official
 1997-05,energy_goods,Energy goods,能源商品,-0.1,official
 1997-05,energy_services,Energy services,能源服務,-0.01999999999999999,official
-1997-05,core_goods,Core goods,核心商品,-0.019999999999999997,official
+1997-05,core_goods,Core goods,核心商品,-0.01999999999999999,official
 1997-05,housing,Housing,住宅,0.04,official
 1997-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03999999999999999,official
-1997-05,residual,Residual,差額,0.00447691125843859,official
+1997-05,residual,Residual,差額,0.004476911258438597,official
 1997-06,food,Food,食物,0.01,official
 1997-06,energy_goods,Energy goods,能源商品,-0.03,official
 1997-06,energy_services,Energy services,能源服務,0.019999999999999997,official
@@ -660,17 +660,17 @@
 1997-11,food,Food,食物,0.01,official
 1997-11,energy_goods,Energy goods,能源商品,-0.05,official
 1997-11,energy_services,Energy services,能源服務,0.020000000000000004,official
-1997-11,core_goods,Core goods,核心商品,-0.060000000000000005,official
+1997-11,core_goods,Core goods,核心商品,-0.06,official
 1997-11,housing,Housing,住宅,0.05,official
 1997-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03,official
-1997-11,residual,Residual,差額,0.00565674850094844,official
+1997-11,residual,Residual,差額,0.005656748500948425,official
 1997-12,food,Food,食物,0.0,official
 1997-12,energy_goods,Energy goods,能源商品,-0.02,official
 1997-12,energy_services,Energy services,能源服務,-0.05,official
 1997-12,core_goods,Core goods,核心商品,-0.039999999999999994,official
 1997-12,housing,Housing,住宅,0.03,official
 1997-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06000000000000001,official
-1997-12,residual,Residual,差額,-0.001211606991344847,official
+1997-12,residual,Residual,差額,-0.0012116069913448435,official
 1998-01,food,Food,食物,0.03,official
 1998-01,energy_goods,Energy goods,能源商品,-0.1,official
 1998-01,energy_services,Energy services,能源服務,-0.01999999999999999,official
@@ -681,17 +681,17 @@
 1998-02,food,Food,食物,-0.02,official
 1998-02,energy_goods,Energy goods,能源商品,-0.08,official
 1998-02,energy_services,Energy services,能源服務,-0.03,official
-1998-02,core_goods,Core goods,核心商品,-0.030000000000000002,official
+1998-02,core_goods,Core goods,核心商品,-0.03,official
 1998-02,housing,Housing,住宅,0.03,official
 1998-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
 1998-02,residual,Residual,差額,-0.0023071703234623236,official
 1998-03,food,Food,食物,0.01,official
 1998-03,energy_goods,Energy goods,能源商品,-0.09,official
 1998-03,energy_services,Energy services,能源服務,0.0,official
-1998-03,core_goods,Core goods,核心商品,-0.06999999999999999,official
+1998-03,core_goods,Core goods,核心商品,-0.07,official
 1998-03,housing,Housing,住宅,0.05,official
 1998-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
-1998-03,residual,Residual,差額,-0.004441081203412363,official
+1998-03,residual,Residual,差額,-0.004441081203412328,official
 1998-04,food,Food,食物,0.01,official
 1998-04,energy_goods,Energy goods,能源商品,-0.05,official
 1998-04,energy_services,Energy services,能源服務,0.0,official
@@ -725,35 +725,35 @@
 1998-08,energy_services,Energy services,能源服務,-0.009999999999999995,official
 1998-08,core_goods,Core goods,核心商品,0.020000000000000004,official
 1998-08,housing,Housing,住宅,0.04,official
-1998-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
-1998-08,residual,Residual,差額,-0.0019912688353705965,official
+1998-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11999999999999997,official
+1998-08,residual,Residual,差額,-0.0019912688353705688,official
 1998-09,food,Food,食物,-0.01,official
 1998-09,energy_goods,Energy goods,能源商品,-0.02,official
 1998-09,energy_services,Energy services,能源服務,-0.02,official
 1998-09,core_goods,Core goods,核心商品,-0.06,official
 1998-09,housing,Housing,住宅,0.04,official
-1998-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.009999999999999998,official
-1998-09,residual,Residual,差額,0.0023412274286881973,official
+1998-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.010000000000000002,official
+1998-09,residual,Residual,差額,0.0023412274286882043,official
 1998-10,food,Food,食物,0.04,official
 1998-10,energy_goods,Energy goods,能源商品,0.02,official
 1998-10,energy_services,Energy services,能源服務,-0.01,official
 1998-10,core_goods,Core goods,核心商品,-0.030000000000000002,official
 1998-10,housing,Housing,住宅,0.05,official
-1998-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-1998-10,residual,Residual,差額,-0.0004888344801410593,official
+1998-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14999999999999997,official
+1998-10,residual,Residual,差額,-0.0004888344801410316,official
 1998-11,food,Food,食物,0.01,official
 1998-11,energy_goods,Energy goods,能源商品,-0.03,official
 1998-11,energy_services,Energy services,能源服務,0.009999999999999998,official
-1998-11,core_goods,Core goods,核心商品,-0.04,official
+1998-11,core_goods,Core goods,核心商品,-0.039999999999999994,official
 1998-11,housing,Housing,住宅,0.03,official
-1998-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03000000000000001,official
-1998-11,residual,Residual,差額,-0.005787877511488347,official
+1998-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.030000000000000013,official
+1998-11,residual,Residual,差額,-0.005787877511488362,official
 1998-12,food,Food,食物,0.0,official
 1998-12,energy_goods,Energy goods,能源商品,-0.05,official
 1998-12,energy_services,Energy services,能源服務,0.0,official
 1998-12,core_goods,Core goods,核心商品,0.060000000000000005,official
 1998-12,housing,Housing,住宅,0.03,official
-1998-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
+1998-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06000000000000001,official
 1998-12,residual,Residual,差額,0.001086681829665176,official
 1999-01,food,Food,食物,0.03,official
 1999-01,energy_goods,Energy goods,能源商品,-0.02,official
@@ -775,18 +775,18 @@
 1999-03,core_goods,Core goods,核心商品,-0.1,official
 1999-03,housing,Housing,住宅,0.03,official
 1999-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-1999-03,residual,Residual,差額,0.005674766669475709,official
+1999-03,residual,Residual,差額,0.005674766669475723,official
 1999-04,food,Food,食物,0.02,official
 1999-04,energy_goods,Energy goods,能源商品,0.24,official
 1999-04,energy_services,Energy services,能源服務,0.0,official
-1999-04,core_goods,Core goods,核心商品,0.12000000000000001,official
+1999-04,core_goods,Core goods,核心商品,0.12,official
 1999-04,housing,Housing,住宅,0.03,official
 1999-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-1999-04,residual,Residual,差額,0.0031120820030232643,official
+1999-04,residual,Residual,差額,0.003112082003023209,official
 1999-05,food,Food,食物,0.01,official
 1999-05,energy_goods,Energy goods,能源商品,-0.03,official
 1999-05,energy_services,Energy services,能源服務,0.0,official
-1999-05,core_goods,Core goods,核心商品,-0.04,official
+1999-05,core_goods,Core goods,核心商品,-0.039999999999999994,official
 1999-05,housing,Housing,住宅,0.03,official
 1999-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 1999-05,residual,Residual,差額,-0.0045011636495472795,official
@@ -800,24 +800,24 @@
 1999-07,food,Food,食物,0.01,official
 1999-07,energy_goods,Energy goods,能源商品,0.09,official
 1999-07,energy_services,Energy services,能源服務,0.010000000000000009,official
-1999-07,core_goods,Core goods,核心商品,0.010000000000000004,official
+1999-07,core_goods,Core goods,核心商品,0.010000000000000009,official
 1999-07,housing,Housing,住宅,0.03,official
 1999-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10999999999999999,official
 1999-07,residual,Residual,差額,0.005920418789855608,official
 1999-08,food,Food,食物,0.01,official
 1999-08,energy_goods,Energy goods,能源商品,0.12,official
 1999-08,energy_services,Energy services,能源服務,0.010000000000000009,official
-1999-08,core_goods,Core goods,核心商品,-0.049999999999999996,official
+1999-08,core_goods,Core goods,核心商品,-0.04999999999999999,official
 1999-08,housing,Housing,住宅,0.03,official
 1999-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
-1999-08,residual,Residual,差額,0.0019014954802300532,official
+1999-08,residual,Residual,差額,0.0019014954802300255,official
 1999-09,food,Food,食物,0.02,official
 1999-09,energy_goods,Energy goods,能源商品,0.08,official
 1999-09,energy_services,Energy services,能源服務,0.020000000000000004,official
-1999-09,core_goods,Core goods,核心商品,0.06,official
+1999-09,core_goods,Core goods,核心商品,0.06000000000000001,official
 1999-09,housing,Housing,住宅,0.04,official
-1999-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-1999-09,residual,Residual,差額,-0.0010156899706134648,official
+1999-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
+1999-09,residual,Residual,差額,-0.0010156899706134093,official
 1999-10,food,Food,食物,0.01,official
 1999-10,energy_goods,Energy goods,能源商品,0.01,official
 1999-10,energy_services,Energy services,能源服務,0.0,official
@@ -835,37 +835,37 @@
 1999-12,food,Food,食物,0.01,official
 1999-12,energy_goods,Energy goods,能源商品,0.12,official
 1999-12,energy_services,Energy services,能源服務,-0.009999999999999995,official
-1999-12,core_goods,Core goods,核心商品,-0.029999999999999992,official
+1999-12,core_goods,Core goods,核心商品,-0.029999999999999985,official
 1999-12,housing,Housing,住宅,0.03,official
-1999-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
-1999-12,residual,Residual,差額,0.0028016089484075024,official
+1999-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
+1999-12,residual,Residual,差額,0.0028016089484074747,official
 2000-01,food,Food,食物,0.01,official
 2000-01,energy_goods,Energy goods,能源商品,0.05,official
 2000-01,energy_services,Energy services,能源服務,0.0,official
-2000-01,core_goods,Core goods,核心商品,-0.01,official
+2000-01,core_goods,Core goods,核心商品,-0.010000000000000002,official
 2000-01,housing,Housing,住宅,0.08,official
-2000-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000002,official
-2000-01,residual,Residual,差額,-0.00788367714360283,official
+2000-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14999999999999997,official
+2000-01,residual,Residual,差額,-0.007883677143602774,official
 2000-02,food,Food,食物,0.02,official
 2000-02,energy_goods,Energy goods,能源商品,0.14,official
 2000-02,energy_services,Energy services,能源服務,0.01999999999999999,official
-2000-02,core_goods,Core goods,核心商品,-0.03000000000000001,official
+2000-02,core_goods,Core goods,核心商品,-0.030000000000000013,official
 2000-02,housing,Housing,住宅,0.04,official
 2000-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2000-02,residual,Residual,差額,-0.004763092611117237,official
+2000-02,residual,Residual,差額,-0.004763092611117181,official
 2000-03,food,Food,食物,0.02,official
 2000-03,energy_goods,Energy goods,能源商品,0.23,official
 2000-03,energy_services,Energy services,能源服務,0.0,official
-2000-03,core_goods,Core goods,核心商品,0.06999999999999999,official
+2000-03,core_goods,Core goods,核心商品,0.06999999999999998,official
 2000-03,housing,Housing,住宅,0.04,official
 2000-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-2000-03,residual,Residual,差額,-0.0009855036821522778,official
+2000-03,residual,Residual,差額,-0.0009855036821522223,official
 2000-04,food,Food,食物,0.01,official
 2000-04,energy_goods,Energy goods,能源商品,-0.15,official
 2000-04,energy_services,Energy services,能源服務,0.009999999999999981,official
-2000-04,core_goods,Core goods,核心商品,0.029999999999999992,official
+2000-04,core_goods,Core goods,核心商品,0.03,official
 2000-04,housing,Housing,住宅,0.03,official
-2000-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.01999999999999998,official
+2000-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.01999999999999999,official
 2000-04,residual,Residual,差額,0.007012448132791477,official
 2000-05,food,Food,食物,0.04,official
 2000-05,energy_goods,Energy goods,能源商品,-0.05,official
@@ -893,8 +893,8 @@
 2000-08,energy_services,Energy services,能源服務,0.0,official
 2000-08,core_goods,Core goods,核心商品,-0.06,official
 2000-08,housing,Housing,住宅,0.04,official
-2000-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2000-08,residual,Residual,差額,-0.0067623311107767245,official
+2000-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13000000000000003,official
+2000-08,residual,Residual,差額,-0.006762331110776759,official
 2000-09,food,Food,食物,0.0,official
 2000-09,energy_goods,Energy goods,能源商品,0.18,official
 2000-09,energy_services,Energy services,能源服務,0.04000000000000001,official
@@ -907,8 +907,8 @@
 2000-10,energy_services,Energy services,能源服務,0.03,official
 2000-10,core_goods,Core goods,核心商品,-0.06,official
 2000-10,housing,Housing,住宅,0.05,official
-2000-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
-2000-10,residual,Residual,差額,-0.003976727899594884,official
+2000-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
+2000-10,residual,Residual,差額,-0.003976727899594912,official
 2000-11,food,Food,食物,0.01,official
 2000-11,energy_goods,Energy goods,能源商品,-0.01,official
 2000-11,energy_services,Energy services,能源服務,-0.01,official
@@ -919,7 +919,7 @@
 2000-12,food,Food,食物,0.04,official
 2000-12,energy_goods,Energy goods,能源商品,-0.02,official
 2000-12,energy_services,Energy services,能源服務,0.05,official
-2000-12,core_goods,Core goods,核心商品,-0.04,official
+2000-12,core_goods,Core goods,核心商品,-0.039999999999999994,official
 2000-12,housing,Housing,住宅,0.05,official
 2000-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
 2000-12,residual,Residual,差額,0.003108505580412646,official
@@ -928,8 +928,8 @@
 2001-01,energy_services,Energy services,能源服務,0.16,official
 2001-01,core_goods,Core goods,核心商品,0.03,official
 2001-01,housing,Housing,住宅,0.04,official
-2001-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.24,official
-2001-01,residual,Residual,差額,0.0041023990559412304,official
+2001-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.24000000000000002,official
+2001-01,residual,Residual,差額,0.004102399055941175,official
 2001-02,food,Food,食物,0.05,official
 2001-02,energy_goods,Energy goods,能源商品,-0.04,official
 2001-02,energy_services,Energy services,能源服務,0.0,official
@@ -940,16 +940,16 @@
 2001-03,food,Food,食物,0.01,official
 2001-03,energy_goods,Energy goods,能源商品,-0.07,official
 2001-03,energy_services,Energy services,能源服務,-0.01999999999999999,official
-2001-03,core_goods,Core goods,核心商品,-0.05999999999999999,official
+2001-03,core_goods,Core goods,核心商品,-0.06,official
 2001-03,housing,Housing,住宅,0.06,official
 2001-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-2001-03,residual,Residual,差額,-0.0006726361795117413,official
+2001-03,residual,Residual,差額,-0.000672636179511743,official
 2001-04,food,Food,食物,0.01,official
 2001-04,energy_goods,Energy goods,能源商品,0.04,official
 2001-04,energy_services,Energy services,能源服務,-0.010000000000000002,official
-2001-04,core_goods,Core goods,核心商品,0.009999999999999997,official
+2001-04,core_goods,Core goods,核心商品,0.009999999999999995,official
 2001-04,housing,Housing,住宅,0.05,official
-2001-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999999,official
+2001-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
 2001-04,residual,Residual,差額,-0.0041289720871449664,official
 2001-05,food,Food,食物,0.01,official
 2001-05,energy_goods,Energy goods,能源商品,0.21,official
@@ -963,22 +963,22 @@
 2001-06,energy_services,Energy services,能源服務,0.0,official
 2001-06,core_goods,Core goods,核心商品,0.030000000000000006,official
 2001-06,housing,Housing,住宅,0.06,official
-2001-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
-2001-06,residual,Residual,差額,-0.003572328712617562,official
+2001-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000004,official
+2001-06,residual,Residual,差額,-0.0035723287126175896,official
 2001-07,food,Food,食物,0.02,official
 2001-07,energy_goods,Energy goods,能源商品,-0.26,official
 2001-07,energy_services,Energy services,能源服務,-0.020000000000000018,official
-2001-07,core_goods,Core goods,核心商品,0.06999999999999999,official
+2001-07,core_goods,Core goods,核心商品,0.07,official
 2001-07,housing,Housing,住宅,0.05,official
 2001-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000003,official
-2001-07,residual,Residual,差額,-0.0031046902725229385,official
+2001-07,residual,Residual,差額,-0.003104690272522956,official
 2001-08,food,Food,食物,0.02,official
 2001-08,energy_goods,Energy goods,能源商品,-0.05,official
 2001-08,energy_services,Energy services,能源服務,-0.03,official
-2001-08,core_goods,Core goods,核心商品,-0.12,official
+2001-08,core_goods,Core goods,核心商品,-0.11999999999999998,official
 2001-08,housing,Housing,住宅,0.06,official
-2001-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
-2001-08,residual,Residual,差額,-0.0019216351184836687,official
+2001-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000004,official
+2001-08,residual,Residual,差額,-0.0019216351184837,official
 2001-09,food,Food,食物,0.0,official
 2001-09,energy_goods,Energy goods,能源商品,0.2,official
 2001-09,energy_services,Energy services,能源服務,-0.04000000000000001,official
@@ -992,21 +992,21 @@
 2001-10,core_goods,Core goods,核心商品,0.03,official
 2001-10,housing,Housing,住宅,0.06,official
 2001-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.53,official
-2001-10,residual,Residual,差額,0.0022671381285924164,official
+2001-10,residual,Residual,差額,0.002267138128592472,official
 2001-11,food,Food,食物,0.0,official
 2001-11,energy_goods,Energy goods,能源商品,-0.24,official
 2001-11,energy_services,Energy services,能源服務,0.0,official
 2001-11,core_goods,Core goods,核心商品,0.009999999999999981,official
 2001-11,housing,Housing,住宅,0.06,official
-2001-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2001-11,residual,Residual,差額,0.0024431727865225628,official
+2001-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10000000000000003,official
+2001-11,residual,Residual,差額,0.002443172786522535,official
 2001-12,food,Food,食物,-0.01,official
 2001-12,energy_goods,Energy goods,能源商品,-0.1,official
 2001-12,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2001-12,core_goods,Core goods,核心商品,-0.08,official
+2001-12,core_goods,Core goods,核心商品,-0.07999999999999999,official
 2001-12,housing,Housing,住宅,0.06,official
 2001-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03,official
-2001-12,residual,Residual,差額,0.006607945281734598,official
+2001-12,residual,Residual,差額,0.006607945281734584,official
 2002-01,food,Food,食物,0.03,official
 2002-01,energy_goods,Energy goods,能源商品,0.02,official
 2002-01,energy_services,Energy services,能源服務,-0.02,official
@@ -1024,17 +1024,17 @@
 2002-03,food,Food,食物,0.01,official
 2002-03,energy_goods,Energy goods,能源商品,0.15,official
 2002-03,energy_services,Energy services,能源服務,0.0,official
-2002-03,core_goods,Core goods,核心商品,-0.04,official
+2002-03,core_goods,Core goods,核心商品,-0.039999999999999994,official
 2002-03,housing,Housing,住宅,0.05,official
 2002-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
-2002-03,residual,Residual,差額,0.0013147515815750688,official
+2002-03,residual,Residual,差額,0.0013147515815750133,official
 2002-04,food,Food,食物,0.03,official
 2002-04,energy_goods,Energy goods,能源商品,0.15,official
 2002-04,energy_services,Energy services,能源服務,0.0,official
 2002-04,core_goods,Core goods,核心商品,0.07,official
 2002-04,housing,Housing,住宅,0.05,official
 2002-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
-2002-04,residual,Residual,差額,-0.0015899581590003153,official
+2002-04,residual,Residual,差額,-0.0015899581590002598,official
 2002-05,food,Food,食物,-0.05,official
 2002-05,energy_goods,Energy goods,能源商品,0.01,official
 2002-05,energy_services,Energy services,能源服務,0.0,official
@@ -1069,35 +1069,35 @@
 2002-09,core_goods,Core goods,核心商品,-0.03,official
 2002-09,housing,Housing,住宅,0.05,official
 2002-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2002-09,residual,Residual,差額,0.0002908169264316529,official
+2002-09,residual,Residual,差額,0.00029081692643168067,official
 2002-10,food,Food,食物,-0.01,official
 2002-10,energy_goods,Energy goods,能源商品,0.1,official
 2002-10,energy_services,Energy services,能源服務,0.009999999999999995,official
 2002-10,core_goods,Core goods,核心商品,-0.060000000000000005,official
 2002-10,housing,Housing,住宅,0.03,official
-2002-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
-2002-10,residual,Residual,差額,0.0025745621470753544,official
+2002-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
+2002-10,residual,Residual,差額,0.0025745621470753266,official
 2002-11,food,Food,食物,0.02,official
 2002-11,energy_goods,Energy goods,能源商品,-0.01,official
 2002-11,energy_services,Energy services,能源服務,0.01,official
-2002-11,core_goods,Core goods,核心商品,-0.05,official
+2002-11,core_goods,Core goods,核心商品,-0.049999999999999996,official
 2002-11,housing,Housing,住宅,0.04,official
-2002-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
+2002-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
 2002-11,residual,Residual,差額,-0.0010687181890233488,official
 2002-12,food,Food,食物,0.0,official
 2002-12,energy_goods,Energy goods,能源商品,0.0,official
 2002-12,energy_services,Energy services,能源服務,0.01,official
 2002-12,core_goods,Core goods,核心商品,-0.07,official
 2002-12,housing,Housing,住宅,0.03,official
-2002-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
+2002-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
 2002-12,residual,Residual,差額,0.006232622859138143,official
 2003-01,food,Food,食物,0.01,official
 2003-01,energy_goods,Energy goods,能源商品,0.23,official
 2003-01,energy_services,Energy services,能源服務,0.0,official
-2003-01,core_goods,Core goods,核心商品,-0.09999999999999999,official
+2003-01,core_goods,Core goods,核心商品,-0.1,official
 2003-01,housing,Housing,住宅,0.04,official
 2003-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
-2003-01,residual,Residual,差額,-0.0011861610217042684,official
+2003-01,residual,Residual,差額,-0.001186161021704324,official
 2003-02,food,Food,食物,0.03,official
 2003-02,energy_goods,Energy goods,能源商品,0.23,official
 2003-02,energy_services,Energy services,能源服務,0.04000000000000001,official
@@ -1122,21 +1122,21 @@
 2003-05,food,Food,食物,0.01,official
 2003-05,energy_goods,Energy goods,能源商品,-0.25,official
 2003-05,energy_services,Energy services,能源服務,0.0,official
-2003-05,core_goods,Core goods,核心商品,-0.10999999999999997,official
+2003-05,core_goods,Core goods,核心商品,-0.10999999999999999,official
 2003-05,housing,Housing,住宅,0.02,official
 2003-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.22,official
-2003-05,residual,Residual,差額,-0.004701068395339805,official
+2003-05,residual,Residual,差額,-0.004701068395339819,official
 2003-06,food,Food,食物,0.05,official
 2003-06,energy_goods,Energy goods,能源商品,0.01,official
 2003-06,energy_services,Energy services,能源服務,0.0,official
 2003-06,core_goods,Core goods,核心商品,-0.04,official
 2003-06,housing,Housing,住宅,0.01,official
 2003-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-2003-06,residual,Residual,差額,-0.001618497109835318,official
+2003-06,residual,Residual,差額,-0.0016184971098353318,official
 2003-07,food,Food,食物,-0.01,official
 2003-07,energy_goods,Energy goods,能源商品,0.08,official
 2003-07,energy_services,Energy services,能源服務,0.0,official
-2003-07,core_goods,Core goods,核心商品,0.04,official
+2003-07,core_goods,Core goods,核心商品,0.039999999999999994,official
 2003-07,housing,Housing,住宅,0.04,official
 2003-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
 2003-07,residual,Residual,差額,0.003859875238444721,official
@@ -1160,32 +1160,32 @@
 2003-10,core_goods,Core goods,核心商品,-0.04999999999999999,official
 2003-10,housing,Housing,住宅,0.04,official
 2003-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18,official
-2003-10,residual,Residual,差額,-0.007232358311084479,official
+2003-10,residual,Residual,差額,-0.007232358311084486,official
 2003-11,food,Food,食物,0.03,official
 2003-11,energy_goods,Energy goods,能源商品,-0.01,official
 2003-11,energy_services,Energy services,能源服務,-0.01,official
 2003-11,core_goods,Core goods,核心商品,-0.04,official
 2003-11,housing,Housing,住宅,0.04,official
-2003-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
-2003-11,residual,Residual,差額,-0.0036164834743922514,official
+2003-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11999999999999997,official
+2003-11,residual,Residual,差額,-0.003616483474392196,official
 2003-12,food,Food,食物,0.04,official
 2003-12,energy_goods,Energy goods,能源商品,0.06,official
 2003-12,energy_services,Energy services,能源服務,0.010000000000000009,official
 2003-12,core_goods,Core goods,核心商品,-0.019999999999999997,official
 2003-12,housing,Housing,住宅,0.02,official
 2003-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
-2003-12,residual,Residual,差額,0.000573235414112111,official
+2003-12,residual,Residual,差額,0.0005732354141120832,official
 2004-01,food,Food,食物,-0.02,official
 2004-01,energy_goods,Energy goods,能源商品,0.17,official
 2004-01,energy_services,Energy services,能源服務,0.009999999999999981,official
-2004-01,core_goods,Core goods,核心商品,0.02,official
+2004-01,core_goods,Core goods,核心商品,0.01999999999999999,official
 2004-01,housing,Housing,住宅,0.03,official
 2004-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18000000000000002,official
 2004-01,residual,Residual,差額,-0.003256154188656324,official
 2004-02,food,Food,食物,0.01,official
 2004-02,energy_goods,Energy goods,能源商品,0.04,official
 2004-02,energy_services,Energy services,能源服務,0.019999999999999997,official
-2004-02,core_goods,Core goods,核心商品,0.03,official
+2004-02,core_goods,Core goods,核心商品,0.030000000000000006,official
 2004-02,housing,Housing,住宅,0.03,official
 2004-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08000000000000002,official
 2004-02,residual,Residual,差額,0.002903471086933729,official
@@ -1194,15 +1194,15 @@
 2004-03,energy_services,Energy services,能源服務,-0.02,official
 2004-03,core_goods,Core goods,核心商品,0.020000000000000004,official
 2004-03,housing,Housing,住宅,0.04,official
-2004-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-2004-03,residual,Residual,差額,0.004280005564189088,official
+2004-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08000000000000002,official
+2004-03,residual,Residual,差額,0.00428000556418906,official
 2004-04,food,Food,食物,0.02,official
 2004-04,energy_goods,Energy goods,能源商品,-0.07,official
 2004-04,energy_services,Energy services,能源服務,0.010000000000000009,official
-2004-04,core_goods,Core goods,核心商品,0.020000000000000007,official
+2004-04,core_goods,Core goods,核心商品,0.020000000000000004,official
 2004-04,housing,Housing,住宅,0.05,official
-2004-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
-2004-04,residual,Residual,差額,-0.004391595853479979,official
+2004-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16000000000000003,official
+2004-04,residual,Residual,差額,-0.004391595853480035,official
 2004-05,food,Food,食物,0.06,official
 2004-05,energy_goods,Energy goods,能源商品,0.13,official
 2004-05,energy_services,Energy services,能源服務,0.010000000000000009,official
@@ -1213,38 +1213,38 @@
 2004-06,food,Food,食物,0.02,official
 2004-06,energy_goods,Energy goods,能源商品,0.1,official
 2004-06,energy_services,Energy services,能源服務,0.03,official
-2004-06,core_goods,Core goods,核心商品,-0.010000000000000005,official
+2004-06,core_goods,Core goods,核心商品,-0.010000000000000009,official
 2004-06,housing,Housing,住宅,0.04,official
 2004-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 2004-06,residual,Residual,差額,0.005161549670864796,official
 2004-07,food,Food,食物,0.01,official
 2004-07,energy_goods,Energy goods,能源商品,-0.03,official
 2004-07,energy_services,Energy services,能源服務,0.009999999999999998,official
-2004-07,core_goods,Core goods,核心商品,-0.060000000000000005,official
+2004-07,core_goods,Core goods,核心商品,-0.06,official
 2004-07,housing,Housing,住宅,0.03,official
 2004-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2004-07,residual,Residual,差額,0.0026958199195748767,official
+2004-07,residual,Residual,差額,0.0026958199195748628,official
 2004-08,food,Food,食物,0.0,official
 2004-08,energy_goods,Energy goods,能源商品,0.0,official
 2004-08,energy_services,Energy services,能源服務,0.01,official
 2004-08,core_goods,Core goods,核心商品,-0.08,official
 2004-08,housing,Housing,住宅,0.04,official
-2004-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-2004-08,residual,Residual,差額,0.0013109317314297514,official
+2004-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08000000000000002,official
+2004-08,residual,Residual,差額,0.0013109317314297445,official
 2004-09,food,Food,食物,-0.02,official
 2004-09,energy_goods,Energy goods,能源商品,0.06,official
 2004-09,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2004-09,core_goods,Core goods,核心商品,0.02,official
+2004-09,core_goods,Core goods,核心商品,0.020000000000000004,official
 2004-09,housing,Housing,住宅,0.03,official
-2004-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
+2004-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000002,official
 2004-09,residual,Residual,差額,-0.0023665974532736667,official
 2004-10,food,Food,食物,0.05,official
 2004-10,energy_goods,Energy goods,能源商品,0.2,official
 2004-10,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2004-10,core_goods,Core goods,核心商品,0.06999999999999999,official
+2004-10,core_goods,Core goods,核心商品,0.07,official
 2004-10,housing,Housing,住宅,0.02,official
 2004-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2004-10,residual,Residual,差額,-0.0005582742434813714,official
+2004-10,residual,Residual,差額,-0.000558274243481427,official
 2004-11,food,Food,食物,0.03,official
 2004-11,energy_goods,Energy goods,能源商品,0.12,official
 2004-11,energy_services,Energy services,能源服務,0.05000000000000002,official
@@ -1255,31 +1255,31 @@
 2004-12,food,Food,食物,-0.01,official
 2004-12,energy_goods,Energy goods,能源商品,-0.05,official
 2004-12,energy_services,Energy services,能源服務,0.0,official
-2004-12,core_goods,Core goods,核心商品,-0.029999999999999992,official
+2004-12,core_goods,Core goods,核心商品,-0.03,official
 2004-12,housing,Housing,住宅,0.03,official
-2004-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
-2004-12,residual,Residual,差額,-0.006754501102041954,official
+2004-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000002,official
+2004-12,residual,Residual,差額,-0.006754501102041982,official
 2005-01,food,Food,食物,-0.02,official
 2005-01,energy_goods,Energy goods,能源商品,-0.16,official
 2005-01,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2005-01,core_goods,Core goods,核心商品,0.03000000000000001,official
+2005-01,core_goods,Core goods,核心商品,0.03,official
 2005-01,housing,Housing,住宅,0.04,official
 2005-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.25000000000000006,official
 2005-01,residual,Residual,差額,0.0011864952166396603,official
 2005-02,food,Food,食物,-0.02,official
 2005-02,energy_goods,Energy goods,能源商品,0.14,official
 2005-02,energy_services,Energy services,能源服務,0.009999999999999981,official
-2005-02,core_goods,Core goods,核心商品,-0.020000000000000007,official
+2005-02,core_goods,Core goods,核心商品,-0.020000000000000004,official
 2005-02,housing,Housing,住宅,0.04,official
 2005-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000002,official
 2005-02,residual,Residual,差額,0.008097074418792705,official
 2005-03,food,Food,食物,0.02,official
 2005-03,energy_goods,Energy goods,能源商品,0.05,official
 2005-03,energy_services,Energy services,能源服務,0.009999999999999995,official
-2005-03,core_goods,Core goods,核心商品,0.009999999999999998,official
+2005-03,core_goods,Core goods,核心商品,0.009999999999999995,official
 2005-03,housing,Housing,住宅,0.03,official
-2005-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18,official
-2005-03,residual,Residual,差額,-0.0004880934773129897,official
+2005-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18000000000000002,official
+2005-03,residual,Residual,差額,-0.0004880934773130452,official
 2005-04,food,Food,食物,0.08,official
 2005-04,energy_goods,Energy goods,能源商品,0.06,official
 2005-04,energy_services,Energy services,能源服務,0.04000000000000001,official
@@ -1290,24 +1290,24 @@
 2005-05,food,Food,食物,-0.01,official
 2005-05,energy_goods,Energy goods,能源商品,-0.13,official
 2005-05,energy_services,Energy services,能源服務,0.020000000000000004,official
-2005-05,core_goods,Core goods,核心商品,0.060000000000000005,official
+2005-05,core_goods,Core goods,核心商品,0.06,official
 2005-05,housing,Housing,住宅,0.03,official
-2005-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
-2005-05,residual,Residual,差額,-0.00362952342437102,official
+2005-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
+2005-05,residual,Residual,差額,-0.0036295234243709923,official
 2005-06,food,Food,食物,-0.01,official
 2005-06,energy_goods,Energy goods,能源商品,0.02,official
 2005-06,energy_services,Energy services,能源服務,0.0,official
-2005-06,core_goods,Core goods,核心商品,-0.060000000000000005,official
+2005-06,core_goods,Core goods,核心商品,-0.06,official
 2005-06,housing,Housing,住宅,0.02,official
 2005-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-2005-06,residual,Residual,差額,0.002462491885995073,official
+2005-06,residual,Residual,差額,0.002462491885995066,official
 2005-07,food,Food,食物,0.01,official
 2005-07,energy_goods,Energy goods,能源商品,0.26,official
 2005-07,energy_services,Energy services,能源服務,0.02999999999999997,official
-2005-07,core_goods,Core goods,核心商品,-0.04,official
+2005-07,core_goods,Core goods,核心商品,-0.04000000000000001,official
 2005-07,housing,Housing,住宅,0.04,official
 2005-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000002,official
-2005-07,residual,Residual,差額,0.0035006119950979353,official
+2005-07,residual,Residual,差額,0.00350061199509788,official
 2005-08,food,Food,食物,0.0,official
 2005-08,energy_goods,Energy goods,能源商品,0.3,official
 2005-08,energy_services,Energy services,能源服務,0.040000000000000036,official
@@ -1318,31 +1318,31 @@
 2005-09,food,Food,食物,0.02,official
 2005-09,energy_goods,Energy goods,能源商品,0.66,official
 2005-09,energy_services,Energy services,能源服務,0.08999999999999997,official
-2005-09,core_goods,Core goods,核心商品,0.009999999999999915,official
+2005-09,core_goods,Core goods,核心商品,0.009999999999999898,official
 2005-09,housing,Housing,住宅,0.04,official
 2005-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000005,official
 2005-09,residual,Residual,差額,-0.004924796970025236,official
 2005-10,food,Food,食物,0.01,official
 2005-10,energy_goods,Energy goods,能源商品,-0.21,official
 2005-10,energy_services,Energy services,能源服務,0.10999999999999999,official
-2005-10,core_goods,Core goods,核心商品,0.019999999999999997,official
+2005-10,core_goods,Core goods,核心商品,0.01999999999999999,official
 2005-10,housing,Housing,住宅,0.03,official
-2005-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.20000000000000004,official
-2005-10,residual,Residual,差額,-9.041504351425811e-05,official
+2005-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.20000000000000007,official
+2005-10,residual,Residual,差額,-9.041504351428586e-05,official
 2005-11,food,Food,食物,0.03,official
 2005-11,energy_goods,Energy goods,能源商品,-0.51,official
 2005-11,energy_services,Energy services,能源服務,0.04999999999999999,official
-2005-11,core_goods,Core goods,核心商品,0.03,official
+2005-11,core_goods,Core goods,核心商品,0.030000000000000027,official
 2005-11,housing,Housing,住宅,0.04,official
-2005-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2005-11,residual,Residual,差額,-0.008871016145495403,official
+2005-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999995,official
+2005-11,residual,Residual,差額,-0.008871016145495375,official
 2005-12,food,Food,食物,0.01,official
 2005-12,energy_goods,Energy goods,能源商品,-0.05,official
 2005-12,energy_services,Energy services,能源服務,-0.05,official
-2005-12,core_goods,Core goods,核心商品,-0.019999999999999997,official
+2005-12,core_goods,Core goods,核心商品,-0.01999999999999999,official
 2005-12,housing,Housing,住宅,0.03,official
 2005-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-2005-12,residual,Residual,差額,1.734723475976807e-18,official
+2005-12,residual,Residual,差額,-1.3877787807814457e-17,official
 2006-01,food,Food,食物,0.03,official
 2006-01,energy_goods,Energy goods,能源商品,0.19,official
 2006-01,energy_services,Energy services,能源服務,0.08000000000000002,official
@@ -1353,10 +1353,10 @@
 2006-02,food,Food,食物,-0.01,official
 2006-02,energy_goods,Energy goods,能源商品,-0.04,official
 2006-02,energy_services,Energy services,能源服務,-0.030000000000000006,official
-2006-02,core_goods,Core goods,核心商品,-0.05,official
+2006-02,core_goods,Core goods,核心商品,-0.05000000000000001,official
 2006-02,housing,Housing,住宅,0.05,official
 2006-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-2006-02,residual,Residual,差額,-0.00014413292791055216,official
+2006-02,residual,Residual,差額,-0.00014413292791053134,official
 2006-03,food,Food,食物,0.01,official
 2006-03,energy_goods,Energy goods,能源商品,-0.03,official
 2006-03,energy_services,Energy services,能源服務,-0.03,official
@@ -1367,10 +1367,10 @@
 2006-04,food,Food,食物,-0.01,official
 2006-04,energy_goods,Energy goods,能源商品,0.23,official
 2006-04,energy_services,Energy services,能源服務,-0.020000000000000018,official
-2006-04,core_goods,Core goods,核心商品,0.029999999999999992,official
+2006-04,core_goods,Core goods,核心商品,0.03,official
 2006-04,housing,Housing,住宅,0.06,official
 2006-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18000000000000002,official
-2006-04,residual,Residual,差額,-0.005500202994753345,official
+2006-04,residual,Residual,差額,-0.005500202994753289,official
 2006-05,food,Food,食物,0.0,official
 2006-05,energy_goods,Energy goods,能源商品,0.06,official
 2006-05,energy_services,Energy services,能源服務,-0.009999999999999995,official
@@ -1388,52 +1388,52 @@
 2006-07,food,Food,食物,0.01,official
 2006-07,energy_goods,Energy goods,能源商品,0.25,official
 2006-07,energy_services,Energy services,能源服務,0.0,official
-2006-07,core_goods,Core goods,核心商品,-0.04,official
+2006-07,core_goods,Core goods,核心商品,-0.04000000000000001,official
 2006-07,housing,Housing,住宅,0.06,official
 2006-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
-2006-07,residual,Residual,差額,0.001732786245563278,official
+2006-07,residual,Residual,差額,0.0017327862455632226,official
 2006-08,food,Food,食物,0.02,official
 2006-08,energy_goods,Energy goods,能源商品,0.11,official
 2006-08,energy_services,Energy services,能源服務,0.009999999999999995,official
-2006-08,core_goods,Core goods,核心商品,0.019999999999999993,official
+2006-08,core_goods,Core goods,核心商品,0.020000000000000004,official
 2006-08,housing,Housing,住宅,0.05,official
-2006-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2006-08,residual,Residual,差額,0.004643286431448568,official
+2006-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10000000000000002,official
+2006-08,residual,Residual,差額,0.004643286431448512,official
 2006-09,food,Food,食物,0.02,official
 2006-09,energy_goods,Energy goods,能源商品,-0.45,official
 2006-09,energy_services,Energy services,能源服務,0.030000000000000027,official
-2006-09,core_goods,Core goods,核心商品,-0.009999999999999992,official
+2006-09,core_goods,Core goods,核心商品,-0.010000000000000009,official
 2006-09,housing,Housing,住宅,0.05,official
 2006-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999996,official
 2006-09,residual,Residual,差額,-0.001967694566811451,official
 2006-10,food,Food,食物,0.02,official
 2006-10,energy_goods,Energy goods,能源商品,-0.35,official
 2006-10,energy_services,Energy services,能源服務,-0.07,official
-2006-10,core_goods,Core goods,核心商品,-0.03000000000000001,official
+2006-10,core_goods,Core goods,核心商品,-0.030000000000000027,official
 2006-10,housing,Housing,住宅,0.06,official
-2006-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2006-10,residual,Residual,差額,0.004434288944903164,official
+2006-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13000000000000006,official
+2006-10,residual,Residual,差額,0.004434288944903109,official
 2006-11,food,Food,食物,0.0,official
 2006-11,energy_goods,Energy goods,能源商品,-0.03,official
 2006-11,energy_services,Energy services,能源服務,0.019999999999999997,official
 2006-11,core_goods,Core goods,核心商品,-0.07,official
 2006-11,housing,Housing,住宅,0.05,official
-2006-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-2006-11,residual,Residual,差額,-0.005762319661877201,official
+2006-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07000000000000002,official
+2006-11,residual,Residual,差額,-0.005762319661877208,official
 2006-12,food,Food,食物,-0.02,official
 2006-12,energy_goods,Energy goods,能源商品,0.24,official
 2006-12,energy_services,Energy services,能源服務,0.010000000000000009,official
-2006-12,core_goods,Core goods,核心商品,-0.009999999999999998,official
+2006-12,core_goods,Core goods,核心商品,-0.010000000000000009,official
 2006-12,housing,Housing,住宅,0.05,official
 2006-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08999999999999998,official
 2006-12,residual,Residual,差額,-0.004758116863951778,official
 2007-01,food,Food,食物,0.06,official
 2007-01,energy_goods,Energy goods,能源商品,-0.09,official
 2007-01,energy_services,Energy services,能源服務,0.009999999999999995,official
-2007-01,core_goods,Core goods,核心商品,0.019999999999999997,official
+2007-01,core_goods,Core goods,核心商品,0.020000000000000004,official
 2007-01,housing,Housing,住宅,0.04,official
-2007-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.29000000000000004,official
-2007-01,residual,Residual,差額,0.00399190892842155,official
+2007-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.2900000000000001,official
+2007-01,residual,Residual,差額,0.003991908928421495,official
 2007-02,food,Food,食物,0.06,official
 2007-02,energy_goods,Energy goods,能源商品,0.05,official
 2007-02,energy_services,Energy services,能源服務,0.009999999999999995,official
@@ -1444,7 +1444,7 @@
 2007-03,food,Food,食物,0.05,official
 2007-03,energy_goods,Energy goods,能源商品,0.2,official
 2007-03,energy_services,Energy services,能源服務,0.03,official
-2007-03,core_goods,Core goods,核心商品,-0.04000000000000002,official
+2007-03,core_goods,Core goods,核心商品,-0.040000000000000036,official
 2007-03,housing,Housing,住宅,0.04,official
 2007-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
 2007-03,residual,Residual,差額,-0.004264614809353584,official
@@ -1468,46 +1468,46 @@
 2007-06,core_goods,Core goods,核心商品,-0.020000000000000004,official
 2007-06,housing,Housing,住宅,0.03,official
 2007-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2007-06,residual,Residual,差額,0.0019380168160489653,official
+2007-06,residual,Residual,差額,0.0019380168160489375,official
 2007-07,food,Food,食物,0.02,official
 2007-07,energy_goods,Energy goods,能源商品,0.02,official
 2007-07,energy_services,Energy services,能源服務,-0.02,official
 2007-07,core_goods,Core goods,核心商品,-0.02,official
 2007-07,housing,Housing,住宅,0.03,official
-2007-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
-2007-07,residual,Residual,差額,0.002550012134655666,official
+2007-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
+2007-07,residual,Residual,差額,0.0025500121346556937,official
 2007-08,food,Food,食物,0.03,official
 2007-08,energy_goods,Energy goods,能源商品,-0.08,official
 2007-08,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2007-08,core_goods,Core goods,核心商品,-0.06,official
+2007-08,core_goods,Core goods,核心商品,-0.06000000000000001,official
 2007-08,housing,Housing,住宅,0.04,official
 2007-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-2007-08,residual,Residual,差額,-0.0019186254485902832,official
+2007-08,residual,Residual,差額,-0.0019186254485902554,official
 2007-09,food,Food,食物,0.02,official
 2007-09,energy_goods,Energy goods,能源商品,0.12,official
 2007-09,energy_services,Energy services,能源服務,0.010000000000000009,official
-2007-09,core_goods,Core goods,核心商品,0.009999999999999998,official
+2007-09,core_goods,Core goods,核心商品,0.010000000000000009,official
 2007-09,housing,Housing,住宅,0.04,official
 2007-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18999999999999997,official
-2007-09,residual,Residual,差額,-0.0048523985239897205,official
+2007-09,residual,Residual,差額,-0.004852398523989776,official
 2007-10,food,Food,食物,0.03,official
 2007-10,energy_goods,Energy goods,能源商品,0.03,official
 2007-10,energy_services,Energy services,能源服務,0.020000000000000004,official
 2007-10,core_goods,Core goods,核心商品,0.04000000000000001,official
 2007-10,housing,Housing,住宅,0.04,official
-2007-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-2007-10,residual,Residual,差額,-0.006739954511004453,official
+2007-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14999999999999997,official
+2007-10,residual,Residual,差額,-0.006739954511004398,official
 2007-11,food,Food,食物,0.03,official
 2007-11,energy_goods,Energy goods,能源商品,0.32,official
 2007-11,energy_services,Energy services,能源服務,0.010000000000000009,official
-2007-11,core_goods,Core goods,核心商品,0.009999999999999981,official
+2007-11,core_goods,Core goods,核心商品,0.009999999999999953,official
 2007-11,housing,Housing,住宅,0.05,official
 2007-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
-2007-11,residual,Residual,差額,0.0002457683410199696,official
+2007-11,residual,Residual,差額,0.0002457683410200806,official
 2007-12,food,Food,食物,0.01,official
 2007-12,energy_goods,Energy goods,能源商品,0.05,official
 2007-12,energy_services,Energy services,能源服務,0.0,official
-2007-12,core_goods,Core goods,核心商品,-5.204170427930421e-18,official
+2007-12,core_goods,Core goods,核心商品,-6.938893903907228e-18,official
 2007-12,housing,Housing,住宅,0.04,official
 2007-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
 2007-12,residual,Residual,差額,0.0012573335915279926,official
@@ -1528,16 +1528,16 @@
 2008-03,food,Food,食物,0.01,official
 2008-03,energy_goods,Energy goods,能源商品,0.07,official
 2008-03,energy_services,Energy services,能源服務,0.039999999999999994,official
-2008-03,core_goods,Core goods,核心商品,0.00999999999999999,official
+2008-03,core_goods,Core goods,核心商品,0.009999999999999995,official
 2008-03,housing,Housing,住宅,0.03,official
-2008-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2008-03,residual,Residual,差額,-0.0037426172750140707,official
+2008-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13000000000000003,official
+2008-03,residual,Residual,差額,-0.0037426172750141262,official
 2008-04,food,Food,食物,0.1,official
 2008-04,energy_goods,Energy goods,能源商品,-0.02,official
 2008-04,energy_services,Energy services,能源服務,0.06,official
 2008-04,core_goods,Core goods,核心商品,-0.030000000000000002,official
 2008-04,housing,Housing,住宅,0.03,official
-2008-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04000000000000001,official
+2008-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
 2008-04,residual,Residual,差額,0.005028487617766586,official
 2008-05,food,Food,食物,0.03,official
 2008-05,energy_goods,Energy goods,能源商品,0.19,official
@@ -1545,48 +1545,48 @@
 2008-05,core_goods,Core goods,核心商品,-0.03,official
 2008-05,housing,Housing,住宅,0.02,official
 2008-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2008-05,residual,Residual,差額,-0.0009411142017275442,official
+2008-05,residual,Residual,差額,-0.0009411142017275997,official
 2008-06,food,Food,食物,0.05,official
 2008-06,energy_goods,Energy goods,能源商品,0.43,official
 2008-06,energy_services,Energy services,能源服務,0.04999999999999999,official
-2008-06,core_goods,Core goods,核心商品,-1.3877787807814457e-17,official
+2008-06,core_goods,Core goods,核心商品,0.0,official
 2008-06,housing,Housing,住宅,0.04,official
 2008-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-2008-06,residual,Residual,差額,0.005498990805095749,official
+2008-06,residual,Residual,差額,0.005498990805095638,official
 2008-07,food,Food,食物,0.09,official
 2008-07,energy_goods,Energy goods,能源商品,0.15,official
 2008-07,energy_services,Energy services,能源服務,0.08000000000000002,official
 2008-07,core_goods,Core goods,核心商品,0.030000000000000027,official
 2008-07,housing,Housing,住宅,0.03,official
 2008-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-2008-07,residual,Residual,差額,-0.004661070724839178,official
+2008-07,residual,Residual,差額,-0.0046610707248391225,official
 2008-08,food,Food,食物,0.04,official
 2008-08,energy_goods,Energy goods,能源商品,-0.21,official
 2008-08,energy_services,Energy services,能源服務,-0.020000000000000018,official
-2008-08,core_goods,Core goods,核心商品,0.009999999999999988,official
+2008-08,core_goods,Core goods,核心商品,0.009999999999999981,official
 2008-08,housing,Housing,住宅,0.03,official
-2008-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07000000000000002,official
-2008-08,residual,Residual,差額,-0.0008909080835640265,official
+2008-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
+2008-08,residual,Residual,差額,-0.0008909080835640126,official
 2008-09,food,Food,食物,0.05,official
 2008-09,energy_goods,Energy goods,能源商品,0.0,official
 2008-09,energy_services,Energy services,能源服務,-0.06,official
 2008-09,core_goods,Core goods,核心商品,-0.010000000000000002,official
 2008-09,housing,Housing,住宅,0.04,official
-2008-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
-2008-09,residual,Residual,差額,0.0031743778556548446,official
+2008-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.060000000000000005,official
+2008-09,residual,Residual,差額,0.0031743778556548308,official
 2008-10,food,Food,食物,0.03,official
 2008-10,energy_goods,Energy goods,能源商品,-0.55,official
 2008-10,energy_services,Energy services,能源服務,-0.019999999999999907,official
-2008-10,core_goods,Core goods,核心商品,-0.01999999999999999,official
+2008-10,core_goods,Core goods,核心商品,-0.020000000000000018,official
 2008-10,housing,Housing,住宅,0.03,official
 2008-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.1300000000000001,official
 2008-10,residual,Residual,差額,-0.0004097643134964857,official
 2008-11,food,Food,食物,0.02,official
 2008-11,energy_goods,Energy goods,能源商品,-1.13,official
 2008-11,energy_services,Energy services,能源服務,-0.030000000000000027,official
-2008-11,core_goods,Core goods,核心商品,-0.03000000000000001,official
+2008-11,core_goods,Core goods,核心商品,-0.030000000000000027,official
 2008-11,housing,Housing,住宅,0.04,official
-2008-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.049999999999999975,official
+2008-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.05000000000000001,official
 2008-11,residual,Residual,差額,-0.00013184459737636267,official
 2008-12,food,Food,食物,0.0,official
 2008-12,energy_goods,Energy goods,能源商品,-0.51,official
@@ -1598,14 +1598,14 @@
 2009-01,food,Food,食物,-0.01,official
 2009-01,energy_goods,Energy goods,能源商品,0.06,official
 2009-01,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2009-01,core_goods,Core goods,核心商品,0.02000000000000001,official
+2009-01,core_goods,Core goods,核心商品,0.020000000000000004,official
 2009-01,housing,Housing,住宅,0.04,official
 2009-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.09,official
-2009-01,residual,Residual,差額,0.0013509954823065409,official
+2009-01,residual,Residual,差額,0.0013509954823065495,official
 2009-02,food,Food,食物,-0.02,official
 2009-02,energy_goods,Energy goods,能源商品,0.15,official
 2009-02,energy_services,Energy services,能源服務,-0.009999999999999981,official
-2009-02,core_goods,Core goods,核心商品,0.08,official
+2009-02,core_goods,Core goods,核心商品,0.07999999999999999,official
 2009-02,housing,Housing,住宅,0.02,official
 2009-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.04000000000000002,official
 2009-02,residual,Residual,差額,-0.0006746265946298569,official
@@ -1615,7 +1615,7 @@
 2009-03,core_goods,Core goods,核心商品,0.09,official
 2009-03,housing,Housing,住宅,0.03,official
 2009-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.06,official
-2009-03,residual,Residual,差額,0.00010491015791748437,official
+2009-03,residual,Residual,差額,0.00010491015791747049,official
 2009-04,food,Food,食物,-0.03,official
 2009-04,energy_goods,Energy goods,能源商品,0.02,official
 2009-04,energy_services,Energy services,能源服務,-0.04,official
@@ -1633,9 +1633,9 @@
 2009-06,food,Food,食物,0.01,official
 2009-06,energy_goods,Energy goods,能源商品,0.47,official
 2009-06,energy_services,Energy services,能源服務,0.0,official
-2009-06,core_goods,Core goods,核心商品,0.020000000000000025,official
+2009-06,core_goods,Core goods,核心商品,0.020000000000000018,official
 2009-06,housing,Housing,住宅,0.0,official
-2009-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
+2009-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999998,official
 2009-06,residual,Residual,差額,-0.006021247468512292,official
 2009-07,food,Food,食物,-0.03,official
 2009-07,energy_goods,Energy goods,能源商品,-0.02,official
@@ -1643,14 +1643,14 @@
 2009-07,core_goods,Core goods,核心商品,-0.030000000000000002,official
 2009-07,housing,Housing,住宅,0.0,official
 2009-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
-2009-07,residual,Residual,差額,0.001247075760301159,official
+2009-07,residual,Residual,差額,0.0012470757603011556,official
 2009-08,food,Food,食物,0.0,official
 2009-08,energy_goods,Energy goods,能源商品,0.16,official
 2009-08,energy_services,Energy services,能源服務,0.0,official
 2009-08,core_goods,Core goods,核心商品,-0.01999999999999999,official
 2009-08,housing,Housing,住宅,0.01,official
 2009-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
-2009-08,residual,Residual,差額,0.00014192213401292841,official
+2009-08,residual,Residual,差額,0.0001419221340128729,official
 2009-09,food,Food,食物,-0.02,official
 2009-09,energy_goods,Energy goods,能源商品,0.03,official
 2009-09,energy_services,Energy services,能源服務,0.0,official
@@ -1682,24 +1682,24 @@
 2010-01,food,Food,食物,0.01,official
 2010-01,energy_goods,Energy goods,能源商品,0.08,official
 2010-01,energy_services,Energy services,能源服務,0.0,official
-2010-01,core_goods,Core goods,核心商品,-0.01,official
+2010-01,core_goods,Core goods,核心商品,-0.009999999999999995,official
 2010-01,housing,Housing,住宅,-0.01,official
 2010-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000002,official
 2010-01,residual,Residual,差額,-0.0009626524644555379,official
 2010-02,food,Food,食物,0.01,official
 2010-02,energy_goods,Energy goods,能源商品,-0.08,official
 2010-02,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2010-02,core_goods,Core goods,核心商品,-0.01,official
+2010-02,core_goods,Core goods,核心商品,-0.009999999999999995,official
 2010-02,housing,Housing,住宅,0.0,official
-2010-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-2010-02,residual,Residual,差額,-0.0022188692642144403,official
+2010-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08999999999999998,official
+2010-02,residual,Residual,差額,-0.0022188692642144264,official
 2010-03,food,Food,食物,0.02,official
 2010-03,energy_goods,Energy goods,能源商品,-0.03,official
 2010-03,energy_services,Energy services,能源服務,0.019999999999999997,official
 2010-03,core_goods,Core goods,核心商品,-0.010000000000000002,official
 2010-03,housing,Housing,住宅,-0.01,official
-2010-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-2010-03,residual,Residual,差額,0.0009013246943313791,official
+2010-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000002,official
+2010-03,residual,Residual,差額,0.0009013246943313513,official
 2010-04,food,Food,食物,0.01,official
 2010-04,energy_goods,Energy goods,能源商品,0.0,official
 2010-04,energy_services,Energy services,能源服務,0.0,official
@@ -1713,14 +1713,14 @@
 2010-05,core_goods,Core goods,核心商品,-0.03,official
 2010-05,housing,Housing,住宅,0.01,official
 2010-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
-2010-05,residual,Residual,差額,0.0021116155464373718,official
+2010-05,residual,Residual,差額,0.0021116155464373787,official
 2010-06,food,Food,食物,-0.01,official
 2010-06,energy_goods,Energy goods,能源商品,-0.07,official
 2010-06,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2010-06,core_goods,Core goods,核心商品,-0.019999999999999997,official
+2010-06,core_goods,Core goods,核心商品,-0.020000000000000004,official
 2010-06,housing,Housing,住宅,0.01,official
-2010-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.05999999999999999,official
-2010-06,residual,Residual,差額,-0.0020637819767755083,official
+2010-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.060000000000000005,official
+2010-06,residual,Residual,差額,-0.0020637819767755153,official
 2010-07,food,Food,食物,0.0,official
 2010-07,energy_goods,Energy goods,能源商品,0.07,official
 2010-07,energy_services,Energy services,能源服務,0.009999999999999995,official
@@ -1738,7 +1738,7 @@
 2010-09,food,Food,食物,0.02,official
 2010-09,energy_goods,Energy goods,能源商品,0.04,official
 2010-09,energy_services,Energy services,能源服務,-0.010000000000000002,official
-2010-09,core_goods,Core goods,核心商品,-3.469446951953614e-18,official
+2010-09,core_goods,Core goods,核心商品,-6.938893903907228e-18,official
 2010-09,housing,Housing,住宅,0.01,official
 2010-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
 2010-09,residual,Residual,差額,-0.0005546838743763077,official
@@ -1752,16 +1752,16 @@
 2010-11,food,Food,食物,0.01,official
 2010-11,energy_goods,Energy goods,能源商品,0.09,official
 2010-11,energy_services,Energy services,能源服務,-0.01999999999999999,official
-2010-11,core_goods,Core goods,核心商品,0.010000000000000004,official
+2010-11,core_goods,Core goods,核心商品,0.010000000000000009,official
 2010-11,housing,Housing,住宅,0.02,official
 2010-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08999999999999998,official
-2010-11,residual,Residual,差額,-0.0008384590838515227,official
+2010-11,residual,Residual,差額,-0.0008384590838515504,official
 2010-12,food,Food,食物,0.01,official
 2010-12,energy_goods,Energy goods,能源商品,0.19,official
 2010-12,energy_services,Energy services,能源服務,0.010000000000000009,official
-2010-12,core_goods,Core goods,核心商品,-0.02000000000000001,official
+2010-12,core_goods,Core goods,核心商品,-0.020000000000000018,official
 2010-12,housing,Housing,住宅,0.02,official
-2010-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.019999999999999993,official
+2010-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.01999999999999998,official
 2010-12,residual,Residual,差額,-0.003780501196984698,official
 2011-01,food,Food,食物,0.05,official
 2011-01,energy_goods,Energy goods,能源商品,0.07,official
@@ -1783,35 +1783,35 @@
 2011-03,core_goods,Core goods,核心商品,-0.020000000000000018,official
 2011-03,housing,Housing,住宅,0.02,official
 2011-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000001,official
-2011-03,residual,Residual,差額,0.001973920716369759,official
+2011-03,residual,Residual,差額,0.0019739207163697037,official
 2011-04,food,Food,食物,0.03,official
 2011-04,energy_goods,Energy goods,能源商品,0.19,official
 2011-04,energy_services,Energy services,能源服務,0.010000000000000009,official
 2011-04,core_goods,Core goods,核心商品,0.05000000000000002,official
 2011-04,housing,Housing,住宅,0.02,official
 2011-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11999999999999998,official
-2011-04,residual,Residual,差額,0.004234533342016122,official
+2011-04,residual,Residual,差額,0.004234533342016067,official
 2011-05,food,Food,食物,0.03,official
 2011-05,energy_goods,Energy goods,能源商品,0.05,official
 2011-05,energy_services,Energy services,能源服務,0.009999999999999995,official
 2011-05,core_goods,Core goods,核心商品,0.05,official
 2011-05,housing,Housing,住宅,0.02,official
-2011-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-2011-05,residual,Residual,差額,0.0035967025724506496,official
+2011-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14000000000000004,official
+2011-05,residual,Residual,差額,0.003596702572450594,official
 2011-06,food,Food,食物,0.02,official
 2011-06,energy_goods,Energy goods,能源商品,-0.12,official
 2011-06,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2011-06,core_goods,Core goods,核心商品,0.019999999999999993,official
+2011-06,core_goods,Core goods,核心商品,0.01999999999999999,official
 2011-06,housing,Housing,住宅,0.02,official
 2011-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.05,official
-2011-06,residual,Residual,差額,-0.00046575755616507994,official
+2011-06,residual,Residual,差額,-0.0004657575561650834,official
 2011-07,food,Food,食物,0.03,official
 2011-07,energy_goods,Energy goods,能源商品,0.0,official
 2011-07,energy_services,Energy services,能源服務,0.01,official
 2011-07,core_goods,Core goods,核心商品,0.020000000000000004,official
 2011-07,housing,Housing,住宅,0.03,official
 2011-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-2011-07,residual,Residual,差額,0.00022376884043842638,official
+2011-07,residual,Residual,差額,0.00022376884043845413,official
 2011-08,food,Food,食物,0.04,official
 2011-08,energy_goods,Energy goods,能源商品,0.02,official
 2011-08,energy_services,Energy services,能源服務,0.0,official
@@ -1824,26 +1824,26 @@
 2011-09,energy_services,Energy services,能源服務,0.010000000000000002,official
 2011-09,core_goods,Core goods,核心商品,-0.019999999999999997,official
 2011-09,housing,Housing,住宅,0.02,official
-2011-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
+2011-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.059999999999999984,official
 2011-09,residual,Residual,差額,0.0005639727027008101,official
 2011-10,food,Food,食物,0.01,official
 2011-10,energy_goods,Energy goods,能源商品,-0.04,official
 2011-10,energy_services,Energy services,能源服務,-0.010000000000000002,official
 2011-10,core_goods,Core goods,核心商品,0.02,official
 2011-10,housing,Housing,住宅,0.03,official
-2011-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.009999999999999997,official
-2011-10,residual,Residual,差額,0.002143002560872631,official
+2011-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.009999999999999995,official
+2011-10,residual,Residual,差額,0.0021430025608726276,official
 2011-11,food,Food,食物,-0.01,official
 2011-11,energy_goods,Energy goods,能源商品,0.04,official
 2011-11,energy_services,Energy services,能源服務,-0.010000000000000002,official
-2011-11,core_goods,Core goods,核心商品,0.04000000000000001,official
+2011-11,core_goods,Core goods,核心商品,0.04,official
 2011-11,housing,Housing,住宅,0.03,official
 2011-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000002,official
 2011-11,residual,Residual,差額,-0.005347641140486081,official
 2011-12,food,Food,食物,0.02,official
 2011-12,energy_goods,Energy goods,能源商品,-0.09,official
 2011-12,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2011-12,core_goods,Core goods,核心商品,-0.010000000000000005,official
+2011-12,core_goods,Core goods,核心商品,-0.010000000000000009,official
 2011-12,housing,Housing,住宅,0.03,official
 2011-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
 2011-12,residual,Residual,差額,0.007741659538068643,official
@@ -1852,19 +1852,19 @@
 2012-01,energy_services,Energy services,能源服務,-0.009999999999999995,official
 2012-01,core_goods,Core goods,核心商品,0.04000000000000001,official
 2012-01,housing,Housing,住宅,0.03,official
-2012-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
-2012-01,residual,Residual,差額,0.001975335028976677,official
+2012-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18999999999999997,official
+2012-01,residual,Residual,差額,0.0019753350289767324,official
 2012-02,food,Food,食物,-0.01,official
 2012-02,energy_goods,Energy goods,能源商品,0.12,official
 2012-02,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2012-02,core_goods,Core goods,核心商品,5.204170427930421e-18,official
+2012-02,core_goods,Core goods,核心商品,0.0,official
 2012-02,housing,Housing,住宅,0.02,official
 2012-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
 2012-02,residual,Residual,差額,0.003656463671795257,official
 2012-03,food,Food,食物,0.02,official
 2012-03,energy_goods,Energy goods,能源商品,0.04,official
 2012-03,energy_services,Energy services,能源服務,-0.010000000000000002,official
-2012-03,core_goods,Core goods,核心商品,0.02,official
+2012-03,core_goods,Core goods,核心商品,0.019999999999999997,official
 2012-03,housing,Housing,住宅,0.03,official
 2012-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
 2012-03,residual,Residual,差額,0.001277735271611069,official
@@ -1878,17 +1878,17 @@
 2012-05,food,Food,食物,-0.01,official
 2012-05,energy_goods,Energy goods,能源商品,-0.18,official
 2012-05,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2012-05,core_goods,Core goods,核心商品,-0.010000000000000018,official
+2012-05,core_goods,Core goods,核心商品,-0.010000000000000009,official
 2012-05,housing,Housing,住宅,0.02,official
-2012-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
+2012-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07000000000000002,official
 2012-05,residual,Residual,差額,0.007721379544114351,official
 2012-06,food,Food,食物,0.01,official
 2012-06,energy_goods,Energy goods,能源商品,-0.16,official
 2012-06,energy_services,Energy services,能源服務,0.010000000000000009,official
-2012-06,core_goods,Core goods,核心商品,-0.02000000000000001,official
+2012-06,core_goods,Core goods,核心商品,-0.020000000000000018,official
 2012-06,housing,Housing,住宅,0.02,official
-2012-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08999999999999998,official
-2012-06,residual,Residual,差額,-0.0009002990392581664,official
+2012-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
+2012-06,residual,Residual,差額,-0.0009002990392581872,official
 2012-07,food,Food,食物,0.0,official
 2012-07,energy_goods,Energy goods,能源商品,-0.05,official
 2012-07,energy_services,Energy services,能源服務,0.0,official
@@ -1901,8 +1901,8 @@
 2012-08,energy_services,Energy services,能源服務,0.020000000000000018,official
 2012-08,core_goods,Core goods,核心商品,-0.04000000000000001,official
 2012-08,housing,Housing,住宅,0.03,official
-2012-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.059999999999999984,official
-2012-08,residual,Residual,差額,0.006203970812842796,official
+2012-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.05999999999999997,official
+2012-08,residual,Residual,差額,0.006203970812842852,official
 2012-09,food,Food,食物,0.0,official
 2012-09,energy_goods,Energy goods,能源商品,0.2,official
 2012-09,energy_services,Energy services,能源服務,0.0,official
@@ -1913,63 +1913,63 @@
 2012-10,food,Food,食物,0.02,official
 2012-10,energy_goods,Energy goods,能源商品,0.06,official
 2012-10,energy_services,Energy services,能源服務,0.010000000000000009,official
-2012-10,core_goods,Core goods,核心商品,0.020000000000000007,official
+2012-10,core_goods,Core goods,核心商品,0.020000000000000004,official
 2012-10,housing,Housing,住宅,0.03,official
 2012-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
 2012-10,residual,Residual,差額,-0.003876998303342427,official
 2012-11,food,Food,食物,0.01,official
 2012-11,energy_goods,Energy goods,能源商品,-0.19,official
 2012-11,energy_services,Energy services,能源服務,0.01999999999999999,official
-2012-11,core_goods,Core goods,核心商品,8.673617379884035e-18,official
+2012-11,core_goods,Core goods,核心商品,0.0,official
 2012-11,housing,Housing,住宅,0.03,official
-2012-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06000000000000001,official
-2012-11,residual,Residual,差額,0.0017040368167597214,official
+2012-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.060000000000000026,official
+2012-11,residual,Residual,差額,0.0017040368167597075,official
 2012-12,food,Food,食物,0.02,official
 2012-12,energy_goods,Energy goods,能源商品,-0.1,official
 2012-12,energy_services,Energy services,能源服務,0.0,official
-2012-12,core_goods,Core goods,核心商品,-0.039999999999999994,official
+2012-12,core_goods,Core goods,核心商品,-0.03999999999999998,official
 2012-12,housing,Housing,住宅,0.03,official
 2012-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-2012-12,residual,Residual,差額,0.004228621896975569,official
+2012-12,residual,Residual,差額,0.004228621896975551,official
 2013-01,food,Food,食物,0.01,official
 2013-01,energy_goods,Energy goods,能源商品,0.0,official
 2013-01,energy_services,Energy services,能源服務,0.01,official
 2013-01,core_goods,Core goods,核心商品,0.03,official
 2013-01,housing,Housing,住宅,0.03,official
-2013-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
+2013-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10999999999999999,official
 2013-01,residual,Residual,差額,0.00033798136582902094,official
 2013-02,food,Food,食物,0.01,official
 2013-02,energy_goods,Energy goods,能源商品,0.25,official
 2013-02,energy_services,Energy services,能源服務,0.010000000000000009,official
-2013-02,core_goods,Core goods,核心商品,-0.029999999999999992,official
+2013-02,core_goods,Core goods,核心商品,-0.03,official
 2013-02,housing,Housing,住宅,0.03,official
 2013-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
 2013-02,residual,Residual,差額,-0.004187877197576406,official
 2013-03,food,Food,食物,0.01,official
 2013-03,energy_goods,Energy goods,能源商品,-0.21,official
 2013-03,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2013-03,core_goods,Core goods,核心商品,-0.05000000000000001,official
+2013-03,core_goods,Core goods,核心商品,-0.05000000000000002,official
 2013-03,housing,Housing,住宅,0.03,official
-2013-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2013-03,residual,Residual,差額,-0.0017798648733492461,official
+2013-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999998,official
+2013-03,residual,Residual,差額,-0.0017798648733492184,official
 2013-04,food,Food,食物,0.01,official
 2013-04,energy_goods,Energy goods,能源商品,-0.18,official
 2013-04,energy_services,Energy services,能源服務,0.03,official
-2013-04,core_goods,Core goods,核心商品,-0.02000000000000001,official
+2013-04,core_goods,Core goods,核心商品,-0.020000000000000018,official
 2013-04,housing,Housing,住宅,0.03,official
 2013-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03,official
 2013-04,residual,Residual,差額,-0.0015834450402097688,official
 2013-05,food,Food,食物,-0.02,official
 2013-05,energy_goods,Energy goods,能源商品,-0.03,official
 2013-05,energy_services,Energy services,能源服務,0.019999999999999997,official
-2013-05,core_goods,Core goods,核心商品,-0.020000000000000007,official
+2013-05,core_goods,Core goods,核心商品,-0.020000000000000004,official
 2013-05,housing,Housing,住宅,0.03,official
-2013-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
+2013-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 2013-05,residual,Residual,差額,-0.0066178150978623285,official
 2013-06,food,Food,食物,0.02,official
 2013-06,energy_goods,Energy goods,能源商品,0.06,official
 2013-06,energy_services,Energy services,能源服務,0.0,official
-2013-06,core_goods,Core goods,核心商品,3.469446951953614e-18,official
+2013-06,core_goods,Core goods,核心商品,0.0,official
 2013-06,housing,Housing,住宅,0.03,official
 2013-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
 2013-06,residual,Residual,差額,0.0020802212421934807,official
@@ -1992,12 +1992,12 @@
 2013-09,energy_services,Energy services,能源服務,0.020000000000000004,official
 2013-09,core_goods,Core goods,核心商品,-0.009999999999999995,official
 2013-09,housing,Housing,住宅,0.03,official
-2013-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999999,official
-2013-09,residual,Residual,差額,0.0037800988179359923,official
+2013-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999998,official
+2013-09,residual,Residual,差額,0.0037800988179360062,official
 2013-10,food,Food,食物,0.01,official
 2013-10,energy_goods,Energy goods,能源商品,-0.02,official
 2013-10,energy_services,Energy services,能源服務,0.0,official
-2013-10,core_goods,Core goods,核心商品,-0.01,official
+2013-10,core_goods,Core goods,核心商品,-0.009999999999999998,official
 2013-10,housing,Housing,住宅,0.03,official
 2013-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
 2013-10,residual,Residual,差額,-0.007675252146370659,official
@@ -2025,10 +2025,10 @@
 2014-02,food,Food,食物,0.02,official
 2014-02,energy_goods,Energy goods,能源商品,-0.03,official
 2014-02,energy_services,Energy services,能源服務,0.019999999999999997,official
-2014-02,core_goods,Core goods,核心商品,-0.02,official
+2014-02,core_goods,Core goods,核心商品,-0.020000000000000004,official
 2014-02,housing,Housing,住宅,0.03,official
-2014-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.030000000000000006,official
-2014-02,residual,Residual,差額,-0.002387852692159423,official
+2014-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03,official
+2014-02,residual,Residual,差額,-0.002387852692159409,official
 2014-03,food,Food,食物,0.03,official
 2014-03,energy_goods,Energy goods,能源商品,-0.06,official
 2014-03,energy_services,Energy services,能源服務,0.06,official
@@ -2039,16 +2039,16 @@
 2014-04,food,Food,食物,0.02,official
 2014-04,energy_goods,Energy goods,能源商品,0.05,official
 2014-04,energy_services,Energy services,能源服務,-0.04,official
-2014-04,core_goods,Core goods,核心商品,0.009999999999999998,official
+2014-04,core_goods,Core goods,核心商品,0.009999999999999995,official
 2014-04,housing,Housing,住宅,0.04,official
 2014-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 2014-04,residual,Residual,差額,-0.002341579300721819,official
 2014-05,food,Food,食物,0.04,official
 2014-05,energy_goods,Energy goods,能源商品,-0.05,official
 2014-05,energy_services,Energy services,能源服務,0.030000000000000002,official
-2014-05,core_goods,Core goods,核心商品,1.734723475976807e-18,official
+2014-05,core_goods,Core goods,核心商品,0.0,official
 2014-05,housing,Housing,住宅,0.03,official
-2014-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
+2014-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11999999999999997,official
 2014-05,residual,Residual,差額,-0.0050294369348301005,official
 2014-06,food,Food,食物,0.0,official
 2014-06,energy_goods,Energy goods,能源商品,0.01,official
@@ -2060,7 +2060,7 @@
 2014-07,food,Food,食物,0.02,official
 2014-07,energy_goods,Energy goods,能源商品,-0.03,official
 2014-07,energy_services,Energy services,能源服務,0.0,official
-2014-07,core_goods,Core goods,核心商品,-1.734723475976807e-18,official
+2014-07,core_goods,Core goods,核心商品,0.0,official
 2014-07,housing,Housing,住宅,0.04,official
 2014-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10999999999999999,official
 2014-07,residual,Residual,差額,0.0018979363104533464,official
@@ -2070,11 +2070,11 @@
 2014-08,core_goods,Core goods,核心商品,-0.05,official
 2014-08,housing,Housing,住宅,0.03,official
 2014-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06000000000000001,official
-2014-08,residual,Residual,差額,-0.002321467076015226,official
+2014-08,residual,Residual,差額,-0.0023214670760152295,official
 2014-09,food,Food,食物,0.01,official
 2014-09,energy_goods,Energy goods,能源商品,-0.09,official
 2014-09,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2014-09,core_goods,Core goods,核心商品,0.019999999999999997,official
+2014-09,core_goods,Core goods,核心商品,0.020000000000000004,official
 2014-09,housing,Housing,住宅,0.04,official
 2014-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.060000000000000005,official
 2014-09,residual,Residual,差額,0.004915125437717799,official
@@ -2083,19 +2083,19 @@
 2014-10,energy_services,Energy services,能源服務,-0.009999999999999995,official
 2014-10,core_goods,Core goods,核心商品,0.010000000000000009,official
 2014-10,housing,Housing,住宅,0.03,official
-2014-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
-2014-10,residual,Residual,差額,0.0002298461191074519,official
+2014-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03999999999999998,official
+2014-10,residual,Residual,差額,0.00022984611910746577,official
 2014-11,food,Food,食物,0.02,official
 2014-11,energy_goods,Energy goods,能源商品,-0.18,official
 2014-11,energy_services,Energy services,能源服務,-0.010000000000000009,official
-2014-11,core_goods,Core goods,核心商品,-0.07000000000000002,official
+2014-11,core_goods,Core goods,核心商品,-0.07,official
 2014-11,housing,Housing,住宅,0.04,official
 2014-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2014-11,residual,Residual,差額,0.004501766203890353,official
+2014-11,residual,Residual,差額,0.0045017662038903394,official
 2014-12,food,Food,食物,0.02,official
 2014-12,energy_goods,Energy goods,能源商品,-0.27,official
 2014-12,energy_services,Energy services,能源服務,0.020000000000000018,official
-2014-12,core_goods,Core goods,核心商品,-0.049999999999999975,official
+2014-12,core_goods,Core goods,核心商品,-0.04999999999999999,official
 2014-12,housing,Housing,住宅,0.03,official
 2014-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999998,official
 2014-12,residual,Residual,差額,0.004238624333194718,official
@@ -2104,19 +2104,19 @@
 2015-01,energy_services,Energy services,能源服務,-0.010000000000000009,official
 2015-01,core_goods,Core goods,核心商品,-0.06,official
 2015-01,housing,Housing,住宅,0.04,official
-2015-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.009999999999999992,official
+2015-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.009999999999999974,official
 2015-01,residual,Residual,差額,0.0001812191103707228,official
 2015-02,food,Food,食物,0.01,official
 2015-02,energy_goods,Energy goods,能源商品,0.08,official
 2015-02,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2015-02,core_goods,Core goods,核心商品,0.019999999999999997,official
+2015-02,core_goods,Core goods,核心商品,0.020000000000000004,official
 2015-02,housing,Housing,住宅,0.04,official
 2015-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
-2015-02,residual,Residual,差額,-0.0030802656899784897,official
+2015-02,residual,Residual,差額,-0.0030802656899785175,official
 2015-03,food,Food,食物,-0.02,official
 2015-03,energy_goods,Energy goods,能源商品,0.1,official
 2015-03,energy_services,Energy services,能源服務,-0.020000000000000004,official
-2015-03,core_goods,Core goods,核心商品,0.009999999999999992,official
+2015-03,core_goods,Core goods,核心商品,0.009999999999999995,official
 2015-03,housing,Housing,住宅,0.04,official
 2015-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08000000000000002,official
 2015-03,residual,Residual,差額,-0.0009992254066602535,official
@@ -2126,7 +2126,7 @@
 2015-04,core_goods,Core goods,核心商品,0.030000000000000002,official
 2015-04,housing,Housing,住宅,0.04,official
 2015-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2015-04,residual,Residual,差額,-0.0013475177304977243,official
+2015-04,residual,Residual,差額,-0.0013475177304977104,official
 2015-05,food,Food,食物,0.0,official
 2015-05,energy_goods,Energy goods,能源商品,0.15,official
 2015-05,energy_services,Energy services,能源服務,-0.01999999999999999,official
@@ -2146,29 +2146,29 @@
 2015-07,energy_services,Energy services,能源服務,-0.01,official
 2015-07,core_goods,Core goods,核心商品,-0.03,official
 2015-07,housing,Housing,住宅,0.04,official
-2015-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
+2015-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999999,official
 2015-07,residual,Residual,差額,0.001267074121170747,official
 2015-08,food,Food,食物,0.01,official
 2015-08,energy_goods,Energy goods,能源商品,-0.08,official
 2015-08,energy_services,Energy services,能源服務,0.0,official
-2015-08,core_goods,Core goods,核心商品,-0.030000000000000006,official
+2015-08,core_goods,Core goods,核心商品,-0.03,official
 2015-08,housing,Housing,住宅,0.04,official
 2015-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
-2015-08,residual,Residual,差額,-0.002828236258390895,official
+2015-08,residual,Residual,差額,-0.002828236258390897,official
 2015-09,food,Food,食物,0.01,official
 2015-09,energy_goods,Energy goods,能源商品,-0.27,official
 2015-09,energy_services,Energy services,能源服務,0.0,official
-2015-09,core_goods,Core goods,核心商品,0.030000000000000006,official
+2015-09,core_goods,Core goods,核心商品,0.03,official
 2015-09,housing,Housing,住宅,0.04,official
-2015-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.060000000000000005,official
-2015-09,residual,Residual,差額,-0.008302667704781608,official
+2015-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.05999999999999998,official
+2015-09,residual,Residual,差額,-0.00830266770478158,official
 2015-10,food,Food,食物,0.01,official
 2015-10,energy_goods,Energy goods,能源商品,-0.03,official
 2015-10,energy_services,Energy services,能源服務,-0.010000000000000002,official
-2015-10,core_goods,Core goods,核心商品,-0.04,official
+2015-10,core_goods,Core goods,核心商品,-0.039999999999999994,official
 2015-10,housing,Housing,住宅,0.04,official
-2015-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.03,official
-2015-10,residual,Residual,差額,1.734723475976807e-18,official
+2015-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.030000000000000006,official
+2015-10,residual,Residual,差額,-1.3877787807814457e-17,official
 2015-11,food,Food,食物,-0.02,official
 2015-11,energy_goods,Energy goods,能源商品,0.0,official
 2015-11,energy_services,Energy services,能源服務,-0.01,official
@@ -2179,24 +2179,24 @@
 2015-12,food,Food,食物,-0.02,official
 2015-12,energy_goods,Energy goods,能源商品,-0.1,official
 2015-12,energy_services,Energy services,能源服務,-0.01999999999999999,official
-2015-12,core_goods,Core goods,核心商品,-0.02999999999999999,official
+2015-12,core_goods,Core goods,核心商品,-0.03,official
 2015-12,housing,Housing,住宅,0.04,official
 2015-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.049999999999999996,official
-2015-12,residual,Residual,差額,-0.004069798437524946,official
+2015-12,residual,Residual,差額,-0.0040697984375249185,official
 2016-01,food,Food,食物,0.0,official
 2016-01,energy_goods,Energy goods,能源商品,-0.11,official
 2016-01,energy_services,Energy services,能源服務,-0.009999999999999995,official
 2016-01,core_goods,Core goods,核心商品,-0.020000000000000004,official
 2016-01,housing,Housing,住宅,0.04,official
-2016-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-2016-01,residual,Residual,差額,0.001044163519932105,official
+2016-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14000000000000004,official
+2016-01,residual,Residual,差額,0.0010441635199320842,official
 2016-02,food,Food,食物,0.01,official
 2016-02,energy_goods,Energy goods,能源商品,-0.21,official
 2016-02,energy_services,Energy services,能源服務,0.0,official
-2016-02,core_goods,Core goods,核心商品,0.029999999999999978,official
+2016-02,core_goods,Core goods,核心商品,0.02999999999999997,official
 2016-02,housing,Housing,住宅,0.04,official
-2016-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999999,official
-2016-02,residual,Residual,差額,-0.0023098383523490126,official
+2016-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999996,official
+2016-02,residual,Residual,差額,-0.002309838352348992,official
 2016-03,food,Food,食物,-0.03,official
 2016-03,energy_goods,Energy goods,能源商品,0.14,official
 2016-03,energy_services,Energy services,能源服務,0.0,official
@@ -2228,21 +2228,21 @@
 2016-07,food,Food,食物,-0.01,official
 2016-07,energy_goods,Energy goods,能源商品,-0.12,official
 2016-07,energy_services,Energy services,能源服務,0.01999999999999999,official
-2016-07,core_goods,Core goods,核心商品,-0.030000000000000006,official
+2016-07,core_goods,Core goods,核心商品,-0.03,official
 2016-07,housing,Housing,住宅,0.04,official
-2016-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
-2016-07,residual,Residual,差額,-0.002710399186380795,official
+2016-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12000000000000002,official
+2016-07,residual,Residual,差額,-0.0027103991863808297,official
 2016-08,food,Food,食物,-0.01,official
 2016-08,energy_goods,Energy goods,能源商品,-0.02,official
 2016-08,energy_services,Energy services,能源服務,0.01,official
 2016-08,core_goods,Core goods,核心商品,0.02,official
 2016-08,housing,Housing,住宅,0.04,official
-2016-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
-2016-08,residual,Residual,差額,-0.0006902442496613259,official
+2016-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
+2016-08,residual,Residual,差額,-0.0006902442496613537,official
 2016-09,food,Food,食物,-0.01,official
 2016-09,energy_goods,Energy goods,能源商品,0.07,official
 2016-09,energy_services,Energy services,能源服務,0.009999999999999995,official
-2016-09,core_goods,Core goods,核心商品,0.029999999999999992,official
+2016-09,core_goods,Core goods,核心商品,0.029999999999999985,official
 2016-09,housing,Housing,住宅,0.05,official
 2016-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04000000000000001,official
 2016-09,residual,Residual,差額,-0.00011180048537934306,official
@@ -2256,10 +2256,10 @@
 2016-11,food,Food,食物,-0.02,official
 2016-11,energy_goods,Energy goods,能源商品,0.01,official
 2016-11,energy_services,Energy services,能源服務,0.0,official
-2016-11,core_goods,Core goods,核心商品,-0.09000000000000001,official
+2016-11,core_goods,Core goods,核心商品,-0.09,official
 2016-11,housing,Housing,住宅,0.05,official
 2016-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08,official
-2016-11,residual,Residual,差額,0.0033778371161663837,official
+2016-11,residual,Residual,差額,0.003377837116166363,official
 2016-12,food,Food,食物,-0.01,official
 2016-12,energy_goods,Energy goods,能源商品,0.08,official
 2016-12,energy_services,Energy services,能源服務,0.0,official
@@ -2270,7 +2270,7 @@
 2017-01,food,Food,食物,0.01,official
 2017-01,energy_goods,Energy goods,能源商品,0.13,official
 2017-01,energy_services,Energy services,能源服務,0.0,official
-2017-01,core_goods,Core goods,核心商品,0.060000000000000005,official
+2017-01,core_goods,Core goods,核心商品,0.06,official
 2017-01,housing,Housing,住宅,0.04,official
 2017-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
 2017-01,residual,Residual,差額,-0.006436696914334461,official
@@ -2279,15 +2279,15 @@
 2017-02,energy_services,Energy services,能源服務,0.010000000000000002,official
 2017-02,core_goods,Core goods,核心商品,0.02,official
 2017-02,housing,Housing,住宅,0.04,official
-2017-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
+2017-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999998,official
 2017-02,residual,Residual,差額,-0.004254758624837457,official
 2017-03,food,Food,食物,0.02,official
 2017-03,energy_goods,Energy goods,能源商品,-0.03,official
 2017-03,energy_services,Energy services,能源服務,0.0,official
-2017-03,core_goods,Core goods,核心商品,-0.030000000000000002,official
+2017-03,core_goods,Core goods,核心商品,-0.03,official
 2017-03,housing,Housing,住宅,0.03,official
 2017-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.04,official
-2017-03,residual,Residual,差額,-0.0012120177534991478,official
+2017-03,residual,Residual,差額,-0.0012120177534991547,official
 2017-04,food,Food,食物,0.01,official
 2017-04,energy_goods,Energy goods,能源商品,-0.01,official
 2017-04,energy_services,Energy services,能源服務,0.01,official
@@ -2300,19 +2300,19 @@
 2017-05,energy_services,Energy services,能源服務,0.009999999999999995,official
 2017-05,core_goods,Core goods,核心商品,-0.06,official
 2017-05,housing,Housing,住宅,0.04,official
-2017-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08000000000000002,official
-2017-05,residual,Residual,差額,0.006881423915777667,official
+2017-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999999,official
+2017-05,residual,Residual,差額,0.0068814239157776735,official
 2017-06,food,Food,食物,-0.01,official
 2017-06,energy_goods,Energy goods,能源商品,-0.03,official
 2017-06,energy_services,Energy services,能源服務,0.009999999999999998,official
-2017-06,core_goods,Core goods,核心商品,-0.010000000000000004,official
+2017-06,core_goods,Core goods,核心商品,-0.010000000000000002,official
 2017-06,housing,Housing,住宅,0.04,official
-2017-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
-2017-06,residual,Residual,差額,-0.005732027848558349,official
+2017-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
+2017-06,residual,Residual,差額,-0.005732027848558335,official
 2017-07,food,Food,食物,0.01,official
 2017-07,energy_goods,Energy goods,能源商品,-0.04,official
 2017-07,energy_services,Energy services,能源服務,0.0,official
-2017-07,core_goods,Core goods,核心商品,1.734723475976807e-18,official
+2017-07,core_goods,Core goods,核心商品,0.0,official
 2017-07,housing,Housing,住宅,0.04,official
 2017-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.030000000000000006,official
 2017-07,residual,Residual,差額,-0.0029132169276291087,official
@@ -2322,7 +2322,7 @@
 2017-08,core_goods,Core goods,核心商品,-0.04000000000000001,official
 2017-08,housing,Housing,住宅,0.05,official
 2017-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
-2017-08,residual,Residual,差額,0.004442151037540504,official
+2017-08,residual,Residual,差額,0.004442151037540476,official
 2017-09,food,Food,食物,0.0,official
 2017-09,energy_goods,Energy goods,能源商品,0.26,official
 2017-09,energy_services,Energy services,能源服務,0.0,official
@@ -2349,19 +2349,19 @@
 2017-12,energy_services,Energy services,能源服務,0.01,official
 2017-12,core_goods,Core goods,核心商品,-0.02,official
 2017-12,housing,Housing,住宅,0.05,official
-2017-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2017-12,residual,Residual,差額,0.005021107524212476,official
+2017-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
+2017-12,residual,Residual,差額,0.005021107524212504,official
 2018-01,food,Food,食物,0.02,official
 2018-01,energy_goods,Energy goods,能源商品,0.08,official
 2018-01,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2018-01,core_goods,Core goods,核心商品,0.07999999999999999,official
+2018-01,core_goods,Core goods,核心商品,0.08,official
 2018-01,housing,Housing,住宅,0.04,official
 2018-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17,official
 2018-01,residual,Residual,差額,-0.005078108727338493,official
 2018-02,food,Food,食物,-0.01,official
 2018-02,energy_goods,Energy goods,能源商品,0.04,official
 2018-02,energy_services,Energy services,能源服務,0.019999999999999997,official
-2018-02,core_goods,Core goods,核心商品,-1.734723475976807e-18,official
+2018-02,core_goods,Core goods,核心商品,0.0,official
 2018-02,housing,Housing,住宅,0.03,official
 2018-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
 2018-02,residual,Residual,差額,0.004428996333948526,official
@@ -2375,7 +2375,7 @@
 2018-04,food,Food,食物,0.01,official
 2018-04,energy_goods,Energy goods,能源商品,0.08,official
 2018-04,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2018-04,core_goods,Core goods,核心商品,0.029999999999999992,official
+2018-04,core_goods,Core goods,核心商品,0.03,official
 2018-04,housing,Housing,住宅,0.05,official
 2018-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999999,official
 2018-04,residual,Residual,差額,0.008367282612972371,official
@@ -2389,14 +2389,14 @@
 2018-06,food,Food,食物,0.01,official
 2018-06,energy_goods,Energy goods,能源商品,0.01,official
 2018-06,energy_services,Energy services,能源服務,-0.01,official
-2018-06,core_goods,Core goods,核心商品,-0.06,official
+2018-06,core_goods,Core goods,核心商品,-0.060000000000000005,official
 2018-06,housing,Housing,住宅,0.04,official
 2018-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
-2018-06,residual,Residual,差額,-0.003675557430292617,official
+2018-06,residual,Residual,差額,-0.003675557430292603,official
 2018-07,food,Food,食物,0.01,official
 2018-07,energy_goods,Energy goods,能源商品,-0.02,official
 2018-07,energy_services,Energy services,能源服務,0.0,official
-2018-07,core_goods,Core goods,核心商品,-0.019999999999999997,official
+2018-07,core_goods,Core goods,核心商品,-0.02,official
 2018-07,housing,Housing,住宅,0.04,official
 2018-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
 2018-07,residual,Residual,差額,0.005852257691441126,official
@@ -2406,11 +2406,11 @@
 2018-08,core_goods,Core goods,核心商品,-0.09,official
 2018-08,housing,Housing,住宅,0.04,official
 2018-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.05000000000000001,official
-2018-08,residual,Residual,差額,-0.0004855243447587365,official
+2018-08,residual,Residual,差額,-0.0004855243447587504,official
 2018-09,food,Food,食物,0.02,official
 2018-09,energy_goods,Energy goods,能源商品,0.04,official
 2018-09,energy_services,Energy services,能源服務,-0.010000000000000002,official
-2018-09,core_goods,Core goods,核心商品,-3.469446951953614e-18,official
+2018-09,core_goods,Core goods,核心商品,-6.938893903907228e-18,official
 2018-09,housing,Housing,住宅,0.03,official
 2018-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
 2018-09,residual,Residual,差額,-0.004536631183450296,official
@@ -2419,29 +2419,29 @@
 2018-10,energy_services,Energy services,能源服務,0.010000000000000002,official
 2018-10,core_goods,Core goods,核心商品,0.030000000000000006,official
 2018-10,housing,Housing,住宅,0.04,official
-2018-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999999,official
-2018-10,residual,Residual,差額,0.0028211837762838476,official
+2018-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999998,official
+2018-10,residual,Residual,差額,0.0028211837762838754,official
 2018-11,food,Food,食物,0.02,official
 2018-11,energy_goods,Energy goods,能源商品,-0.15,official
 2018-11,energy_services,Energy services,能源服務,0.0,official
-2018-11,core_goods,Core goods,核心商品,-1.0408340855860843e-17,official
+2018-11,core_goods,Core goods,核心商品,0.0,official
 2018-11,housing,Housing,住宅,0.05,official
 2018-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
 2018-11,residual,Residual,差額,0.004114722939704302,official
 2018-12,food,Food,食物,0.02,official
 2018-12,energy_goods,Energy goods,能源商品,-0.14,official
 2018-12,energy_services,Energy services,能源服務,0.04000000000000001,official
-2018-12,core_goods,Core goods,核心商品,-0.039999999999999994,official
+2018-12,core_goods,Core goods,核心商品,-0.03999999999999998,official
 2018-12,housing,Housing,住宅,0.04,official
 2018-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
-2018-12,residual,Residual,差額,0.009180551495651182,official
+2018-12,residual,Residual,差額,0.009180551495651168,official
 2019-01,food,Food,食物,0.02,official
 2019-01,energy_goods,Energy goods,能源商品,-0.17,official
 2019-01,energy_services,Energy services,能源服務,-0.01999999999999999,official
 2019-01,core_goods,Core goods,核心商品,0.08,official
 2019-01,housing,Housing,住宅,0.04,official
-2019-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,-1.0408340855860843e-17,official
-2019-01,residual,Residual,差額,-0.0016061187330163387,official
+2019-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,-2.0816681711721685e-17,official
+2019-01,residual,Residual,差額,-0.001606118733016318,official
 2019-02,food,Food,食物,0.03,official
 2019-02,energy_goods,Energy goods,能源商品,0.08,official
 2019-02,energy_services,Energy services,能源服務,0.0,official
@@ -2452,21 +2452,21 @@
 2019-03,food,Food,食物,0.01,official
 2019-03,energy_goods,Energy goods,能源商品,0.13,official
 2019-03,energy_services,Energy services,能源服務,0.010000000000000009,official
-2019-03,core_goods,Core goods,核心商品,-0.04,official
+2019-03,core_goods,Core goods,核心商品,-0.039999999999999994,official
 2019-03,housing,Housing,住宅,0.05,official
 2019-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.059999999999999984,official
-2019-03,residual,Residual,差額,0.006574351394459582,official
+2019-03,residual,Residual,差額,0.006574351394459554,official
 2019-04,food,Food,食物,-0.04,official
 2019-04,energy_goods,Energy goods,能源商品,0.15,official
 2019-04,energy_services,Energy services,能源服務,-0.009999999999999981,official
-2019-04,core_goods,Core goods,核心商品,-0.019999999999999997,official
+2019-04,core_goods,Core goods,核心商品,-0.01999999999999999,official
 2019-04,housing,Housing,住宅,0.05,official
 2019-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14999999999999997,official
 2019-04,residual,Residual,差額,0.002335134715583387,official
 2019-05,food,Food,食物,0.02,official
 2019-05,energy_goods,Energy goods,能源商品,-0.03,official
 2019-05,energy_services,Energy services,能源服務,0.0,official
-2019-05,core_goods,Core goods,核心商品,-1.734723475976807e-18,official
+2019-05,core_goods,Core goods,核心商品,0.0,official
 2019-05,housing,Housing,住宅,0.04,official
 2019-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
 2019-05,residual,Residual,差額,0.0025619195046434062,official
@@ -2496,12 +2496,12 @@
 2019-09,energy_services,Energy services,能源服務,-0.01,official
 2019-09,core_goods,Core goods,核心商品,-0.03,official
 2019-09,housing,Housing,住宅,0.04,official
-2019-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
-2019-09,residual,Residual,差額,0.0007697501687987107,official
+2019-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.060000000000000005,official
+2019-09,residual,Residual,差額,0.0007697501687987038,official
 2019-10,food,Food,食物,0.01,official
 2019-10,energy_goods,Energy goods,能源商品,0.03,official
 2019-10,energy_services,Energy services,能源服務,0.010000000000000002,official
-2019-10,core_goods,Core goods,核心商品,0.010000000000000004,official
+2019-10,core_goods,Core goods,核心商品,0.010000000000000002,official
 2019-10,housing,Housing,住宅,0.03,official
 2019-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
 2019-10,residual,Residual,差額,-0.002621537986955247,official
@@ -2517,7 +2517,7 @@
 2019-12,energy_services,Energy services,能源服務,-0.009999999999999995,official
 2019-12,core_goods,Core goods,核心商品,-0.03,official
 2019-12,housing,Housing,住宅,0.04,official
-2019-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
+2019-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18999999999999997,official
 2019-12,residual,Residual,差額,0.0020526032454095677,official
 2020-01,food,Food,食物,0.04,official
 2020-01,energy_goods,Energy goods,能源商品,-0.02,official
@@ -2529,16 +2529,16 @@
 2020-02,food,Food,食物,0.02,official
 2020-02,energy_goods,Energy goods,能源商品,-0.11,official
 2020-02,energy_services,Energy services,能源服務,0.0,official
-2020-02,core_goods,Core goods,核心商品,0.030000000000000002,official
+2020-02,core_goods,Core goods,核心商品,0.03,official
 2020-02,housing,Housing,住宅,0.03,official
 2020-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.1,official
 2020-02,residual,Residual,差額,0.0094334386065687,official
 2020-03,food,Food,食物,0.03,official
 2020-03,energy_goods,Energy goods,能源商品,-0.25,official
 2020-03,energy_services,Energy services,能源服務,0.0,official
-2020-03,core_goods,Core goods,核心商品,-0.060000000000000026,official
+2020-03,core_goods,Core goods,核心商品,-0.06000000000000005,official
 2020-03,housing,Housing,住宅,0.04,official
-2020-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.05,official
+2020-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,-0.05000000000000001,official
 2020-03,residual,Residual,差額,0.0012065255850055578,official
 2020-04,food,Food,食物,0.2,official
 2020-04,energy_goods,Energy goods,能源商品,-0.33,official
@@ -2552,8 +2552,8 @@
 2020-05,energy_services,Energy services,能源服務,-0.010000000000000002,official
 2020-05,core_goods,Core goods,核心商品,-0.07,official
 2020-05,housing,Housing,住宅,0.04,official
-2020-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11000000000000001,official
-2020-05,residual,Residual,差額,0.0001560122498412697,official
+2020-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10999999999999999,official
+2020-05,residual,Residual,差額,0.00015601224984129747,official
 2020-06,food,Food,食物,0.03,official
 2020-06,energy_goods,Energy goods,能源商品,0.15,official
 2020-06,energy_services,Energy services,能源服務,0.0,official
@@ -2573,7 +2573,7 @@
 2020-08,energy_services,Energy services,能源服務,-0.009999999999999998,official
 2020-08,core_goods,Core goods,核心商品,0.13,official
 2020-08,housing,Housing,住宅,0.02,official
-2020-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.10999999999999999,official
+2020-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.11,official
 2020-08,residual,Residual,差額,-0.000782573772681594,official
 2020-09,food,Food,食物,-0.02,official
 2020-09,energy_goods,Energy goods,能源商品,0.04,official
@@ -2587,7 +2587,7 @@
 2020-10,energy_services,Energy services,能源服務,0.01,official
 2020-10,core_goods,Core goods,核心商品,0.0,official
 2020-10,housing,Housing,住宅,0.03,official
-2020-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.049999999999999996,official
+2020-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04999999999999999,official
 2020-10,residual,Residual,差額,-0.000524762747843216,official
 2020-11,food,Food,食物,0.0,official
 2020-11,energy_goods,Energy goods,能源商品,0.01,official
@@ -2595,11 +2595,11 @@
 2020-11,core_goods,Core goods,核心商品,0.03,official
 2020-11,housing,Housing,住宅,0.01,official
 2020-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.039999999999999994,official
-2020-11,residual,Residual,差額,0.0017584236003399395,official
+2020-11,residual,Residual,差額,0.0017584236003399256,official
 2020-12,food,Food,食物,0.02,official
 2020-12,energy_goods,Energy goods,能源商品,0.15,official
 2020-12,energy_services,Energy services,能源服務,0.0,official
-2020-12,core_goods,Core goods,核心商品,0.030000000000000016,official
+2020-12,core_goods,Core goods,核心商品,0.030000000000000027,official
 2020-12,housing,Housing,住宅,0.02,official
 2020-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.2,official
 2020-12,residual,Residual,差額,-0.0010294704440491076,official
@@ -2613,31 +2613,31 @@
 2021-02,food,Food,食物,0.01,official
 2021-02,energy_goods,Energy goods,能源商品,0.1,official
 2021-02,energy_services,Energy services,能源服務,0.01999999999999999,official
-2021-02,core_goods,Core goods,核心商品,-0.030000000000000006,official
+2021-02,core_goods,Core goods,核心商品,-0.03,official
 2021-02,housing,Housing,住宅,0.04,official
-2021-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.21000000000000002,official
-2021-02,residual,Residual,差額,0.00449959930231586,official
+2021-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.21,official
+2021-02,residual,Residual,差額,0.004499599302315915,official
 2021-03,food,Food,食物,0.01,official
 2021-03,energy_goods,Energy goods,能源商品,0.16,official
 2021-03,energy_services,Energy services,能源服務,0.010000000000000009,official
-2021-03,core_goods,Core goods,核心商品,0.03999999999999999,official
+2021-03,core_goods,Core goods,核心商品,0.03999999999999998,official
 2021-03,housing,Housing,住宅,0.03,official
 2021-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.29000000000000004,official
 2021-03,residual,Residual,差額,0.003023834800493397,official
 2021-04,food,Food,食物,0.02,official
 2021-04,energy_goods,Energy goods,能源商品,-0.07,official
 2021-04,energy_services,Energy services,能源服務,0.020000000000000004,official
-2021-04,core_goods,Core goods,核心商品,0.3,official
+2021-04,core_goods,Core goods,核心商品,0.30000000000000004,official
 2021-04,housing,Housing,住宅,0.03,official
-2021-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.2,official
+2021-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19999999999999998,official
 2021-04,residual,Residual,差額,-0.0010231827993196774,official
 2021-05,food,Food,食物,0.03,official
 2021-05,energy_goods,Energy goods,能源商品,0.03,official
 2021-05,energy_services,Energy services,能源服務,0.020000000000000004,official
-2021-05,core_goods,Core goods,核心商品,0.22000000000000003,official
+2021-05,core_goods,Core goods,核心商品,0.22,official
 2021-05,housing,Housing,住宅,0.04,official
 2021-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-2021-05,residual,Residual,差額,-0.0002365345457585044,official
+2021-05,residual,Residual,差額,-0.0002365345457584489,official
 2021-06,food,Food,食物,0.05,official
 2021-06,energy_goods,Energy goods,能源商品,0.06,official
 2021-06,energy_services,Energy services,能源服務,0.010000000000000009,official
@@ -2650,8 +2650,8 @@
 2021-07,energy_services,Energy services,能源服務,0.020000000000000004,official
 2021-07,core_goods,Core goods,核心商品,0.07,official
 2021-07,housing,Housing,住宅,0.04,official
-2021-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.26,official
-2021-07,residual,Residual,差額,-0.0054043508668507045,official
+2021-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.26000000000000006,official
+2021-07,residual,Residual,差額,-0.00540435086685076,official
 2021-08,food,Food,食物,0.03,official
 2021-08,energy_goods,Energy goods,能源商品,0.06,official
 2021-08,energy_services,Energy services,能源服務,0.010000000000000009,official
@@ -2664,8 +2664,8 @@
 2021-09,energy_services,Energy services,能源服務,0.020000000000000004,official
 2021-09,core_goods,Core goods,核心商品,0.030000000000000013,official
 2021-09,housing,Housing,住宅,0.06,official
-2021-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06999999999999999,official
-2021-09,residual,Residual,差額,-0.0015664376499821553,official
+2021-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07,official
+2021-09,residual,Residual,差額,-0.0015664376499822108,official
 2021-10,food,Food,食物,0.07,official
 2021-10,energy_goods,Energy goods,能源商品,0.12,official
 2021-10,energy_services,Energy services,能源服務,0.04000000000000001,official
@@ -2686,7 +2686,7 @@
 2021-12,core_goods,Core goods,核心商品,0.15,official
 2021-12,housing,Housing,住宅,0.06,official
 2021-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.26,official
-2021-12,residual,Residual,差額,0.005991833804455671,official
+2021-12,residual,Residual,差額,0.00599183380445556,official
 2022-01,food,Food,食物,0.06,official
 2022-01,energy_goods,Energy goods,能源商品,0.01,official
 2022-01,energy_services,Energy services,能源服務,0.03,official
@@ -2704,14 +2704,14 @@
 2022-03,food,Food,食物,0.1,official
 2022-03,energy_goods,Energy goods,能源商品,0.46,official
 2022-03,energy_services,Energy services,能源服務,0.02999999999999997,official
-2022-03,core_goods,Core goods,核心商品,-0.009999999999999981,official
+2022-03,core_goods,Core goods,核心商品,-0.009999999999999953,official
 2022-03,housing,Housing,住宅,0.07,official
 2022-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.28,official
-2022-03,residual,Residual,差額,0.0005812825262326848,official
+2022-03,residual,Residual,差額,0.0005812825262325738,official
 2022-04,food,Food,食物,0.08,official
 2022-04,energy_goods,Energy goods,能源商品,-0.17,official
 2022-04,energy_services,Energy services,能源服務,0.03,official
-2022-04,core_goods,Core goods,核心商品,0.020000000000000004,official
+2022-04,core_goods,Core goods,核心商品,0.01999999999999999,official
 2022-04,housing,Housing,住宅,0.08,official
 2022-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
 2022-04,residual,Residual,差額,-0.0001551234432937143,official
@@ -2748,43 +2748,43 @@
 2022-09,energy_services,Energy services,能源服務,0.020000000000000004,official
 2022-09,core_goods,Core goods,核心商品,0.05,official
 2022-09,housing,Housing,住宅,0.12,official
-2022-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.2,official
-2022-09,residual,Residual,差額,-0.0024367965516000623,official
+2022-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.20000000000000007,official
+2022-09,residual,Residual,差額,-0.0024367965516001178,official
 2022-10,food,Food,食物,0.05,official
 2022-10,energy_goods,Energy goods,能源商品,0.13,official
 2022-10,energy_services,Energy services,能源服務,-0.020000000000000004,official
-2022-10,core_goods,Core goods,核心商品,0.009999999999999995,official
+2022-10,core_goods,Core goods,核心商品,0.010000000000000009,official
 2022-10,housing,Housing,住宅,0.1,official
-2022-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.24,official
+2022-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.24000000000000002,official
 2022-10,residual,Residual,差額,-0.0027838918393536805,official
 2022-11,food,Food,食物,0.04,official
 2022-11,energy_goods,Energy goods,能源商品,0.0,official
 2022-11,energy_services,Energy services,能源服務,-0.02,official
 2022-11,core_goods,Core goods,核心商品,-0.05,official
 2022-11,housing,Housing,住宅,0.11,official
-2022-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19000000000000003,official
-2022-11,residual,Residual,差額,0.0005636884870576786,official
+2022-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19000000000000006,official
+2022-11,residual,Residual,差額,0.0005636884870576231,official
 2022-12,food,Food,食物,0.03,official
 2022-12,energy_goods,Energy goods,能源商品,-0.23,official
 2022-12,energy_services,Energy services,能源服務,0.03,official
 2022-12,core_goods,Core goods,核心商品,0.020000000000000018,official
 2022-12,housing,Housing,住宅,0.12,official
-2022-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2022-12,residual,Residual,差額,-0.002273115605514353,official
+2022-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16000000000000003,official
+2022-12,residual,Residual,差額,-0.002273115605514381,official
 2023-01,food,Food,食物,0.02,official
 2023-01,energy_goods,Energy goods,能源商品,0.05,official
 2023-01,energy_services,Energy services,能源服務,0.039999999999999994,official
-2023-01,core_goods,Core goods,核心商品,0.1,official
+2023-01,core_goods,Core goods,核心商品,0.10000000000000002,official
 2023-01,housing,Housing,住宅,0.1,official
-2023-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
-2023-01,residual,Residual,差額,0.008153617409526914,official
+2023-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
+2023-01,residual,Residual,差額,0.008153617409526803,official
 2023-02,food,Food,食物,0.02,official
 2023-02,energy_goods,Energy goods,能源商品,-0.02,official
 2023-02,energy_services,Energy services,能源服務,-0.030000000000000002,official
 2023-02,core_goods,Core goods,核心商品,0.03,official
 2023-02,housing,Housing,住宅,0.11,official
-2023-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2023-02,residual,Residual,差額,0.004933158452306241,official
+2023-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
+2023-02,residual,Residual,差額,0.004933158452306297,official
 2023-03,food,Food,食物,-0.02,official
 2023-03,energy_goods,Energy goods,能源商品,-0.05,official
 2023-03,energy_services,Energy services,能源服務,-0.039999999999999994,official
@@ -2797,40 +2797,40 @@
 2023-04,energy_services,Energy services,能源服務,-0.019999999999999997,official
 2023-04,core_goods,Core goods,核心商品,0.03,official
 2023-04,housing,Housing,住宅,0.09,official
-2023-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16999999999999998,official
-2023-04,residual,Residual,差額,-0.0006881670067868106,official
+2023-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17,official
+2023-04,residual,Residual,差額,-0.0006881670067868662,official
 2023-05,food,Food,食物,0.01,official
 2023-05,energy_goods,Energy goods,能源商品,-0.08,official
 2023-05,energy_services,Energy services,能源服務,-0.020000000000000004,official
 2023-05,core_goods,Core goods,核心商品,0.05,official
 2023-05,housing,Housing,住宅,0.08,official
-2023-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2023-05,residual,Residual,差額,0.0026925579300398073,official
+2023-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15999999999999998,official
+2023-05,residual,Residual,差額,0.0026925579300398628,official
 2023-06,food,Food,食物,0.0,official
 2023-06,energy_goods,Energy goods,能源商品,0.01,official
 2023-06,energy_services,Energy services,能源服務,0.01,official
 2023-06,core_goods,Core goods,核心商品,-0.03,official
 2023-06,housing,Housing,住宅,0.08,official
-2023-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2023-06,residual,Residual,差額,0.003915207818258243,official
+2023-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16000000000000003,official
+2023-06,residual,Residual,差額,0.003915207818258215,official
 2023-07,food,Food,食物,0.02,official
 2023-07,energy_goods,Energy goods,能源商品,-0.01,official
 2023-07,energy_services,Energy services,能源服務,0.0,official
-2023-07,core_goods,Core goods,核心商品,-0.09,official
+2023-07,core_goods,Core goods,核心商品,-0.09000000000000001,official
 2023-07,housing,Housing,住宅,0.08,official
 2023-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
 2023-07,residual,Residual,差額,0.003709824765393388,official
 2023-08,food,Food,食物,0.01,official
 2023-08,energy_goods,Energy goods,能源商品,0.18,official
 2023-08,energy_services,Energy services,能源服務,0.010000000000000009,official
-2023-08,core_goods,Core goods,核心商品,-0.01,official
+2023-08,core_goods,Core goods,核心商品,-0.010000000000000009,official
 2023-08,housing,Housing,住宅,0.06,official
 2023-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.06,official
 2023-08,residual,Residual,差額,-0.0006387108011049469,official
 2023-09,food,Food,食物,0.01,official
 2023-09,energy_goods,Energy goods,能源商品,0.08,official
 2023-09,energy_services,Energy services,能源服務,0.0,official
-2023-09,core_goods,Core goods,核心商品,-0.01,official
+2023-09,core_goods,Core goods,核心商品,-0.009999999999999995,official
 2023-09,housing,Housing,住宅,0.08,official
 2023-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.21999999999999997,official
 2023-09,residual,Residual,差額,-0.00048551395688012366,official
@@ -2844,35 +2844,35 @@
 2023-11,food,Food,食物,-0.01,official
 2023-11,energy_goods,Energy goods,能源商品,-0.09,official
 2023-11,energy_services,Energy services,能源服務,0.009999999999999995,official
-2023-11,core_goods,Core goods,核心商品,-0.08,official
+2023-11,core_goods,Core goods,核心商品,-0.07999999999999999,official
 2023-11,housing,Housing,住宅,0.08,official
-2023-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
-2023-11,residual,Residual,差額,-0.005009913044914327,official
+2023-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16000000000000003,official
+2023-11,residual,Residual,差額,-0.005009913044914369,official
 2023-12,food,Food,食物,0.0,official
 2023-12,energy_goods,Energy goods,能源商品,-0.03,official
 2023-12,energy_services,Energy services,能源服務,0.009999999999999998,official
 2023-12,core_goods,Core goods,核心商品,-0.04000000000000001,official
 2023-12,housing,Housing,住宅,0.07,official
-2023-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999999,official
-2023-12,residual,Residual,差額,-0.008056496431975035,official
+2023-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09999999999999998,official
+2023-12,residual,Residual,差額,-0.008056496431975022,official
 2024-01,food,Food,食物,0.02,official
 2024-01,energy_goods,Energy goods,能源商品,-0.05,official
 2024-01,energy_services,Energy services,能源服務,0.020000000000000004,official
-2024-01,core_goods,Core goods,核心商品,3.469446951953614e-18,official
+2024-01,core_goods,Core goods,核心商品,0.0,official
 2024-01,housing,Housing,住宅,0.07,official
-2024-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.31,official
-2024-01,residual,Residual,差額,-0.0037056504599249918,official
+2024-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.31000000000000005,official
+2024-01,residual,Residual,差額,-0.0037056504599250473,official
 2024-02,food,Food,食物,0.02,official
 2024-02,energy_goods,Energy goods,能源商品,0.04,official
 2024-02,energy_services,Energy services,能源服務,0.010000000000000002,official
-2024-02,core_goods,Core goods,核心商品,0.04000000000000001,official
+2024-02,core_goods,Core goods,核心商品,0.04,official
 2024-02,housing,Housing,住宅,0.07,official
 2024-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
 2024-02,residual,Residual,差額,0.0030442040488934397,official
 2024-03,food,Food,食物,-0.01,official
 2024-03,energy_goods,Energy goods,能源商品,0.07,official
 2024-03,energy_services,Energy services,能源服務,0.009999999999999995,official
-2024-03,core_goods,Core goods,核心商品,0.01,official
+2024-03,core_goods,Core goods,核心商品,0.009999999999999995,official
 2024-03,housing,Housing,住宅,0.06,official
 2024-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.25,official
 2024-03,residual,Residual,差額,0.0014756184091538893,official
@@ -2881,22 +2881,22 @@
 2024-04,energy_services,Energy services,能源服務,-0.01,official
 2024-04,core_goods,Core goods,核心商品,0.02,official
 2024-04,housing,Housing,住宅,0.06,official
-2024-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000001,official
-2024-04,residual,Residual,差額,-0.0007707993143489522,official
+2024-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000002,official
+2024-04,residual,Residual,差額,-0.00077079931434898,official
 2024-05,food,Food,食物,0.0,official
 2024-05,energy_goods,Energy goods,能源商品,-0.05,official
 2024-05,energy_services,Energy services,能源服務,0.0,official
 2024-05,core_goods,Core goods,核心商品,-0.039999999999999994,official
 2024-05,housing,Housing,住宅,0.07,official
-2024-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-2024-05,residual,Residual,差額,-0.005111810461596533,official
+2024-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09000000000000002,official
+2024-05,residual,Residual,差額,-0.005111810461596561,official
 2024-06,food,Food,食物,0.01,official
 2024-06,energy_goods,Energy goods,能源商品,-0.08,official
 2024-06,energy_services,Energy services,能源服務,-0.009999999999999995,official
-2024-06,core_goods,Core goods,核心商品,-0.01,official
+2024-06,core_goods,Core goods,核心商品,-0.009999999999999995,official
 2024-06,housing,Housing,住宅,0.05,official
-2024-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-2024-06,residual,Residual,差額,-0.000572185881376655,official
+2024-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000002,official
+2024-06,residual,Residual,差額,-0.0005721858813766828,official
 2024-07,food,Food,食物,0.01,official
 2024-07,energy_goods,Energy goods,能源商品,0.0,official
 2024-07,energy_services,Energy services,能源服務,0.0,official
@@ -2914,10 +2914,10 @@
 2024-09,food,Food,食物,0.02,official
 2024-09,energy_goods,Energy goods,能源商品,-0.06,official
 2024-09,energy_services,Energy services,能源服務,0.009999999999999995,official
-2024-09,core_goods,Core goods,核心商品,0.009999999999999998,official
+2024-09,core_goods,Core goods,核心商品,0.009999999999999995,official
 2024-09,housing,Housing,住宅,0.05,official
-2024-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17,official
-2024-09,residual,Residual,差額,0.005826089062166584,official
+2024-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17000000000000004,official
+2024-09,residual,Residual,差額,0.005826089062166556,official
 2024-10,food,Food,食物,0.01,official
 2024-10,energy_goods,Energy goods,能源商品,-0.01,official
 2024-10,energy_services,Energy services,能源服務,0.01,official
@@ -2937,12 +2937,12 @@
 2024-12,energy_services,Energy services,能源服務,0.009999999999999995,official
 2024-12,core_goods,Core goods,核心商品,-0.05,official
 2024-12,housing,Housing,住宅,0.05,official
-2024-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
+2024-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000002,official
 2024-12,residual,Residual,差額,-0.004918422023642899,official
 2025-01,food,Food,食物,0.02,official
 2025-01,energy_goods,Energy goods,能源商品,0.03,official
 2025-01,energy_services,Energy services,能源服務,0.010000000000000002,official
-2025-01,core_goods,Core goods,核心商品,0.09999999999999999,official
+2025-01,core_goods,Core goods,核心商品,0.1,official
 2025-01,housing,Housing,住宅,0.05,official
 2025-01,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
 2025-01,residual,Residual,差額,0.0012449593548127802,official
@@ -2951,35 +2951,35 @@
 2025-02,energy_services,Energy services,能源服務,0.02,official
 2025-02,core_goods,Core goods,核心商品,0.07,official
 2025-02,housing,Housing,住宅,0.05,official
-2025-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16,official
+2025-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16000000000000003,official
 2025-02,residual,Residual,差額,-0.003336230197023893,official
 2025-03,food,Food,食物,0.03,official
 2025-03,energy_goods,Energy goods,能源商品,-0.08,official
 2025-03,energy_services,Energy services,能源服務,0.03,official
 2025-03,core_goods,Core goods,核心商品,-0.05,official
 2025-03,housing,Housing,住宅,0.06,official
-2025-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
-2025-03,residual,Residual,差額,-0.0012848851077417456,official
+2025-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08999999999999997,official
+2025-03,residual,Residual,差額,-0.0012848851077417178,official
 2025-04,food,Food,食物,-0.01,official
 2025-04,energy_goods,Energy goods,能源商品,-0.05,official
 2025-04,energy_services,Energy services,能源服務,0.020000000000000004,official
 2025-04,core_goods,Core goods,核心商品,0.05,official
 2025-04,housing,Housing,住宅,0.05,official
-2025-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.16999999999999998,official
-2025-04,residual,Residual,差額,0.003576178407712849,official
+2025-04,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.17000000000000004,official
+2025-04,residual,Residual,差額,0.0035761784077127934,official
 2025-05,food,Food,食物,0.01,official
 2025-05,energy_goods,Energy goods,能源商品,-0.03,official
 2025-05,energy_services,Energy services,能源服務,0.0,official
 2025-05,core_goods,Core goods,核心商品,0.06,official
 2025-05,housing,Housing,住宅,0.04,official
 2025-05,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.12,official
-2025-05,residual,Residual,差額,-0.005806773776772883,official
+2025-05,residual,Residual,差額,-0.005806773776772911,official
 2025-06,food,Food,食物,0.02,official
 2025-06,energy_goods,Energy goods,能源商品,0.0,official
 2025-06,energy_services,Energy services,能源服務,0.01,official
 2025-06,core_goods,Core goods,核心商品,0.08,official
 2025-06,housing,Housing,住宅,0.05,official
-2025-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.09,official
+2025-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.08999999999999998,official
 2025-06,residual,Residual,差額,0.004730713245998608,official
 2025-07,food,Food,食物,0.0,official
 2025-07,energy_goods,Energy goods,能源商品,-0.02,official
@@ -3000,29 +3000,29 @@
 2025-09,energy_services,Energy services,能源服務,-0.009999999999999995,official
 2025-09,core_goods,Core goods,核心商品,0.05000000000000002,official
 2025-09,housing,Housing,住宅,0.03,official
-2025-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-2025-09,residual,Residual,差額,-0.007613830180230652,official
+2025-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13999999999999999,official
+2025-09,residual,Residual,差額,-0.007613830180230596,official
 2025-10,food,Food,食物,0.0,official
 2025-10,energy_goods,Energy goods,能源商品,-0.02,official
 2025-10,energy_services,Energy services,能源服務,0.01,official
 2025-10,core_goods,Core goods,核心商品,0.0,official
 2025-10,housing,Housing,住宅,0.02,official
-2025-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14,official
-2025-10,residual,Residual,差額,-0.0018820385420058594,official
+2025-10,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14000000000000004,official
+2025-10,residual,Residual,差額,-0.0018820385420058872,official
 2025-11,food,Food,食物,0.0,official
 2025-11,energy_goods,Energy goods,能源商品,0.05,official
 2025-11,energy_services,Energy services,能源服務,0.009999999999999995,official
 2025-11,core_goods,Core goods,核心商品,-0.010000000000000002,official
 2025-11,housing,Housing,住宅,0.02,official
-2025-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
+2025-11,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13000000000000003,official
 2025-11,residual,Residual,差額,-0.000453869629879311,official
 2025-12,food,Food,食物,0.03,official
 2025-12,energy_goods,Energy goods,能源商品,-0.01,official
 2025-12,energy_services,Energy services,能源服務,0.02,official
 2025-12,core_goods,Core goods,核心商品,0.08,official
 2025-12,housing,Housing,住宅,0.05,official
-2025-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15,official
-2025-12,residual,Residual,差額,0.00019992971223931066,official
+2025-12,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.14999999999999997,official
+2025-12,residual,Residual,差額,0.00019992971223936618,official
 2026-01,food,Food,食物,0.02,official
 2026-01,energy_goods,Energy goods,能源商品,-0.07,official
 2026-01,energy_services,Energy services,能源服務,0.010000000000000009,official
@@ -3036,11 +3036,11 @@
 2026-02,core_goods,Core goods,核心商品,0.14,official
 2026-02,housing,Housing,住宅,0.03,official
 2026-02,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.13,official
-2026-02,residual,Residual,差額,-0.002295393690093517,official
+2026-02,residual,Residual,差額,-0.0022953936900934613,official
 2026-03,food,Food,食物,-0.01,official
 2026-03,energy_goods,Energy goods,能源商品,0.4,official
 2026-03,energy_services,Energy services,能源服務,0.009999999999999953,official
-2026-03,core_goods,Core goods,核心商品,0.03999999999999997,official
+2026-03,core_goods,Core goods,核心商品,0.03999999999999998,official
 2026-03,housing,Housing,住宅,0.04,official
 2026-03,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.15000000000000005,official
 2026-03,residual,Residual,差額,-0.001969093454404214,official
@@ -3061,21 +3061,28 @@
 2026-06,food,Food,食物,0.02,official
 2026-06,energy_goods,Energy goods,能源商品,-0.23,official
 2026-06,energy_services,Energy services,能源服務,-0.009999999999999981,official
-2026-06,core_goods,Core goods,核心商品,0.009999999999999998,official
+2026-06,core_goods,Core goods,核心商品,0.010000000000000009,official
 2026-06,housing,Housing,住宅,0.03,official
-2026-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999999,official
-2026-06,residual,Residual,差額,-0.0028641964020526822,official
+2026-06,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.07999999999999996,official
+2026-06,residual,Residual,差額,-0.0028641964020526545,official
 2026-07,food,Food,食物,-0.01,official
 2026-07,energy_goods,Energy goods,能源商品,-0.06,official
 2026-07,energy_services,Energy services,能源服務,0.0,official
 2026-07,core_goods,Core goods,核心商品,0.04,official
 2026-07,housing,Housing,住宅,0.04,official
-2026-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.04,official
-2026-07,residual,Residual,差額,0.00034094549449807665,official
+2026-07,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.049999999999999996,official
+2026-07,residual,Residual,差額,0.0017820694705173376,official
 2026-08,food,Food,食物,0.0,official
 2026-08,energy_goods,Energy goods,能源商品,0.09,official
 2026-08,energy_services,Energy services,能源服務,0.0,official
-2026-08,core_goods,Core goods,核心商品,0.010000000000000009,official
+2026-08,core_goods,Core goods,核心商品,0.020000000000000004,official
 2026-08,housing,Housing,住宅,0.03,official
-2026-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.18,official
-2026-08,residual,Residual,差額,0.0002796328484869215,official
+2026-08,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
+2026-08,residual,Residual,差額,-0.006797243629344807,official
+2026-09,food,Food,食物,0.0,official
+2026-09,energy_goods,Energy goods,能源商品,0.21,official
+2026-09,energy_services,Energy services,能源服務,0.0,official
+2026-09,core_goods,Core goods,核心商品,0.04000000000000001,official
+2026-09,housing,Housing,住宅,0.05,official
+2026-09,other_core_services,Core services excluding housing,核心服務（不含住宅）,0.19,official
+2026-09,residual,Residual,差額,0.000840431270944686,official

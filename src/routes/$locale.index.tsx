@@ -14,5 +14,5 @@ function Page() {
   const settings = Route.useSearch()
   const { locale } = Route.useParams()
   const navigate = Route.useNavigate()
-  return <Dashboard data={data} settings={settings} locale={locale as Locale} onChange={(change)=>void navigate({search:prev=>({...prev,...change})})} />
+  return <Dashboard data={data} settings={settings} locale={locale as Locale} onChange={(change)=>void navigate({resetScroll:false,search:prev=>({...prev,...change})})} />
 }

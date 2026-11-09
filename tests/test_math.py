@@ -19,6 +19,17 @@ class ContributionTests(unittest.TestCase):
         self.assertAlmostEqual(sum(c),g)
         self.assertGreater(c[0],0);self.assertLess(c[1],0)
 
+    def test_price_quantity_dual_allocation(self):
+        p0,p1=[100,40],[130,32]
+        q0,q1=[3,2],[2,4]
+        v0=[p*q for p,q in zip(p0,q0)];v1=[p*q for p,q in zip(p1,q1)]
+        c,g=fisher_contributions(p0,p1,v0,v1)
+        F=1+g/100
+        quantity_fisher=sum(v1)/sum(v0)/F
+        denominator=sum(v0)+sum(p*q for p,q in zip(p0,q1))/quantity_fisher
+        expected=100*(q0[0]+q1[0]/quantity_fisher)*(p1[0]-p0[0])/denominator
+        self.assertAlmostEqual(c[0],expected,12)
+
     def test_signed_deduction(self):
         c,g=fisher_contributions([100,100],[110,110],[120,-20],[132,-22])
         self.assertAlmostEqual(c[0],12)

@@ -37,7 +37,7 @@ def fisher_contributions(prices0, prices1, spending0, spending1):
     Signed expenditures permit explicit Less: branches. Normalize only rounding
     in complete, validated partitions; callers must validate total coverage.
     L=sum(s0*r); P=1/sum(s1/r); F=sqrt(L*P).
-    c_i=100*P/(F+1)*(s0_i+s1_i/r_i)*(r_i-1).
+    c_i=100*(s0_i+F*s1_i/r_i)/(1+F/P)*(r_i-1).
     Sum(c_i)=100*(F-1). This does not assert equality to BEA's full index.
     """
     arrays = (prices0, prices1, spending0, spending1)
@@ -58,5 +58,5 @@ def fisher_contributions(prices0, prices1, spending0, spending1):
         raise ValueError("Invalid signed Fisher aggregate")
     P = 1/denominator
     F = math.sqrt(L*P)
-    c = [100*P/(F+1)*(a+b/x)*(x-1) for a, b, x in zip(s0, s1, r)]
+    c = [100*(a+F*b/x)/(1+F/P)*(x-1) for a, b, x in zip(s0, s1, r)]
     return c, 100*(F-1)

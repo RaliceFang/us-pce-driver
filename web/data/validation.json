@@ -1,12 +1,120 @@
 {
-  "benchmark_observations": 15840,
+  "benchmark_observations": 15876,
   "price_spending_main_table_match": true,
-  "group_spending_match": true,
-  "leaf_count": 73,
-  "coverage_min_pct": 99.99977983261223,
-  "coverage_max_pct": 100.00010721859942,
-  "max_fisher_residual_mom_pp": 0.040842721455020325,
-  "max_official_residual_mom_pp": 0.03470106839533979,
-  "max_official_residual_yoy_pp": 0.11885721365135904,
-  "max_leaf_vs_official_major_mom_pp": 0.013271602672710603
+  "leaf_count": 245,
+  "product_row_count": 368,
+  "method": "bea_official_and_fisher",
+  "weight_period": "adjacent_months",
+  "chain": {
+    "official_monthly_ids": [
+      "2",
+      "3",
+      "72",
+      "150",
+      "151",
+      "342",
+      "343",
+      "356",
+      "153",
+      "4",
+      "23",
+      "38",
+      "62",
+      "73",
+      "104",
+      "113",
+      "120",
+      "152",
+      "172",
+      "190",
+      "209",
+      "234",
+      "252",
+      "280"
+    ],
+    "official_monthly_observations": 10584,
+    "reconstructed_max_difference_pp": 0.032383231448370214,
+    "frontier_min": 239,
+    "frontier_max": 243,
+    "quarterly_table_248": {
+      "period": "2026Q3",
+      "annualization_factor": 4.031205404203851,
+      "rows": [
+        {
+          "id": "3",
+          "official_line": 3,
+          "estimated_pp": 0.23264071003650183,
+          "official_pp": 0.23,
+          "difference_pp": 0.00264071003650182
+        },
+        {
+          "id": "4",
+          "official_line": 4,
+          "estimated_pp": 0.06506538389920738,
+          "official_pp": 0.06,
+          "difference_pp": 0.005065383899207382
+        },
+        {
+          "id": "23",
+          "official_line": 8,
+          "estimated_pp": -0.09084485559401438,
+          "official_pp": -0.09,
+          "difference_pp": -0.0008448555940143848
+        },
+        {
+          "id": "38",
+          "official_line": 13,
+          "estimated_pp": 0.297740391155493,
+          "official_pp": 0.3,
+          "difference_pp": -0.0022596088445069884
+        },
+        {
+          "id": "62",
+          "official_line": 19,
+          "estimated_pp": -0.0393202094241842,
+          "official_pp": -0.04,
+          "difference_pp": 0.0006797905758157974
+        },
+        {
+          "id": "72",
+          "official_line": 25,
+          "estimated_pp": -0.07683817398619083,
+          "official_pp": -0.07,
+          "difference_pp": -0.006838173986190826
+        },
+        {
+          "id": "113",
+          "official_line": 36,
+          "estimated_pp": -0.11518360307844519,
+          "official_pp": -0.11,
+          "difference_pp": -0.00518360307844519
+        },
+        {
+          "id": "151",
+          "official_line": 48,
+          "estimated_pp": 1.931329870629839,
+          "official_pp": 1.93,
+          "difference_pp": 0.001329870629839025
+        },
+        {
+          "id": "342",
+          "official_line": 111,
+          "estimated_pp": 0.0008989395934026173,
+          "official_pp": 0.0,
+          "difference_pp": 0.0008989395934026173
+        }
+      ],
+      "note": "Fisher reconstruction before official quarterly annual-consistency adjustments; residuals are retained."
+    }
+  },
+  "top_level_ids": [
+    "3",
+    "72",
+    "151",
+    "342"
+  ],
+  "unavailable_price_rows_latest": [
+    "157",
+    "158"
+  ]
 }

@@ -96,7 +96,7 @@ describe('Global inflation breadth',()=>{
   const scoped=getSnapshotView({...settings,month:'2026-08',range:'12',node:'3',basis:'parent',tf:'mom'})
   expect(root.breadth).toEqual(scoped.breadth)
   expect(root.breadth.total).toBe(245)
-  expect(root.breadth.months).toHaveLength(12)
+  expect(root.breadth.months).toHaveLength(source.meta.months.indexOf('2026-08')+1)
   expect(root.breadth.months.at(-1)).toBe('2026-08')
   for(const h of root.breadth.horizons)for(const p of h.points){
    expect(p.valid).toBeLessThanOrEqual(245)

@@ -45,3 +45,13 @@ python3 -m venv .venv
 目標為 Cloudflare Workers，配置在 `wrangler.jsonc`。`vite.config.ts` 中 Cloudflare plugin 位於 `tanstackStart()` 之前。Cloudflare Workers Builds 從 GitHub `main` 建置並部署。正式發布前必須將完整程式、計算模組、測試及產製資料一起提交並推送；僅本機部署會在下一次自動更新時被 GitHub 舊程式覆蓋。
 
 `.github/workflows/update.yml` 下載 BEA 來源、執行 Python 驗證，並通過 TypeScript、前端測試及正式建置後，才提交新資料。`validate.yml` 對推送與 PR 執行應用驗證。`pages.yml` 另維護歷史靜態站；正式互動網站由 Cloudflare 建置 `src/`。
+
+## 美國 PCE 通膨廣度（繁體中文）
+
+`src/features/pce/breadth.ts` 從 `chain_inputs.price` 計算 245 個最底層細項的 12、3、6 個月年化價格變動，公式為 `100 × [(P_t / P_(t-n))^(12/n) − 1]`，嚴格超過 3% 才納入分子。價格來源為季調 Table 2.4.4U。這是專案自訂廣度，非 BEA 官方廣度序列。
+
+- 等權比例：超過門檻的有效細項數／有效細項數；扣減項仍各算一票。
+- 正支出加權比例：超過門檻細項的當月正名目支出合計／所有有效細項的當月正名目支出合計。使用 Table 2.4.5U 的支出，排除負支出扣減項與零／缺失支出，分母不是 PCE 淨支出。
+- 任一起訖價格缺失、非有限數或非正值時，該細項於該期間排除，不補零；等權與加權各顯示有效項目數。
+- 廣度獨立於貢獻基準、月增／年增切換和下鑽層級。走勢沿用總覽的歷史期間與資料月份。
+- 目前僅在 `/zh-tw` 顯示；沿用使用者先前「先只調整繁體中文」的要求。

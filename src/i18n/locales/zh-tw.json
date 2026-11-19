@@ -93,5 +93,18 @@
   "sourceLocal": "母項局部 Fisher 重建",
   "chainFormula": "cᵢ,y(t) = Σⱼ₌ₜ₋₁₁ᵗ cᵢ,m(j) × I(j−1) / I(t−12)",
   "fisherFormula": "rᵢ=Pᵢ,t/Pᵢ,t−1; L=Σsᵢ,t−1rᵢ; P=1/Σ(sᵢ,t/rᵢ); F=√(LP); cᵢ=100(sᵢ,t−1+Fsᵢ,t/rᵢ)(rᵢ−1)/(1+F/P)",
-  "bottom": "最大負貢獻"
+  "bottom": "最大負貢獻",
+  "breadthTitle": "美國 PCE 通膨廣度",
+  "breadthSubtitle": "最底層細項的價格漲幅嚴格超過 3% 的比例；同時觀察細項數量與正支出加權廣度。",
+  "breadthYoy": "年增率",
+  "breadth3m": "三個月年化",
+  "breadth6m": "六個月年化",
+  "breadthEqual": "等權細項比例",
+  "breadthWeighted": "正支出加權比例",
+  "breadthCount": "超過 3%：{{above}}／{{valid}} 個有效細項（共 {{total}} 項）",
+  "breadthWeightedCount": "超過 3%：{{above}}／{{valid}} 個有效正支出細項",
+  "breadthFormula": "漲幅＝[(當月價格指數 ÷ n 個月前價格指數)^(12 ÷ n) − 1] × 100%；n 分別為 12、3、6。使用季調指數，恰好 3% 不計入。",
+  "breadthEqualNote": "等權：超過門檻的有效最底層細項數 ÷ 有效最底層細項數。扣減項亦各算一項；缺少起訖價格或指數非正值時排除，不補零。",
+  "breadthWeightedNote": "加權：超過門檻細項的當月正名目支出合計 ÷ 全部有效細項的當月正名目支出合計。排除負支出扣減項、零支出及缺少支出的項目；分母不是整體 PCE 的淨支出。",
+  "breadthScope": "廣度固定使用全體最底層細項，不隨上方的下鑽、變動率或貢獻基準切換；歷史期間與資料月份沿用總覽設定。這是本網站計算的廣度指標，並非 BEA 官方發布的廣度序列。"
 }

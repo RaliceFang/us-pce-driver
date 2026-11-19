@@ -88,3 +88,21 @@ describe('Scoped chart and heatmap histories',()=>{
    expect(root.components).toEqual(getSnapshotView({...settings,tf}).components)
   }
  })
+
+
+describe('Global inflation breadth',()=>{
+ it('keeps the same universe and breadth when drilling or changing contribution settings',()=>{
+  const root=getSnapshotView({...settings,month:'2026-08',range:'12'})
+  const scoped=getSnapshotView({...settings,month:'2026-08',range:'12',node:'3',basis:'parent',tf:'mom'})
+  expect(root.breadth).toEqual(scoped.breadth)
+  expect(root.breadth.total).toBe(245)
+  expect(root.breadth.months).toHaveLength(12)
+  expect(root.breadth.months.at(-1)).toBe('2026-08')
+  for(const h of root.breadth.horizons)for(const p of h.points){
+   expect(p.valid).toBeLessThanOrEqual(245)
+   expect(p.weightedValid).toBeLessThanOrEqual(p.valid)
+   if(p.equal!==null)expect(p.equal).toBeCloseTo(100*p.above/p.valid,10)
+   if(p.weighted!==null){expect(p.weighted).toBeGreaterThanOrEqual(0);expect(p.weighted).toBeLessThanOrEqual(100)}
+  }
+ })
+})

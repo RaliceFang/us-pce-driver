@@ -44,7 +44,7 @@ python3 -m venv .venv
 
 目標為 Cloudflare Workers，配置在 `wrangler.jsonc`。`vite.config.ts` 中 Cloudflare plugin 位於 `tanstackStart()` 之前。Cloudflare Workers Builds 從 GitHub `main` 建置並部署。正式發布前必須將完整程式、計算模組、測試及產製資料一起提交並推送；僅本機部署會在下一次自動更新時被 GitHub 舊程式覆蓋。
 
-`.github/workflows/update.yml` 下載 BEA 來源、執行 Python 驗證，並通過 TypeScript、前端測試及正式建置後，才提交新資料。`validate.yml` 對推送與 PR 執行應用驗證。`pages.yml` 另維護歷史靜態站；正式互動網站由 Cloudflare 建置 `src/`。
+`.github/workflows/update.yml` 下載 BEA 來源、執行 Python 驗證，並通過 TypeScript、前端測試及正式建置後，才提交新資料。`validate.yml` 對推送與 PR 執行應用驗證。舊版 GitHub Pages 發布流程已停用；資料更新完成後推送 `main`，由 Cloudflare Workers Builds 自動建置並發布正式網站。舊版靜態介面檔案只保留作歷史參考，不再發布。
 
 ## 美國 PCE 通膨廣度（繁體中文）
 

@@ -6,16 +6,12 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-  pages: write
-  id-token: write
 concurrency:
   group: pce-update
   cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
-    outputs:
-      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -52,7 +48,3 @@ jobs:
             git push origin HEAD:main
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
-  deploy:
-    needs: update
-    if: needs.update.outputs.changed == 'true'
-    uses: ./.github/workflows/pages.yml
